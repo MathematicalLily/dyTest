@@ -1,0 +1,4682 @@
+{
+    "1009220": {
+        "characterID": "1009220",
+        "name": "Captain America"
+    },
+    "1010740": {
+        "characterID": "1010740",
+        "name": "Winter Soldier"
+    },
+    "1009471": {
+        "characterID": "1009471",
+        "name": "Nick Fury"
+    },
+    "1009552": {
+        "characterID": "1009552",
+        "name": "S.H.I.E.L.D."
+    },
+    "1009228": {
+        "characterID": "1009228",
+        "name": "Sharon Carter"
+    },
+    "1011109": {
+        "characterID": "1011109",
+        "name": "X-Men (Ultimate)"
+    },
+    "1010808": {
+        "characterID": "1010808",
+        "name": "Hawkeye (Kate Bishop)"
+    },
+    "1009515": {
+        "characterID": "1009515",
+        "name": "Punisher"
+    },
+    "1009252": {
+        "characterID": "1009252",
+        "name": "Crossbones"
+    },
+    "1009535": {
+        "characterID": "1009535",
+        "name": "Red Skull"
+    },
+    "1010899": {
+        "characterID": "1010899",
+        "name": "Spitfire"
+    },
+    "1011010": {
+        "characterID": "1011010",
+        "name": "Spider-Man (Ultimate)"
+    },
+    "1009175": {
+        "characterID": "1009175",
+        "name": "Beast"
+    },
+    "1009243": {
+        "characterID": "1009243",
+        "name": "Colossus"
+    },
+    "1009257": {
+        "characterID": "1009257",
+        "name": "Cyclops"
+    },
+    "1009310": {
+        "characterID": "1009310",
+        "name": "Emma Frost"
+    },
+    "1009508": {
+        "characterID": "1009508",
+        "name": "Kitty Pryde"
+    },
+    "1009718": {
+        "characterID": "1009718",
+        "name": "Wolverine"
+    },
+    "1009726": {
+        "characterID": "1009726",
+        "name": "X-Men"
+    },
+    "1009359": {
+        "characterID": "1009359",
+        "name": "Hydra"
+    },
+    "1009454": {
+        "characterID": "1009454",
+        "name": "Morbius"
+    },
+    "1009610": {
+        "characterID": "1009610",
+        "name": "Spider-Man"
+    },
+    "1009368": {
+        "characterID": "1009368",
+        "name": "Iron Man"
+    },
+    "1010898": {
+        "characterID": "1010898",
+        "name": "Sin"
+    },
+    "1010676": {
+        "characterID": "1010676",
+        "name": "Colleen Wing"
+    },
+    "1010682": {
+        "characterID": "1010682",
+        "name": "Misty Knight"
+    },
+    "1009367": {
+        "characterID": "1009367",
+        "name": "Iron Fist (Danny Rand)"
+    },
+    "1009268": {
+        "characterID": "1009268",
+        "name": "Deadpool"
+    },
+    "1009270": {
+        "characterID": "1009270",
+        "name": "Deathbird"
+    },
+    "1009313": {
+        "characterID": "1009313",
+        "name": "Gambit"
+    },
+    "1009363": {
+        "characterID": "1009363",
+        "name": "Imperial Guard"
+    },
+    "1009546": {
+        "characterID": "1009546",
+        "name": "Rogue"
+    },
+    "1010338": {
+        "characterID": "1010338",
+        "name": "Captain Marvel (Carol Danvers)"
+    },
+    "1009378": {
+        "characterID": "1009378",
+        "name": "Jessica Jones"
+    },
+    "1009215": {
+        "characterID": "1009215",
+        "name": "Luke Cage"
+    },
+    "1011197": {
+        "characterID": "1011197",
+        "name": "Scarlet Spider (Ben Reilly)"
+    },
+    "1011426": {
+        "characterID": "1011426",
+        "name": "Scarlet Spider (Kaine)"
+    },
+    "1009277": {
+        "characterID": "1009277",
+        "name": "Domino"
+    },
+    "1009393": {
+        "characterID": "1009393",
+        "name": "Lady Deathstrike"
+    },
+    "1009482": {
+        "characterID": "1009482",
+        "name": "Omega Red"
+    },
+    "1009554": {
+        "characterID": "1009554",
+        "name": "Sabretooth"
+    },
+    "1009705": {
+        "characterID": "1009705",
+        "name": "Warpath"
+    },
+    "1009709": {
+        "characterID": "1009709",
+        "name": "Weapon X"
+    },
+    "1009283": {
+        "characterID": "1009283",
+        "name": "Dragon Man"
+    },
+    "1009299": {
+        "characterID": "1009299",
+        "name": "Fantastic Four"
+    },
+    "1009312": {
+        "characterID": "1009312",
+        "name": "Galactus"
+    },
+    "1009365": {
+        "characterID": "1009365",
+        "name": "Inhumans"
+    },
+    "1009592": {
+        "characterID": "1009592",
+        "name": "Silver Surfer"
+    },
+    "1009599": {
+        "characterID": "1009599",
+        "name": "Skrulls"
+    },
+    "1009168": {
+        "characterID": "1009168",
+        "name": "Banshee"
+    },
+    "1009267": {
+        "characterID": "1009267",
+        "name": "Dazzler"
+    },
+    "1009337": {
+        "characterID": "1009337",
+        "name": "Havok"
+    },
+    "1017577": {
+        "characterID": "1017577",
+        "name": "Ms. Marvel (Kamala Khan)"
+    },
+    "1010860": {
+        "characterID": "1010860",
+        "name": "Squirrel Girl"
+    },
+    "1009351": {
+        "characterID": "1009351",
+        "name": "Hulk"
+    },
+    "1009560": {
+        "characterID": "1009560",
+        "name": "Sasquatch (Walter Langkowski)"
+    },
+    "1017438": {
+        "characterID": "1017438",
+        "name": "Ara\u00f1a"
+    },
+    "1010805": {
+        "characterID": "1010805",
+        "name": "Machine Man"
+    },
+    "1010761": {
+        "characterID": "1010761",
+        "name": "Sleepwalker"
+    },
+    "1010801": {
+        "characterID": "1010801",
+        "name": "Ant-Man (Scott Lang)"
+    },
+    "1009505": {
+        "characterID": "1009505",
+        "name": "Proteus"
+    },
+    "1009512": {
+        "characterID": "1009512",
+        "name": "Psylocke"
+    },
+    "1009472": {
+        "characterID": "1009472",
+        "name": "Nightcrawler"
+    },
+    "1009430": {
+        "characterID": "1009430",
+        "name": "Rachel Grey"
+    },
+    "1009629": {
+        "characterID": "1009629",
+        "name": "Storm"
+    },
+    "1009733": {
+        "characterID": "1009733",
+        "name": "Charles Xavier"
+    },
+    "1009327": {
+        "characterID": "1009327",
+        "name": "Jean Grey"
+    },
+    "1009281": {
+        "characterID": "1009281",
+        "name": "Doctor Doom"
+    },
+    "1009466": {
+        "characterID": "1009466",
+        "name": "Namor"
+    },
+    "1009644": {
+        "characterID": "1009644",
+        "name": "T'Challa"
+    },
+    "1009282": {
+        "characterID": "1009282",
+        "name": "Doctor Strange"
+    },
+    "1010733": {
+        "characterID": "1010733",
+        "name": "Star-Lord (Peter Quill)"
+    },
+    "1009241": {
+        "characterID": "1009241",
+        "name": "Cloak"
+    },
+    "1009258": {
+        "characterID": "1009258",
+        "name": "Dagger"
+    },
+    "1011385": {
+        "characterID": "1011385",
+        "name": "Cypher"
+    },
+    "1009262": {
+        "characterID": "1009262",
+        "name": "Daredevil"
+    },
+    "1009664": {
+        "characterID": "1009664",
+        "name": "Thor"
+    },
+    "1009625": {
+        "characterID": "1009625",
+        "name": "Stepford Cuckoos"
+    },
+    "1009722": {
+        "characterID": "1009722",
+        "name": "X-23"
+    },
+    "1010354": {
+        "characterID": "1010354",
+        "name": "Adam Warlock"
+    },
+    "1009407": {
+        "characterID": "1009407",
+        "name": "Loki"
+    },
+    "1009652": {
+        "characterID": "1009652",
+        "name": "Thanos"
+    },
+    "1009356": {
+        "characterID": "1009356",
+        "name": "Human Torch"
+    },
+    "1009662": {
+        "characterID": "1009662",
+        "name": "Thing"
+    },
+    "1009381": {
+        "characterID": "1009381",
+        "name": "Jubilee"
+    },
+    "1010787": {
+        "characterID": "1010787",
+        "name": "Eddie Brock"
+    },
+    "1009404": {
+        "characterID": "1009404",
+        "name": "Lizard"
+    },
+    "1009609": {
+        "characterID": "1009609",
+        "name": "Spider-Girl (May Parker)"
+    },
+    "1009571": {
+        "characterID": "1009571",
+        "name": "Sentry (Robert Reynolds)"
+    },
+    "1009204": {
+        "characterID": "1009204",
+        "name": "Bloodstorm"
+    },
+    "1009417": {
+        "characterID": "1009417",
+        "name": "Magneto"
+    },
+    "1013483": {
+        "characterID": "1013483",
+        "name": "Nakia (Nakia)"
+    },
+    "1017583": {
+        "characterID": "1017583",
+        "name": "Devil Dinosaur (Devil Dinosaur)"
+    },
+    "1009332": {
+        "characterID": "1009332",
+        "name": "H.E.R.B.I.E."
+    },
+    "1009297": {
+        "characterID": "1009297",
+        "name": "Falcon"
+    },
+    "1009399": {
+        "characterID": "1009399",
+        "name": "Legion"
+    },
+    "1009165": {
+        "characterID": "1009165",
+        "name": "Avengers"
+    },
+    "1010813": {
+        "characterID": "1010813",
+        "name": "Celestials"
+    },
+    "1009376": {
+        "characterID": "1009376",
+        "name": "Jocasta"
+    },
+    "1009189": {
+        "characterID": "1009189",
+        "name": "Black Widow"
+    },
+    "1011299": {
+        "characterID": "1011299",
+        "name": "Guardians of the Galaxy"
+    },
+    "1011490": {
+        "characterID": "1011490",
+        "name": "Hank Pym"
+    },
+    "1009214": {
+        "characterID": "1009214",
+        "name": "Cable"
+    },
+    "1009265": {
+        "characterID": "1009265",
+        "name": "Dark Phoenix"
+    },
+    "1010747": {
+        "characterID": "1010747",
+        "name": "Runaways"
+    },
+    "1011001": {
+        "characterID": "1011001",
+        "name": "Daken"
+    },
+    "1009406": {
+        "characterID": "1009406",
+        "name": "Lockjaw"
+    },
+    "1009338": {
+        "characterID": "1009338",
+        "name": "Hawkeye"
+    },
+    "1009478": {
+        "characterID": "1009478",
+        "name": "Cassandra Nova"
+    },
+    "1011223": {
+        "characterID": "1011223",
+        "name": "Skaar"
+    },
+    "1011227": {
+        "characterID": "1011227",
+        "name": "Amadeus Cho"
+    },
+    "1017078": {
+        "characterID": "1017078",
+        "name": "Nova (Sam Alexander)"
+    },
+    "1016181": {
+        "characterID": "1016181",
+        "name": "Spider-Man (Miles Morales)"
+    },
+    "1009447": {
+        "characterID": "1009447",
+        "name": "Mister Sinister"
+    },
+    "1010359": {
+        "characterID": "1010359",
+        "name": "The Hand"
+    },
+    "1009524": {
+        "characterID": "1009524",
+        "name": "Quicksilver"
+    },
+    "1009562": {
+        "characterID": "1009562",
+        "name": "Scarlet Witch"
+    },
+    "1009274": {
+        "characterID": "1009274",
+        "name": "Diamondback (Rachel Leighton)"
+    },
+    "1009577": {
+        "characterID": "1009577",
+        "name": "Shang-Chi"
+    },
+    "1009212": {
+        "characterID": "1009212",
+        "name": "Bullseye"
+    },
+    "1009197": {
+        "characterID": "1009197",
+        "name": "Blink"
+    },
+    "1009294": {
+        "characterID": "1009294",
+        "name": "Exiles"
+    },
+    "1010704": {
+        "characterID": "1010704",
+        "name": "Iron Lad"
+    },
+    "1010763": {
+        "characterID": "1010763",
+        "name": "Gamora"
+    },
+    "1009480": {
+        "characterID": "1009480",
+        "name": "Odin"
+    },
+    "1009389": {
+        "characterID": "1009389",
+        "name": "Kingpin"
+    },
+    "1011020": {
+        "characterID": "1011020",
+        "name": "Darkhawk"
+    },
+    "1011336": {
+        "characterID": "1011336",
+        "name": "New Mutants"
+    },
+    "1009391": {
+        "characterID": "1009391",
+        "name": "Kraven the Hunter"
+    },
+    "1011023": {
+        "characterID": "1011023",
+        "name": "Defenders"
+    },
+    "1009280": {
+        "characterID": "1009280",
+        "name": "Dormammu"
+    },
+    "1009473": {
+        "characterID": "1009473",
+        "name": "Nightmare"
+    },
+    "1009707": {
+        "characterID": "1009707",
+        "name": "Wasp"
+    },
+    "1009224": {
+        "characterID": "1009224",
+        "name": "Captain Marvel (Mar-Vell)"
+    },
+    "1009229": {
+        "characterID": "1009229",
+        "name": "Frank Castle"
+    },
+    "1009639": {
+        "characterID": "1009639",
+        "name": "Super-Skrull"
+    },
+    "1009440": {
+        "characterID": "1009440",
+        "name": "Mephisto"
+    },
+    "1011060": {
+        "characterID": "1011060",
+        "name": "Ego"
+    },
+    "1009632": {
+        "characterID": "1009632",
+        "name": "Stryfe"
+    },
+    "1011030": {
+        "characterID": "1011030",
+        "name": "Prodigy"
+    },
+    "1011348": {
+        "characterID": "1011348",
+        "name": "Ricochet"
+    },
+    "1009504": {
+        "characterID": "1009504",
+        "name": "Professor X"
+    },
+    "1010324": {
+        "characterID": "1010324",
+        "name": "Victor Von Doom"
+    },
+    "1009420": {
+        "characterID": "1009420",
+        "name": "Man-Thing"
+    },
+    "1010861": {
+        "characterID": "1010861",
+        "name": "Scarecrow (Ebenezer Laughton)"
+    },
+    "1009187": {
+        "characterID": "1009187",
+        "name": "Black Panther"
+    },
+    "1009239": {
+        "characterID": "1009239",
+        "name": "Clea"
+    },
+    "1009390": {
+        "characterID": "1009390",
+        "name": "Klaw"
+    },
+    "1009167": {
+        "characterID": "1009167",
+        "name": "Bruce Banner"
+    },
+    "1017576": {
+        "characterID": "1017576",
+        "name": "Thor (Goddess of Thunder)"
+    },
+    "1010756": {
+        "characterID": "1010756",
+        "name": "Champions"
+    },
+    "1010701": {
+        "characterID": "1010701",
+        "name": "Elsa Bloodstone"
+    },
+    "1009303": {
+        "characterID": "1009303",
+        "name": "Fin Fang Foom"
+    },
+    "1011285": {
+        "characterID": "1011285",
+        "name": "Generation X"
+    },
+    "1009387": {
+        "characterID": "1009387",
+        "name": "Quentin Quire"
+    },
+    "1009185": {
+        "characterID": "1009185",
+        "name": "Black Cat"
+    },
+    "1011367": {
+        "characterID": "1011367",
+        "name": "Dark Avengers"
+    },
+    "1009708": {
+        "characterID": "1009708",
+        "name": "Mary Jane Watson"
+    },
+    "1009325": {
+        "characterID": "1009325",
+        "name": "Norman Osborn"
+    },
+    "1011300": {
+        "characterID": "1011300",
+        "name": "High Evolutionary"
+    },
+    "1009697": {
+        "characterID": "1009697",
+        "name": "Vision"
+    },
+    "1009719": {
+        "characterID": "1009719",
+        "name": "Wonder Man"
+    },
+    "1011298": {
+        "characterID": "1011298",
+        "name": "Armor (Hisako Ichiki)"
+    },
+    "1016825": {
+        "characterID": "1016825",
+        "name": "Ultimate Spider-Man (USM)"
+    },
+    "1009153": {
+        "characterID": "1009153",
+        "name": "Angel (Warren Worthington III)"
+    },
+    "1009362": {
+        "characterID": "1009362",
+        "name": "Iceman"
+    },
+    "1009573": {
+        "characterID": "1009573",
+        "name": "Shadow King"
+    },
+    "1009256": {
+        "characterID": "1009256",
+        "name": "Cyber"
+    },
+    "1009385": {
+        "characterID": "1009385",
+        "name": "Karnak"
+    },
+    "1009415": {
+        "characterID": "1009415",
+        "name": "Magik (Illyana Rasputin)"
+    },
+    "1014528": {
+        "characterID": "1014528",
+        "name": "Quake (Daisy Johnson)"
+    },
+    "1010329": {
+        "characterID": "1010329",
+        "name": "Jane Foster"
+    },
+    "1009180": {
+        "characterID": "1009180",
+        "name": "Beta-Ray Bill"
+    },
+    "1011428": {
+        "characterID": "1011428",
+        "name": "Hope Summers"
+    },
+    "1011305": {
+        "characterID": "1011305",
+        "name": "Maximus"
+    },
+    "1009487": {
+        "characterID": "1009487",
+        "name": "Iron Patriot"
+    },
+    "1009372": {
+        "characterID": "1009372",
+        "name": "J. Jonah Jameson"
+    },
+    "1009699": {
+        "characterID": "1009699",
+        "name": "Vulture (Adrian Toomes)"
+    },
+    "1009190": {
+        "characterID": "1009190",
+        "name": "Blackheart"
+    },
+    "1017574": {
+        "characterID": "1017574",
+        "name": "Angela (Aldrif Odinsdottir)"
+    },
+    "1009663": {
+        "characterID": "1009663",
+        "name": "Venom (Flash Thompson)"
+    },
+    "1011346": {
+        "characterID": "1011346",
+        "name": "Ben Reilly"
+    },
+    "1011288": {
+        "characterID": "1011288",
+        "name": "Jackal"
+    },
+    "1009408": {
+        "characterID": "1009408",
+        "name": "Longshot"
+    },
+    "1009580": {
+        "characterID": "1009580",
+        "name": "Shatterstar"
+    },
+    "1009195": {
+        "characterID": "1009195",
+        "name": "Blastaar"
+    },
+    "1010799": {
+        "characterID": "1010799",
+        "name": "Frightful Four"
+    },
+    "1010744": {
+        "characterID": "1010744",
+        "name": "Rocket Raccoon"
+    },
+    "1009398": {
+        "characterID": "1009398",
+        "name": "Leader"
+    },
+    "1009583": {
+        "characterID": "1009583",
+        "name": "She-Hulk (Jennifer Walters)"
+    },
+    "1009170": {
+        "characterID": "1009170",
+        "name": "Baron Zemo (Heinrich Zemo)"
+    },
+    "1009211": {
+        "characterID": "1009211",
+        "name": "Bucky"
+    },
+    "1009685": {
+        "characterID": "1009685",
+        "name": "Ultron"
+    },
+    "1011104": {
+        "characterID": "1011104",
+        "name": "Pride"
+    },
+    "1009172": {
+        "characterID": "1009172",
+        "name": "Batroc the Leaper"
+    },
+    "1010735": {
+        "characterID": "1010735",
+        "name": "Drax"
+    },
+    "1009477": {
+        "characterID": "1009477",
+        "name": "Nova"
+    },
+    "1009144": {
+        "characterID": "1009144",
+        "name": "A.I.M."
+    },
+    "1011312": {
+        "characterID": "1011312",
+        "name": "Korvac"
+    },
+    "1010726": {
+        "characterID": "1010726",
+        "name": "M.O.D.O.K."
+    },
+    "1009483": {
+        "characterID": "1009483",
+        "name": "Onslaught"
+    },
+    "1011101": {
+        "characterID": "1011101",
+        "name": "Butterfly"
+    },
+    "1011016": {
+        "characterID": "1011016",
+        "name": "Darwin"
+    },
+    "1011068": {
+        "characterID": "1011068",
+        "name": "M (Monet St. Croix)"
+    },
+    "1009413": {
+        "characterID": "1009413",
+        "name": "Madrox"
+    },
+    "1009499": {
+        "characterID": "1009499",
+        "name": "Polaris"
+    },
+    "1009542": {
+        "characterID": "1009542",
+        "name": "Rictor"
+    },
+    "1009717": {
+        "characterID": "1009717",
+        "name": "Wolfsbane"
+    },
+    "1010739": {
+        "characterID": "1010739",
+        "name": "X-Factor Investigations"
+    },
+    "1010366": {
+        "characterID": "1010366",
+        "name": "Boom Boom"
+    },
+    "1009309": {
+        "characterID": "1009309",
+        "name": "Forge"
+    },
+    "1011086": {
+        "characterID": "1011086",
+        "name": "Nemesis"
+    },
+    "1009724": {
+        "characterID": "1009724",
+        "name": "X-Force"
+    },
+    "1009538": {
+        "characterID": "1009538",
+        "name": "Iron Patriot (James Rhodes)"
+    },
+    "1009494": {
+        "characterID": "1009494",
+        "name": "Pepper Potts"
+    },
+    "1009692": {
+        "characterID": "1009692",
+        "name": "Toxin (Eddie Brock)"
+    },
+    "1009184": {
+        "characterID": "1009184",
+        "name": "Black Bolt"
+    },
+    "1009459": {
+        "characterID": "1009459",
+        "name": "Mr. Fantastic"
+    },
+    "1009182": {
+        "characterID": "1009182",
+        "name": "Bishop"
+    },
+    "1009301": {
+        "characterID": "1009301",
+        "name": "Fantomex"
+    },
+    "1009513": {
+        "characterID": "1009513",
+        "name": "Puck"
+    },
+    "1009614": {
+        "characterID": "1009614",
+        "name": "Spiral (Rita Wayword)"
+    },
+    "1009578": {
+        "characterID": "1009578",
+        "name": "Shanna the She-Devil"
+    },
+    "1016452": {
+        "characterID": "1016452",
+        "name": "Spider-Man (Ai Apaec)"
+    },
+    "1009631": {
+        "characterID": "1009631",
+        "name": "Sue Storm"
+    },
+    "1009682": {
+        "characterID": "1009682",
+        "name": "U.S. Agent"
+    },
+    "1009740": {
+        "characterID": "1009740",
+        "name": "Arnim Zola"
+    },
+    "1010803": {
+        "characterID": "1010803",
+        "name": "Ultimates"
+    },
+    "1011006": {
+        "characterID": "1011006",
+        "name": "Wolverine (Ultimate)"
+    },
+    "1011335": {
+        "characterID": "1011335",
+        "name": "Maria Hill"
+    },
+    "1009148": {
+        "characterID": "1009148",
+        "name": "Absorbing Man"
+    },
+    "1009405": {
+        "characterID": "1009405",
+        "name": "Lockheed"
+    },
+    "1009608": {
+        "characterID": "1009608",
+        "name": "Spider-Woman (Jessica Drew)"
+    },
+    "1009539": {
+        "characterID": "1009539",
+        "name": "Franklin Richards"
+    },
+    "1009525": {
+        "characterID": "1009525",
+        "name": "Valeria Richards"
+    },
+    "1009588": {
+        "characterID": "1009588",
+        "name": "Sif"
+    },
+    "1009384": {
+        "characterID": "1009384",
+        "name": "Kang"
+    },
+    "1011297": {
+        "characterID": "1011297",
+        "name": "Agent Brand"
+    },
+    "1009675": {
+        "characterID": "1009675",
+        "name": "Tombstone"
+    },
+    "1011056": {
+        "characterID": "1011056",
+        "name": "Multiple Man"
+    },
+    "1011035": {
+        "characterID": "1011035",
+        "name": "Satana"
+    },
+    "1009223": {
+        "characterID": "1009223",
+        "name": "Captain Britain"
+    },
+    "1010771": {
+        "characterID": "1010771",
+        "name": "Excalibur"
+    },
+    "1009156": {
+        "characterID": "1009156",
+        "name": "Apocalypse"
+    },
+    "1009636": {
+        "characterID": "1009636",
+        "name": "Sunfire"
+    },
+    "1009536": {
+        "characterID": "1009536",
+        "name": "Cecilia Reyes"
+    },
+    "1011386": {
+        "characterID": "1011386",
+        "name": "Karma"
+    },
+    "1009465": {
+        "characterID": "1009465",
+        "name": "Mystique"
+    },
+    "1009476": {
+        "characterID": "1009476",
+        "name": "Northstar"
+    },
+    "1009703": {
+        "characterID": "1009703",
+        "name": "Warbird"
+    },
+    "1009276": {
+        "characterID": "1009276",
+        "name": "Doctor Octopus"
+    },
+    "1010809": {
+        "characterID": "1010809",
+        "name": "Clint Barton"
+    },
+    "1009427": {
+        "characterID": "1009427",
+        "name": "Marvel Boy"
+    },
+    "1011424": {
+        "characterID": "1011424",
+        "name": "Miss America"
+    },
+    "1009714": {
+        "characterID": "1009714",
+        "name": "Wiccan"
+    },
+    "1010698": {
+        "characterID": "1010698",
+        "name": "Young Avengers"
+    },
+    "1009495": {
+        "characterID": "1009495",
+        "name": "Pestilence"
+    },
+    "1009626": {
+        "characterID": "1009626",
+        "name": "Stick"
+    },
+    "1009670": {
+        "characterID": "1009670",
+        "name": "Tigra (Greer Nelson)"
+    },
+    "1011052": {
+        "characterID": "1011052",
+        "name": "Cardiac"
+    },
+    "1010969": {
+        "characterID": "1010969",
+        "name": "Sabretooth (Age of Apocalypse)"
+    },
+    "1010743": {
+        "characterID": "1010743",
+        "name": "Groot"
+    },
+    "1010907": {
+        "characterID": "1010907",
+        "name": "Dark Beast"
+    },
+    "1009343": {
+        "characterID": "1009343",
+        "name": "Hercules"
+    },
+    "1010777": {
+        "characterID": "1010777",
+        "name": "James Howlett"
+    },
+    "1009555": {
+        "characterID": "1009555",
+        "name": "Sage"
+    },
+    "1011291": {
+        "characterID": "1011291",
+        "name": "Blindfold"
+    },
+    "1011051": {
+        "characterID": "1011051",
+        "name": "Strong Guy"
+    },
+    "1011242": {
+        "characterID": "1011242",
+        "name": "Screwball"
+    },
+    "1009720": {
+        "characterID": "1009720",
+        "name": "Wong"
+    },
+    "1011323": {
+        "characterID": "1011323",
+        "name": "Sentinels"
+    },
+    "1009470": {
+        "characterID": "1009470",
+        "name": "Foggy Nelson"
+    },
+    "1009648": {
+        "characterID": "1009648",
+        "name": "Taskmaster"
+    },
+    "1009452": {
+        "characterID": "1009452",
+        "name": "Moon Knight"
+    },
+    "1009279": {
+        "characterID": "1009279",
+        "name": "Doop"
+    },
+    "1011027": {
+        "characterID": "1011027",
+        "name": "Captain Universe"
+    },
+    "1010890": {
+        "characterID": "1010890",
+        "name": "Deathlok"
+    },
+    "1010746": {
+        "characterID": "1010746",
+        "name": "Nico Minoru"
+    },
+    "1011376": {
+        "characterID": "1011376",
+        "name": "Reptil"
+    },
+    "1010802": {
+        "characterID": "1010802",
+        "name": "Ant-Man (Eric O'Grady)"
+    },
+    "1009209": {
+        "characterID": "1009209",
+        "name": "Brotherhood of Evil Mutants"
+    },
+    "1009233": {
+        "characterID": "1009233",
+        "name": "Chamber"
+    },
+    "1011179": {
+        "characterID": "1011179",
+        "name": "Pixie"
+    },
+    "1009627": {
+        "characterID": "1009627",
+        "name": "Stilt-Man (Wibur Day)"
+    },
+    "1010935": {
+        "characterID": "1010935",
+        "name": "Iron Man (Ultimate)"
+    },
+    "1009624": {
+        "characterID": "1009624",
+        "name": "Tony Stark"
+    },
+    "1009261": {
+        "characterID": "1009261",
+        "name": "Carol Danvers"
+    },
+    "1009181": {
+        "characterID": "1009181",
+        "name": "Big Wheel"
+    },
+    "1010371": {
+        "characterID": "1010371",
+        "name": "Boomerang"
+    },
+    "1009585": {
+        "characterID": "1009585",
+        "name": "Shocker (Herman Schultz)"
+    },
+    "1011032": {
+        "characterID": "1011032",
+        "name": "Speed Demon"
+    },
+    "1010758": {
+        "characterID": "1010758",
+        "name": "Illuminati"
+    },
+    "1009616": {
+        "characterID": "1009616",
+        "name": "Spot"
+    },
+    "1009191": {
+        "characterID": "1009191",
+        "name": "Blade"
+    },
+    "1010719": {
+        "characterID": "1010719",
+        "name": "Daimon Hellstrom"
+    },
+    "1009318": {
+        "characterID": "1009318",
+        "name": "Ghost Rider (Johnny Blaze)"
+    },
+    "1009159": {
+        "characterID": "1009159",
+        "name": "Archangel"
+    },
+    "1010906": {
+        "characterID": "1010906",
+        "name": "Baron Zemo (Helmut Zemo)"
+    },
+    "1011307": {
+        "characterID": "1011307",
+        "name": "Star Brand"
+    },
+    "1010785": {
+        "characterID": "1010785",
+        "name": "Echo"
+    },
+    "1009208": {
+        "characterID": "1009208",
+        "name": "Brood"
+    },
+    "1010738": {
+        "characterID": "1010738",
+        "name": "X-Factor"
+    },
+    "1009590": {
+        "characterID": "1009590",
+        "name": "Silver Sable"
+    },
+    "1009568": {
+        "characterID": "1009568",
+        "name": "Selene"
+    },
+    "1017575": {
+        "characterID": "1017575",
+        "name": "Captain America (Sam Wilson)"
+    },
+    "1009537": {
+        "characterID": "1009537",
+        "name": "Rhino"
+    },
+    "1009357": {
+        "characterID": "1009357",
+        "name": "Husk"
+    },
+    "1010370": {
+        "characterID": "1010370",
+        "name": "Alpha Flight"
+    },
+    "1011076": {
+        "characterID": "1011076",
+        "name": "Grandmaster"
+    },
+    "1011220": {
+        "characterID": "1011220",
+        "name": "Mockingbird"
+    },
+    "1009448": {
+        "characterID": "1009448",
+        "name": "Mojo"
+    },
+    "1009171": {
+        "characterID": "1009171",
+        "name": "Bastion"
+    },
+    "1009340": {
+        "characterID": "1009340",
+        "name": "Hellfire Club"
+    },
+    "1009581": {
+        "characterID": "1009581",
+        "name": "Sebastian Shaw"
+    },
+    "1009288": {
+        "characterID": "1009288",
+        "name": "Elektra"
+    },
+    "1009304": {
+        "characterID": "1009304",
+        "name": "Firebrand"
+    },
+    "1011022": {
+        "characterID": "1011022",
+        "name": "Super-Adaptoid"
+    },
+    "1010913": {
+        "characterID": "1010913",
+        "name": "Captain America (Ultimate)"
+    },
+    "1009227": {
+        "characterID": "1009227",
+        "name": "Carnage"
+    },
+    "1010926": {
+        "characterID": "1010926",
+        "name": "Giant-Man (Ultimate)"
+    },
+    "1010699": {
+        "characterID": "1010699",
+        "name": "Aaron Stack"
+    },
+    "1009382": {
+        "characterID": "1009382",
+        "name": "Juggernaut"
+    },
+    "1010851": {
+        "characterID": "1010851",
+        "name": "Mach IV"
+    },
+    "1010347": {
+        "characterID": "1010347",
+        "name": "Mr. Hyde"
+    },
+    "1010693": {
+        "characterID": "1010693",
+        "name": "Songbird"
+    },
+    "1010360": {
+        "characterID": "1010360",
+        "name": "Thunderbolts"
+    },
+    "1011090": {
+        "characterID": "1011090",
+        "name": "Brother Voodoo"
+    },
+    "1011360": {
+        "characterID": "1011360",
+        "name": "Red Hulk"
+    },
+    "1009360": {
+        "characterID": "1009360",
+        "name": "Hydro-Man"
+    },
+    "1009317": {
+        "characterID": "1009317",
+        "name": "Genesis"
+    },
+    "1010325": {
+        "characterID": "1010325",
+        "name": "Betty Brant"
+    },
+    "1011128": {
+        "characterID": "1011128",
+        "name": "Venom (Ultimate)"
+    },
+    "1011328": {
+        "characterID": "1011328",
+        "name": "Maestro"
+    },
+    "1009164": {
+        "characterID": "1009164",
+        "name": "Avalanche"
+    },
+    "1009198": {
+        "characterID": "1009198",
+        "name": "Blizzard"
+    },
+    "1011317": {
+        "characterID": "1011317",
+        "name": "Ezekiel Stane"
+    },
+    "1009421": {
+        "characterID": "1009421",
+        "name": "Mandarin"
+    },
+    "1010348": {
+        "characterID": "1010348",
+        "name": "Whirlwind"
+    },
+    "1009553": {
+        "characterID": "1009553",
+        "name": "Sabra"
+    },
+    "1011070": {
+        "characterID": "1011070",
+        "name": "Slayback"
+    },
+    "1009320": {
+        "characterID": "1009320",
+        "name": "Giant Man"
+    },
+    "1010450": {
+        "characterID": "1010450",
+        "name": "Lightspeed"
+    },
+    "1010853": {
+        "characterID": "1010853",
+        "name": "White Tiger (Angela Del Toro)"
+    },
+    "1009545": {
+        "characterID": "1009545",
+        "name": "Robbie Robertson"
+    },
+    "1009366": {
+        "characterID": "1009366",
+        "name": "Invisible Woman"
+    },
+    "1009412": {
+        "characterID": "1009412",
+        "name": "Madame Hydra"
+    },
+    "1011244": {
+        "characterID": "1011244",
+        "name": "Mr. Negative"
+    },
+    "1009619": {
+        "characterID": "1009619",
+        "name": "Gwen Stacy"
+    },
+    "1009329": {
+        "characterID": "1009329",
+        "name": "Ben Grimm"
+    },
+    "1009199": {
+        "characterID": "1009199",
+        "name": "Blob"
+    },
+    "1011398": {
+        "characterID": "1011398",
+        "name": "Romulus"
+    },
+    "1009509": {
+        "characterID": "1009509",
+        "name": "Madelyne Pryor"
+    },
+    "1011258": {
+        "characterID": "1011258",
+        "name": "Carlie Cooper"
+    },
+    "1011270": {
+        "characterID": "1011270",
+        "name": "ClanDestine"
+    },
+    "1011268": {
+        "characterID": "1011268",
+        "name": "Cuckoo"
+    },
+    "1010917": {
+        "characterID": "1010917",
+        "name": "Colossus (Ultimate)"
+    },
+    "1011102": {
+        "characterID": "1011102",
+        "name": "Human Torch (Ultimate)"
+    },
+    "1010933": {
+        "characterID": "1010933",
+        "name": "Iceman (Ultimate)"
+    },
+    "1010966": {
+        "characterID": "1010966",
+        "name": "Rogue (Ultimate)"
+    },
+    "1009244": {
+        "characterID": "1009244",
+        "name": "Curt Conners"
+    },
+    "1011100": {
+        "characterID": "1011100",
+        "name": "Layla Miller"
+    },
+    "1011234": {
+        "characterID": "1011234",
+        "name": "Prince of Orphans"
+    },
+    "1011436": {
+        "characterID": "1011436",
+        "name": "Red She-Hulk"
+    },
+    "1009315": {
+        "characterID": "1009315",
+        "name": "Gateway"
+    },
+    "1009436": {
+        "characterID": "1009436",
+        "name": "Mauler"
+    },
+    "1009284": {
+        "characterID": "1009284",
+        "name": "Dum Dum Dugan"
+    },
+    "1010373": {
+        "characterID": "1010373",
+        "name": "Howard The Duck"
+    },
+    "1011002": {
+        "characterID": "1011002",
+        "name": "Marvel Zombies"
+    },
+    "1009491": {
+        "characterID": "1009491",
+        "name": "Peter Parker"
+    },
+    "1011112": {
+        "characterID": "1011112",
+        "name": "The Twelve"
+    },
+    "1009683": {
+        "characterID": "1009683",
+        "name": "Uatu The Watcher"
+    },
+    "1009596": {
+        "characterID": "1009596",
+        "name": "Banshee (Theresa Rourke)"
+    },
+    "1011343": {
+        "characterID": "1011343",
+        "name": "Jamie Braddock"
+    },
+    "1011024": {
+        "characterID": "1011024",
+        "name": "Invaders"
+    },
+    "1011265": {
+        "characterID": "1011265",
+        "name": "Sinister Six"
+    },
+    "1009489": {
+        "characterID": "1009489",
+        "name": "Ben Parker"
+    },
+    "1009490": {
+        "characterID": "1009490",
+        "name": "May Parker"
+    },
+    "1009453": {
+        "characterID": "1009453",
+        "name": "Dani Moonstar"
+    },
+    "1009416": {
+        "characterID": "1009416",
+        "name": "Magma (Amara Aquilla)"
+    },
+    "1009638": {
+        "characterID": "1009638",
+        "name": "Sunspot"
+    },
+    "1011287": {
+        "characterID": "1011287",
+        "name": "Warlock (Technarchy)"
+    },
+    "1009725": {
+        "characterID": "1009725",
+        "name": "X-Man"
+    },
+    "1010791": {
+        "characterID": "1010791",
+        "name": "Sub-Mariner"
+    },
+    "1010696": {
+        "characterID": "1010696",
+        "name": "Union Jack (Joseph Chapman)"
+    },
+    "1009520": {
+        "characterID": "1009520",
+        "name": "Purple Man"
+    },
+    "1011960": {
+        "characterID": "1011960",
+        "name": "Tippy Toe"
+    },
+    "1009292": {
+        "characterID": "1009292",
+        "name": "Emplate"
+    },
+    "1009334": {
+        "characterID": "1009334",
+        "name": "Hammerhead"
+    },
+    "1009146": {
+        "characterID": "1009146",
+        "name": "Abomination (Emil Blonsky)"
+    },
+    "1009548": {
+        "characterID": "1009548",
+        "name": "Betty Ross"
+    },
+    "1009275": {
+        "characterID": "1009275",
+        "name": "Doc Samson"
+    },
+    "1009449": {
+        "characterID": "1009449",
+        "name": "Mole Man"
+    },
+    "1014812": {
+        "characterID": "1014812",
+        "name": "Thunderbolt Ross"
+    },
+    "1009158": {
+        "characterID": "1009158",
+        "name": "Arcade"
+    },
+    "1009188": {
+        "characterID": "1009188",
+        "name": "Black Tom"
+    },
+    "1010683": {
+        "characterID": "1010683",
+        "name": "New Warriors"
+    },
+    "1014858": {
+        "characterID": "1014858",
+        "name": "Spider-Man (Ben Reilly)"
+    },
+    "1010836": {
+        "characterID": "1010836",
+        "name": "Alex Power"
+    },
+    "1011251": {
+        "characterID": "1011251",
+        "name": "Jack Power"
+    },
+    "1011250": {
+        "characterID": "1011250",
+        "name": "Katie Power"
+    },
+    "1010770": {
+        "characterID": "1010770",
+        "name": "Power Pack"
+    },
+    "1011207": {
+        "characterID": "1011207",
+        "name": "Purifiers"
+    },
+    "1009255": {
+        "characterID": "1009255",
+        "name": "Crystal"
+    },
+    "1009438": {
+        "characterID": "1009438",
+        "name": "Medusa"
+    },
+    "1010705": {
+        "characterID": "1010705",
+        "name": "Spectrum"
+    },
+    "1010335": {
+        "characterID": "1010335",
+        "name": "Triton"
+    },
+    "1009219": {
+        "characterID": "1009219",
+        "name": "Cannonball"
+    },
+    "1009523": {
+        "characterID": "1009523",
+        "name": "Quasar (Phyla-Vell)"
+    },
+    "1011418": {
+        "characterID": "1011418",
+        "name": "X-Babies"
+    },
+    "1011389": {
+        "characterID": "1011389",
+        "name": "Frog Thor"
+    },
+    "1010964": {
+        "characterID": "1010964",
+        "name": "Quicksilver (Age of Apocalypse)"
+    },
+    "1011007": {
+        "characterID": "1011007",
+        "name": "Nick Fury (Ultimate)"
+    },
+    "1009249": {
+        "characterID": "1009249",
+        "name": "Count Nefaria"
+    },
+    "1009558": {
+        "characterID": "1009558",
+        "name": "Sandman"
+    },
+    "1010754": {
+        "characterID": "1010754",
+        "name": "Chase Stein"
+    },
+    "1011066": {
+        "characterID": "1011066",
+        "name": "Victor Mancha"
+    },
+    "1011005": {
+        "characterID": "1011005",
+        "name": "Hulk (Ultimate)"
+    },
+    "1010950": {
+        "characterID": "1010950",
+        "name": "Mr. Fantastic (Ultimate)"
+    },
+    "1011025": {
+        "characterID": "1011025",
+        "name": "Thor (Ultimate)"
+    },
+    "1010352": {
+        "characterID": "1010352",
+        "name": "Madame Masque"
+    },
+    "1009445": {
+        "characterID": "1009445",
+        "name": "Mimic"
+    },
+    "1011133": {
+        "characterID": "1011133",
+        "name": "Weapon Omega"
+    },
+    "1011188": {
+        "characterID": "1011188",
+        "name": "Deena Pilgrim"
+    },
+    "1009669": {
+        "characterID": "1009669",
+        "name": "Tiger Shark"
+    },
+    "1010812": {
+        "characterID": "1010812",
+        "name": "John Jameson"
+    },
+    "1009464": {
+        "characterID": "1009464",
+        "name": "Mysterio"
+    },
+    "1011131": {
+        "characterID": "1011131",
+        "name": "Hawkeye (Ultimate)"
+    },
+    "1010732": {
+        "characterID": "1010732",
+        "name": "Master Chief"
+    },
+    "1010971": {
+        "characterID": "1010971",
+        "name": "Scarlet Witch (Ultimate)"
+    },
+    "1010932": {
+        "characterID": "1010932",
+        "name": "Human Torch (Jim Hammond)"
+    },
+    "1011119": {
+        "characterID": "1011119",
+        "name": "Bob, Agent of Hydra"
+    },
+    "1009269": {
+        "characterID": "1009269",
+        "name": "Death"
+    },
+    "1010369": {
+        "characterID": "1010369",
+        "name": "Typhoid Mary"
+    },
+    "1009684": {
+        "characterID": "1009684",
+        "name": "Ultimatum"
+    },
+    "1011399": {
+        "characterID": "1011399",
+        "name": "Meggan"
+    },
+    "1009295": {
+        "characterID": "1009295",
+        "name": "Exodus"
+    },
+    "1009196": {
+        "characterID": "1009196",
+        "name": "Johnny Blaze"
+    },
+    "1011036": {
+        "characterID": "1011036",
+        "name": "Living Mummy"
+    },
+    "1010765": {
+        "characterID": "1010765",
+        "name": "Werewolf By Night"
+    },
+    "1010796": {
+        "characterID": "1010796",
+        "name": "Madame Web (Julia Carpenter)"
+    },
+    "1010925": {
+        "characterID": "1010925",
+        "name": "Ghost Rider (Daniel Ketch)"
+    },
+    "1010927": {
+        "characterID": "1010927",
+        "name": "Goliath (Bill Foster)"
+    },
+    "1009702": {
+        "characterID": "1009702",
+        "name": "Rhodey"
+    },
+    "1010778": {
+        "characterID": "1010778",
+        "name": "Quasar (Wendell Vaughn)"
+    },
+    "1011416": {
+        "characterID": "1011416",
+        "name": "Blonde Phantom"
+    },
+    "1009287": {
+        "characterID": "1009287",
+        "name": "Electro"
+    },
+    "1011357": {
+        "characterID": "1011357",
+        "name": "Karen Page"
+    },
+    "1011028": {
+        "characterID": "1011028",
+        "name": "Owl"
+    },
+    "1010963": {
+        "characterID": "1010963",
+        "name": "Quicksilver (Ultimate)"
+    },
+    "1009324": {
+        "characterID": "1009324",
+        "name": "Gorgon"
+    },
+    "1011327": {
+        "characterID": "1011327",
+        "name": "Lady Bullseye"
+    },
+    "1011421": {
+        "characterID": "1011421",
+        "name": "Lethal Legion"
+    },
+    "1009534": {
+        "characterID": "1009534",
+        "name": "Red Ghost"
+    },
+    "1010904": {
+        "characterID": "1010904",
+        "name": "Magus (Adam Warlock)"
+    },
+    "1009434": {
+        "characterID": "1009434",
+        "name": "Mastermind"
+    },
+    "1009673": {
+        "characterID": "1009673",
+        "name": "Toad"
+    },
+    "1010852": {
+        "characterID": "1010852",
+        "name": "Two-Gun Kid"
+    },
+    "1009633": {
+        "characterID": "1009633",
+        "name": "William Stryker"
+    },
+    "1009570": {
+        "characterID": "1009570",
+        "name": "Sentinel"
+    },
+    "1011233": {
+        "characterID": "1011233",
+        "name": "Fat Cobra"
+    },
+    "1010731": {
+        "characterID": "1010731",
+        "name": "Gorilla Man"
+    },
+    "1009651": {
+        "characterID": "1009651",
+        "name": "Terrax"
+    },
+    "1009380": {
+        "characterID": "1009380",
+        "name": "Joseph"
+    },
+    "1010695": {
+        "characterID": "1010695",
+        "name": "Surge"
+    },
+    "1014994": {
+        "characterID": "1014994",
+        "name": "Gwen Stacy (Ultimate)"
+    },
+    "1011203": {
+        "characterID": "1011203",
+        "name": "Mary Jane Watson (Ultimate)"
+    },
+    "1009696": {
+        "characterID": "1009696",
+        "name": "Viper"
+    },
+    "1010873": {
+        "characterID": "1010873",
+        "name": "Paladin"
+    },
+    "1010760": {
+        "characterID": "1010760",
+        "name": "Justice"
+    },
+    "1009271": {
+        "characterID": "1009271",
+        "name": "Destiny"
+    },
+    "1009468": {
+        "characterID": "1009468",
+        "name": "Namora"
+    },
+    "1011138": {
+        "characterID": "1011138",
+        "name": "Beyonder"
+    },
+    "1010344": {
+        "characterID": "1010344",
+        "name": "Ronan"
+    },
+    "1009157": {
+        "characterID": "1009157",
+        "name": "Spider-Girl (Anya Corazon)"
+    },
+    "1011420": {
+        "characterID": "1011420",
+        "name": "Grey Gargoyle"
+    },
+    "1010326": {
+        "characterID": "1010326",
+        "name": "Steve Rogers"
+    },
+    "1011368": {
+        "characterID": "1011368",
+        "name": "Secret Warriors"
+    },
+    "1010677": {
+        "characterID": "1010677",
+        "name": "Dracula"
+    },
+    "1011353": {
+        "characterID": "1011353",
+        "name": "Cosmo (dog)"
+    },
+    "1010749": {
+        "characterID": "1010749",
+        "name": "Gertrude Yorkes"
+    },
+    "1010691": {
+        "characterID": "1010691",
+        "name": "Molly Hayes"
+    },
+    "1010882": {
+        "characterID": "1010882",
+        "name": "Old Lace"
+    },
+    "1010745": {
+        "characterID": "1010745",
+        "name": "Sister Grimm"
+    },
+    "1010753": {
+        "characterID": "1010753",
+        "name": "Talkback (Chase Stein)"
+    },
+    "1010351": {
+        "characterID": "1010351",
+        "name": "Hellcat (Patsy Walker)"
+    },
+    "1009266": {
+        "characterID": "1009266",
+        "name": "Darkstar"
+    },
+    "1010837": {
+        "characterID": "1010837",
+        "name": "Red Wolf"
+    },
+    "1010782": {
+        "characterID": "1010782",
+        "name": "Ben Urich"
+    },
+    "1010783": {
+        "characterID": "1010783",
+        "name": "Kat Farrell"
+    },
+    "1010357": {
+        "characterID": "1010357",
+        "name": "Patch"
+    },
+    "1010358": {
+        "characterID": "1010358",
+        "name": "Ulik"
+    },
+    "1010884": {
+        "characterID": "1010884",
+        "name": "Wrecker"
+    },
+    "1009493": {
+        "characterID": "1009493",
+        "name": "Penance (Robert Baldwin)"
+    },
+    "1010823": {
+        "characterID": "1010823",
+        "name": "Cloud 9"
+    },
+    "1009306": {
+        "characterID": "1009306",
+        "name": "Firestar"
+    },
+    "1010702": {
+        "characterID": "1010702",
+        "name": "Gravity"
+    },
+    "1010821": {
+        "characterID": "1010821",
+        "name": "Hardball"
+    },
+    "1010820": {
+        "characterID": "1010820",
+        "name": "Thor Girl"
+    },
+    "1011081": {
+        "characterID": "1011081",
+        "name": "Ka-Zar"
+    },
+    "1011326": {
+        "characterID": "1011326",
+        "name": "Randall Flagg"
+    },
+    "1009695": {
+        "characterID": "1009695",
+        "name": "Vindicator"
+    },
+    "1011318": {
+        "characterID": "1011318",
+        "name": "Iron Fist (Bei Bang-Wen)"
+    },
+    "1011103": {
+        "characterID": "1011103",
+        "name": "Doctor Doom (Ultimate)"
+    },
+    "1010781": {
+        "characterID": "1010781",
+        "name": "Roland Deschain"
+    },
+    "1010773": {
+        "characterID": "1010773",
+        "name": "Arachne"
+    },
+    "1009496": {
+        "characterID": "1009496",
+        "name": "Jean Grey"
+    },
+    "1015239": {
+        "characterID": "1015239",
+        "name": "Avengers (Ultimate)"
+    },
+    "1009321": {
+        "characterID": "1009321",
+        "name": "Gladiator (Kallark)"
+    },
+    "1011414": {
+        "characterID": "1011414",
+        "name": "Loa"
+    },
+    "1011392": {
+        "characterID": "1011392",
+        "name": "She-Hulk (Lyra)"
+    },
+    "1010669": {
+        "characterID": "1010669",
+        "name": "Titania"
+    },
+    "1011356": {
+        "characterID": "1011356",
+        "name": "Frankenstein's Monster"
+    },
+    "1010349": {
+        "characterID": "1010349",
+        "name": "Nighthawk"
+    },
+    "1009572": {
+        "characterID": "1009572",
+        "name": "Serpent Society"
+    },
+    "1010689": {
+        "characterID": "1010689",
+        "name": "Doctor Spectrum"
+    },
+    "1011059": {
+        "characterID": "1011059",
+        "name": "Living Tribunal"
+    },
+    "1009576": {
+        "characterID": "1009576",
+        "name": "Shaman"
+    },
+    "1009606": {
+        "characterID": "1009606",
+        "name": "Snowbird"
+    },
+    "1010832": {
+        "characterID": "1010832",
+        "name": "Gargoyle"
+    },
+    "1010759": {
+        "characterID": "1010759",
+        "name": "Heroes For Hire"
+    },
+    "1010670": {
+        "characterID": "1010670",
+        "name": "Frog-Man"
+    },
+    "1010880": {
+        "characterID": "1010880",
+        "name": "Fixer (Paul Norbert Ebersol)"
+    },
+    "1009686": {
+        "characterID": "1009686",
+        "name": "Umar"
+    },
+    "1010681": {
+        "characterID": "1010681",
+        "name": "Mercury"
+    },
+    "1010692": {
+        "characterID": "1010692",
+        "name": "Rockslide"
+    },
+    "1009547": {
+        "characterID": "1009547",
+        "name": "Natasha Romanoff"
+    },
+    "1010788": {
+        "characterID": "1010788",
+        "name": "Venom (Mac Gargan)"
+    },
+    "1010942": {
+        "characterID": "1010942",
+        "name": "Magik (Amanda Sefton)"
+    },
+    "1011766": {
+        "characterID": "1011766",
+        "name": "Azazel (Mutant)"
+    },
+    "1009543": {
+        "characterID": "1009543",
+        "name": "Riptide"
+    },
+    "1010944": {
+        "characterID": "1010944",
+        "name": "Magneto (Age of Apocalypse)"
+    },
+    "1010967": {
+        "characterID": "1010967",
+        "name": "Rogue (Age of Apocalypse)"
+    },
+    "1010976": {
+        "characterID": "1010976",
+        "name": "Silver Samurai (Age of Apocalypse)"
+    },
+    "1010981": {
+        "characterID": "1010981",
+        "name": "Sunfire (Age of Apocalypse)"
+    },
+    "1010994": {
+        "characterID": "1010994",
+        "name": "Wild Child (Age of Apocalypse)"
+    },
+    "1010365": {
+        "characterID": "1010365",
+        "name": "Nebula"
+    },
+    "1009660": {
+        "characterID": "1009660",
+        "name": "The Stranger"
+    },
+    "1011339": {
+        "characterID": "1011339",
+        "name": "Blue Marvel"
+    },
+    "1011105": {
+        "characterID": "1011105",
+        "name": "Jimmy Woo"
+    },
+    "1009661": {
+        "characterID": "1009661",
+        "name": "The Watchers"
+    },
+    "1009533": {
+        "characterID": "1009533",
+        "name": "Reavers"
+    },
+    "1011313": {
+        "characterID": "1011313",
+        "name": "Ender Wiggin"
+    },
+    "1009435": {
+        "characterID": "1009435",
+        "name": "Alicia Masters"
+    },
+    "1009475": {
+        "characterID": "1009475",
+        "name": "Nomad"
+    },
+    "1009291": {
+        "characterID": "1009291",
+        "name": "Empath"
+    },
+    "1009236": {
+        "characterID": "1009236",
+        "name": "Lila Cheney"
+    },
+    "1011364": {
+        "characterID": "1011364",
+        "name": "Magus (Technarch)"
+    },
+    "1009163": {
+        "characterID": "1009163",
+        "name": "Aurora"
+    },
+    "1010784": {
+        "characterID": "1010784",
+        "name": "Ares"
+    },
+    "1009328": {
+        "characterID": "1009328",
+        "name": "Grim Reaper"
+    },
+    "1011212": {
+        "characterID": "1011212",
+        "name": "Sugar Man"
+    },
+    "1011354": {
+        "characterID": "1011354",
+        "name": "Barracuda"
+    },
+    "1009424": {
+        "characterID": "1009424",
+        "name": "Marauders"
+    },
+    "1009742": {
+        "characterID": "1009742",
+        "name": "Zzzax"
+    },
+    "1012295": {
+        "characterID": "1012295",
+        "name": "Spider-Man (Noir)"
+    },
+    "1015280": {
+        "characterID": "1015280",
+        "name": "Super Hero Squad"
+    },
+    "1011003": {
+        "characterID": "1011003",
+        "name": "Thaddeus Ross"
+    },
+    "1011222": {
+        "characterID": "1011222",
+        "name": "Firestar (Ultimate)"
+    },
+    "1010946": {
+        "characterID": "1010946",
+        "name": "Jean Grey (Ultimate)"
+    },
+    "1011129": {
+        "characterID": "1011129",
+        "name": "Mystique (Ultimate)"
+    },
+    "1010968": {
+        "characterID": "1010968",
+        "name": "Sabretooth (Ultimate)"
+    },
+    "1010862": {
+        "characterID": "1010862",
+        "name": "Unicorn"
+    },
+    "1011388": {
+        "characterID": "1011388",
+        "name": "Pet Avengers"
+    },
+    "1010362": {
+        "characterID": "1010362",
+        "name": "Moonstone"
+    },
+    "1011236": {
+        "characterID": "1011236",
+        "name": "Bride of Nine Spiders (Immortal Weapons)"
+    },
+    "1011235": {
+        "characterID": "1011235",
+        "name": "Dog Brother #1"
+    },
+    "1011237": {
+        "characterID": "1011237",
+        "name": "Tiger's Beautiful Daughter"
+    },
+    "1009364": {
+        "characterID": "1009364",
+        "name": "Impossible Man"
+    },
+    "1011072": {
+        "characterID": "1011072",
+        "name": "Edwin Jarvis"
+    },
+    "1009379": {
+        "characterID": "1009379",
+        "name": "Rick Jones"
+    },
+    "1009680": {
+        "characterID": "1009680",
+        "name": "Tyrannus"
+    },
+    "1010922": {
+        "characterID": "1010922",
+        "name": "Electro (Ultimate)"
+    },
+    "1009462": {
+        "characterID": "1009462",
+        "name": "Mr. X"
+    },
+    "1010737": {
+        "characterID": "1010737",
+        "name": "Wraith"
+    },
+    "1011099": {
+        "characterID": "1011099",
+        "name": "Mentallo"
+    },
+    "1011396": {
+        "characterID": "1011396",
+        "name": "Angel (Thomas Halloway)"
+    },
+    "1011309": {
+        "characterID": "1011309",
+        "name": "Toro (Thomas Raymond)"
+    },
+    "1011371": {
+        "characterID": "1011371",
+        "name": "Henry Peter Gyrich"
+    },
+    "1009206": {
+        "characterID": "1009206",
+        "name": "Box"
+    },
+    "1009253": {
+        "characterID": "1009253",
+        "name": "Crule"
+    },
+    "1011293": {
+        "characterID": "1011293",
+        "name": "Ink"
+    },
+    "1011167": {
+        "characterID": "1011167",
+        "name": "Ser Duncan"
+    },
+    "1009723": {
+        "characterID": "1009723",
+        "name": "X-Cutioner"
+    },
+    "1009738": {
+        "characterID": "1009738",
+        "name": "Zaladane"
+    },
+    "1009511": {
+        "characterID": "1009511",
+        "name": "Psycho-Man"
+    },
+    "1010345": {
+        "characterID": "1010345",
+        "name": "Sersi"
+    },
+    "1009169": {
+        "characterID": "1009169",
+        "name": "Baron Strucker"
+    },
+    "1011187": {
+        "characterID": "1011187",
+        "name": "Christian Walker"
+    },
+    "1011189": {
+        "characterID": "1011189",
+        "name": "Retro Girl"
+    },
+    "1010921": {
+        "characterID": "1010921",
+        "name": "Doctor Octopus (Ultimate)"
+    },
+    "1010818": {
+        "characterID": "1010818",
+        "name": "Komodo (Melati Kusuma)"
+    },
+    "1010908": {
+        "characterID": "1010908",
+        "name": "Beast (Ultimate)"
+    },
+    "1010918": {
+        "characterID": "1010918",
+        "name": "Cyclops (Ultimate)"
+    },
+    "1010943": {
+        "characterID": "1010943",
+        "name": "Magneto (Ultimate)"
+    },
+    "1010978": {
+        "characterID": "1010978",
+        "name": "Storm (Ultimate)"
+    },
+    "1009410": {
+        "characterID": "1009410",
+        "name": "Moira MacTaggert"
+    },
+    "1010667": {
+        "characterID": "1010667",
+        "name": "Jessica Drew"
+    },
+    "1009532": {
+        "characterID": "1009532",
+        "name": "Reaper"
+    },
+    "1010361": {
+        "characterID": "1010361",
+        "name": "Meteorite"
+    },
+    "1011259": {
+        "characterID": "1011259",
+        "name": "Jackpot"
+    },
+    "1009561": {
+        "characterID": "1009561",
+        "name": "Sauron"
+    },
+    "1009488": {
+        "characterID": "1009488",
+        "name": "Ozymandias"
+    },
+    "1011013": {
+        "characterID": "1011013",
+        "name": "Fantastic Four (Ultimate)"
+    },
+    "1011037": {
+        "characterID": "1011037",
+        "name": "Deathcry"
+    },
+    "1009641": {
+        "characterID": "1009641",
+        "name": "Swordsman"
+    },
+    "1010996": {
+        "characterID": "1010996",
+        "name": "Yellowjacket (Rita DeMara)"
+    },
+    "1010330": {
+        "characterID": "1010330",
+        "name": "Donald Blake"
+    },
+    "1010350": {
+        "characterID": "1010350",
+        "name": "Valkyrie (Samantha Parrington)"
+    },
+    "1011400": {
+        "characterID": "1011400",
+        "name": "H.A.M.M.E.R."
+    },
+    "1009154": {
+        "characterID": "1009154",
+        "name": "Annihilus"
+    },
+    "1009486": {
+        "characterID": "1009486",
+        "name": "Harry Osborn"
+    },
+    "1009316": {
+        "characterID": "1009316",
+        "name": "Gauntlet (Joseph Green)"
+    },
+    "1009355": {
+        "characterID": "1009355",
+        "name": "Hulkling"
+    },
+    "1009492": {
+        "characterID": "1009492",
+        "name": "Patriot"
+    },
+    "1010833": {
+        "characterID": "1010833",
+        "name": "Speed"
+    },
+    "1010828": {
+        "characterID": "1010828",
+        "name": "Stature"
+    },
+    "1009735": {
+        "characterID": "1009735",
+        "name": "Mariko Yashida"
+    },
+    "1011078": {
+        "characterID": "1011078",
+        "name": "Starjammers"
+    },
+    "1009347": {
+        "characterID": "1009347",
+        "name": "Hobgoblin (Roderick Kingsley)"
+    },
+    "1009605": {
+        "characterID": "1009605",
+        "name": "Spencer Smythe"
+    },
+    "1011390": {
+        "characterID": "1011390",
+        "name": "Redwing"
+    },
+    "1010694": {
+        "characterID": "1010694",
+        "name": "Speedball (Robert Baldwin)"
+    },
+    "1010910": {
+        "characterID": "1010910",
+        "name": "Black Cat (Ultimate)"
+    },
+    "1011427": {
+        "characterID": "1011427",
+        "name": "Nomad (Rikki Barnes)"
+    },
+    "1010797": {
+        "characterID": "1010797",
+        "name": "Nitro"
+    },
+    "1011206": {
+        "characterID": "1011206",
+        "name": "Doctor Faustus"
+    },
+    "1010678": {
+        "characterID": "1010678",
+        "name": "Hellion"
+    },
+    "1010811": {
+        "characterID": "1010811",
+        "name": "Man-Wolf"
+    },
+    "1009451": {
+        "characterID": "1009451",
+        "name": "Moondragon"
+    },
+    "1014873": {
+        "characterID": "1014873",
+        "name": "Spider-Man (2099)"
+    },
+    "1009650": {
+        "characterID": "1009650",
+        "name": "Tempest"
+    },
+    "1009574": {
+        "characterID": "1009574",
+        "name": "Shadowcat"
+    },
+    "1009345": {
+        "characterID": "1009345",
+        "name": "Hitman"
+    },
+    "1011107": {
+        "characterID": "1011107",
+        "name": "Deviants"
+    },
+    "1010807": {
+        "characterID": "1010807",
+        "name": "Eternals"
+    },
+    "1009519": {
+        "characterID": "1009519",
+        "name": "Puppet Master"
+    },
+    "1009734": {
+        "characterID": "1009734",
+        "name": "Xorn (Kuan-Yin Xorn)"
+    },
+    "1010775": {
+        "characterID": "1010775",
+        "name": "James Buchanan Barnes"
+    },
+    "1010671": {
+        "characterID": "1010671",
+        "name": "Enchantress (Amora)"
+    },
+    "1009251": {
+        "characterID": "1009251",
+        "name": "Crimson Dynamo"
+    },
+    "1009273": {
+        "characterID": "1009273",
+        "name": "Diablo"
+    },
+    "1010911": {
+        "characterID": "1010911",
+        "name": "Black Widow (Ultimate)"
+    },
+    "1010915": {
+        "characterID": "1010915",
+        "name": "Captain Britain (Ultimate)"
+    },
+    "1009666": {
+        "characterID": "1009666",
+        "name": "Thunderbird (John Proudstar)"
+    },
+    "1010982": {
+        "characterID": "1010982",
+        "name": "Swordsman (Jaques Duquesne)"
+    },
+    "1011391": {
+        "characterID": "1011391",
+        "name": "Hairball"
+    },
+    "1011080": {
+        "characterID": "1011080",
+        "name": "Korg"
+    },
+    "1011053": {
+        "characterID": "1011053",
+        "name": "Maelstrom"
+    },
+    "1010334": {
+        "characterID": "1010334",
+        "name": "Quasimodo"
+    },
+    "1011116": {
+        "characterID": "1011116",
+        "name": "Killraven"
+    },
+    "1011321": {
+        "characterID": "1011321",
+        "name": "Paper Doll"
+    },
+    "1009234": {
+        "characterID": "1009234",
+        "name": "Chameleon"
+    },
+    "1011246": {
+        "characterID": "1011246",
+        "name": "Hypno-Hustler"
+    },
+    "1011257": {
+        "characterID": "1011257",
+        "name": "Lily Hollister"
+    },
+    "1011241": {
+        "characterID": "1011241",
+        "name": "Menace"
+    },
+    "1011240": {
+        "characterID": "1011240",
+        "name": "Freak"
+    },
+    "1010353": {
+        "characterID": "1010353",
+        "name": "Vermin (Edward Whelan)"
+    },
+    "1010780": {
+        "characterID": "1010780",
+        "name": "Zemo"
+    },
+    "1011082": {
+        "characterID": "1011082",
+        "name": "Elixir"
+    },
+    "1009469": {
+        "characterID": "1009469",
+        "name": "Namorita"
+    },
+    "1010687": {
+        "characterID": "1010687",
+        "name": "Black Tarantula"
+    },
+    "1011333": {
+        "characterID": "1011333",
+        "name": "Dakota North"
+    },
+    "1009721": {
+        "characterID": "1009721",
+        "name": "John Wraith"
+    },
+    "1009213": {
+        "characterID": "1009213",
+        "name": "Bushwacker"
+    },
+    "1010892": {
+        "characterID": "1010892",
+        "name": "Rawhide Kid"
+    },
+    "1010794": {
+        "characterID": "1010794",
+        "name": "Spider-Woman (Mattie Franklin)"
+    },
+    "1011148": {
+        "characterID": "1011148",
+        "name": "Kree"
+    },
+    "1010876": {
+        "characterID": "1010876",
+        "name": "Mongoose"
+    },
+    "1010883": {
+        "characterID": "1010883",
+        "name": "Wrecking Crew"
+    },
+    "1011057": {
+        "characterID": "1011057",
+        "name": "Slapstick"
+    },
+    "1009591": {
+        "characterID": "1009591",
+        "name": "Silver Samurai"
+    },
+    "1011084": {
+        "characterID": "1011084",
+        "name": "Starfox"
+    },
+    "1011093": {
+        "characterID": "1011093",
+        "name": "Shi'Ar"
+    },
+    "1009630": {
+        "characterID": "1009630",
+        "name": "Johnny Storm"
+    },
+    "1011199": {
+        "characterID": "1011199",
+        "name": "Ezekiel"
+    },
+    "1011432": {
+        "characterID": "1011432",
+        "name": "Enchantress (Sylvie Lushton)"
+    },
+    "1010887": {
+        "characterID": "1010887",
+        "name": "Bulldozer"
+    },
+    "1010886": {
+        "characterID": "1010886",
+        "name": "Piledriver"
+    },
+    "1010885": {
+        "characterID": "1010885",
+        "name": "Thunderball"
+    },
+    "1009186": {
+        "characterID": "1009186",
+        "name": "Black Knight (Sir Percy of Scandia)"
+    },
+    "1011304": {
+        "characterID": "1011304",
+        "name": "Thundra"
+    },
+    "1010934": {
+        "characterID": "1010934",
+        "name": "Invisible Woman (Ultimate)"
+    },
+    "1010983": {
+        "characterID": "1010983",
+        "name": "Thing (Ultimate)"
+    },
+    "1011226": {
+        "characterID": "1011226",
+        "name": "War Machine (Ultimate)"
+    },
+    "1011130": {
+        "characterID": "1011130",
+        "name": "Black Panther (Ultimate)"
+    },
+    "1011239": {
+        "characterID": "1011239",
+        "name": "Valkyrie (Ultimate)"
+    },
+    "1010716": {
+        "characterID": "1010716",
+        "name": "Zarda"
+    },
+    "1010715": {
+        "characterID": "1010715",
+        "name": "The Hood"
+    },
+    "1011198": {
+        "characterID": "1011198",
+        "name": "Agents of Atlas"
+    },
+    "1011048": {
+        "characterID": "1011048",
+        "name": "Scalphunter"
+    },
+    "1010790": {
+        "characterID": "1010790",
+        "name": "Scorpion (Carmilla Black)"
+    },
+    "1010829": {
+        "characterID": "1010829",
+        "name": "Bengal"
+    },
+    "1009245": {
+        "characterID": "1009245",
+        "name": "Constrictor"
+    },
+    "1010817": {
+        "characterID": "1010817",
+        "name": "Rage"
+    },
+    "1010774": {
+        "characterID": "1010774",
+        "name": "Daily Bugle"
+    },
+    "1011387": {
+        "characterID": "1011387",
+        "name": "Dark X-Men"
+    },
+    "1009179": {
+        "characterID": "1009179",
+        "name": "Beetle (Abner Jenkins)"
+    },
+    "1009628": {
+        "characterID": "1009628",
+        "name": "Stingray (Walter Newell)"
+    },
+    "1009672": {
+        "characterID": "1009672",
+        "name": "Titanium Man (Topolov)"
+    },
+    "1009302": {
+        "characterID": "1009302",
+        "name": "Fenris"
+    },
+    "1011369": {
+        "characterID": "1011369",
+        "name": "Phil Sheldon"
+    },
+    "1009645": {
+        "characterID": "1009645",
+        "name": "Glenn Talbot"
+    },
+    "1011045": {
+        "characterID": "1011045",
+        "name": "Photon"
+    },
+    "1011243": {
+        "characterID": "1011243",
+        "name": "Mandrill"
+    },
+    "1011038": {
+        "characterID": "1011038",
+        "name": "Bug"
+    },
+    "1009497": {
+        "characterID": "1009497",
+        "name": "Alexander Pierce"
+    },
+    "1009594": {
+        "characterID": "1009594",
+        "name": "Silvermane"
+    },
+    "1009272": {
+        "characterID": "1009272",
+        "name": "Detective Soap"
+    },
+    "1011044": {
+        "characterID": "1011044",
+        "name": "Hellions (Squad)"
+    },
+    "1011301": {
+        "characterID": "1011301",
+        "name": "Anole"
+    },
+    "1009285": {
+        "characterID": "1009285",
+        "name": "Dust"
+    },
+    "1011260": {
+        "characterID": "1011260",
+        "name": "Dexter Bennett"
+    },
+    "1009411": {
+        "characterID": "1009411",
+        "name": "Mad Thinker"
+    },
+    "1010998": {
+        "characterID": "1010998",
+        "name": "The Initiative"
+    },
+    "1011279": {
+        "characterID": "1011279",
+        "name": "Masters of Evil"
+    },
+    "1010822": {
+        "characterID": "1010822",
+        "name": "Trauma"
+    },
+    "1009374": {
+        "characterID": "1009374",
+        "name": "Jigsaw"
+    },
+    "1011061": {
+        "characterID": "1011061",
+        "name": "Eternity"
+    },
+    "1011041": {
+        "characterID": "1011041",
+        "name": "Great Lakes Avengers"
+    },
+    "1011347": {
+        "characterID": "1011347",
+        "name": "Spider-Ham (Larval Earth)"
+    },
+    "1011202": {
+        "characterID": "1011202",
+        "name": "Ord"
+    },
+    "1009565": {
+        "characterID": "1009565",
+        "name": "Scourge"
+    },
+    "1010847": {
+        "characterID": "1010847",
+        "name": "Ultragirl (Earth-93060)"
+    },
+    "1009715": {
+        "characterID": "1009715",
+        "name": "Wild Child"
+    },
+    "1010993": {
+        "characterID": "1010993",
+        "name": "Mary Jane Watson (House of M)"
+    },
+    "1009402": {
+        "characterID": "1009402",
+        "name": "Lilandra"
+    },
+    "1011358": {
+        "characterID": "1011358",
+        "name": "Doctor Strange (Ultimate)"
+    },
+    "1014992": {
+        "characterID": "1014992",
+        "name": "Dormammu (Ultimate)"
+    },
+    "1010984": {
+        "characterID": "1010984",
+        "name": "Union Jack (Montgomery Falsworth)"
+    },
+    "1011365": {
+        "characterID": "1011365",
+        "name": "Vanisher (Telford Porter)"
+    },
+    "1011329": {
+        "characterID": "1011329",
+        "name": "Omega Sentinel"
+    },
+    "1009237": {
+        "characterID": "1009237",
+        "name": "Chimera"
+    },
+    "1010893": {
+        "characterID": "1010893",
+        "name": "Kid Colt"
+    },
+    "1011394": {
+        "characterID": "1011394",
+        "name": "Shiver Man"
+    },
+    "1011393": {
+        "characterID": "1011393",
+        "name": "She-Hulk (Ultimate)"
+    },
+    "1011311": {
+        "characterID": "1011311",
+        "name": "Ultimo"
+    },
+    "1010868": {
+        "characterID": "1010868",
+        "name": "Firebird"
+    },
+    "1011373": {
+        "characterID": "1011373",
+        "name": "Sons of the Tiger"
+    },
+    "1011295": {
+        "characterID": "1011295",
+        "name": "The Howling Commandos"
+    },
+    "1010919": {
+        "characterID": "1010919",
+        "name": "Daredevil (Ultimate)"
+    },
+    "1010929": {
+        "characterID": "1010929",
+        "name": "Green Goblin (Ultimate)"
+    },
+    "1014995": {
+        "characterID": "1014995",
+        "name": "Hammerhead (Ultimate)"
+    },
+    "1011218": {
+        "characterID": "1011218",
+        "name": "Harry Osborn (Ultimate)"
+    },
+    "1014998": {
+        "characterID": "1014998",
+        "name": "Moon Knight (Ultimate)"
+    },
+    "1010855": {
+        "characterID": "1010855",
+        "name": "Solo (James Bourne)"
+    },
+    "1009507": {
+        "characterID": "1009507",
+        "name": "Prowler"
+    },
+    "1011075": {
+        "characterID": "1011075",
+        "name": "Swarm"
+    },
+    "1009152": {
+        "characterID": "1009152",
+        "name": "Ancient One"
+    },
+    "1009305": {
+        "characterID": "1009305",
+        "name": "Firelord"
+    },
+    "1010752": {
+        "characterID": "1010752",
+        "name": "Karolina Dean "
+    },
+    "1011413": {
+        "characterID": "1011413",
+        "name": "Iron Fist (Quan Yaozu)"
+    },
+    "1011403": {
+        "characterID": "1011403",
+        "name": "Lei Kung, The Thunderer"
+    },
+    "1010889": {
+        "characterID": "1010889",
+        "name": "Steel Serpent (Davos)"
+    },
+    "1011345": {
+        "characterID": "1011345",
+        "name": "Tinkerer"
+    },
+    "1010722": {
+        "characterID": "1010722",
+        "name": "Human Robot"
+    },
+    "1011106": {
+        "characterID": "1011106",
+        "name": "Venus (Siren)"
+    },
+    "1011132": {
+        "characterID": "1011132",
+        "name": "Blob (Ultimate)"
+    },
+    "1014973": {
+        "characterID": "1014973",
+        "name": "Brotherhood of Mutants (Ultimate)"
+    },
+    "1009522": {
+        "characterID": "1009522",
+        "name": "Pyro"
+    },
+    "1010992": {
+        "characterID": "1010992",
+        "name": "Wasp (Ultimate)"
+    },
+    "1010814": {
+        "characterID": "1010814",
+        "name": "Squadron Supreme (Earth-712)"
+    },
+    "1010363": {
+        "characterID": "1010363",
+        "name": "Logan"
+    },
+    "1010985": {
+        "characterID": "1010985",
+        "name": "Union Jack (Brian Falsworth)"
+    },
+    "1011011": {
+        "characterID": "1011011",
+        "name": "Vulcan (Gabriel Summers)"
+    },
+    "1011277": {
+        "characterID": "1011277",
+        "name": "Young X-Men"
+    },
+    "1010143": {
+        "characterID": "1010143",
+        "name": "Caretaker"
+    },
+    "1009423": {
+        "characterID": "1009423",
+        "name": "Manta"
+    },
+    "1011184": {
+        "characterID": "1011184",
+        "name": "Mentor"
+    },
+    "1009603": {
+        "characterID": "1009603",
+        "name": "Smasher (Vril Rokk)"
+    },
+    "1009621": {
+        "characterID": "1009621",
+        "name": "Starbolt"
+    },
+    "1011320": {
+        "characterID": "1011320",
+        "name": "M.O.D.O.G."
+    },
+    "1011019": {
+        "characterID": "1011019",
+        "name": "Molecule Man"
+    },
+    "1009290": {
+        "characterID": "1009290",
+        "name": "Elite"
+    },
+    "1009418": {
+        "characterID": "1009418",
+        "name": "Ma Gnuci"
+    },
+    "1009541": {
+        "characterID": "1009541",
+        "name": "Molly Von Richtofen"
+    },
+    "1009403": {
+        "characterID": "1009403",
+        "name": "Liz Osborn"
+    },
+    "1011370": {
+        "characterID": "1011370",
+        "name": "Molten Man"
+    },
+    "1009506": {
+        "characterID": "1009506",
+        "name": "Proudstar"
+    },
+    "1010707": {
+        "characterID": "1010707",
+        "name": "Nuke"
+    },
+    "1011062": {
+        "characterID": "1011062",
+        "name": "Stranger"
+    },
+    "1011213": {
+        "characterID": "1011213",
+        "name": "Feral"
+    },
+    "1011054": {
+        "characterID": "1011054",
+        "name": "Spider-Man (1602)"
+    },
+    "1010762": {
+        "characterID": "1010762",
+        "name": "Pip"
+    },
+    "1009349": {
+        "characterID": "1009349",
+        "name": "Holocaust (Age of Apocalypse)"
+    },
+    "1009501": {
+        "characterID": "1009501",
+        "name": "Post"
+    },
+    "1011334": {
+        "characterID": "1011334",
+        "name": "3-D Man"
+    },
+    "1010945": {
+        "characterID": "1010945",
+        "name": "Magneto (House of M)"
+    },
+    "1011352": {
+        "characterID": "1011352",
+        "name": "True Believers"
+    },
+    "1010346": {
+        "characterID": "1010346",
+        "name": "Controller"
+    },
+    "1009207": {
+        "characterID": "1009207",
+        "name": "GW Bridge"
+    },
+    "1011350": {
+        "characterID": "1011350",
+        "name": "Marvel Apes"
+    },
+    "1011074": {
+        "characterID": "1011074",
+        "name": "Lilith"
+    },
+    "1009687": {
+        "characterID": "1009687",
+        "name": "Unus"
+    },
+    "1011114": {
+        "characterID": "1011114",
+        "name": "Spider-Man (Marvel Zombies)"
+    },
+    "1009433": {
+        "characterID": "1009433",
+        "name": "Master Mold"
+    },
+    "1010888": {
+        "characterID": "1010888",
+        "name": "Iron Fist (Orson Randall)"
+    },
+    "1009710": {
+        "characterID": "1009710",
+        "name": "Wendigo"
+    },
+    "1009526": {
+        "characterID": "1009526",
+        "name": "Radioactive Man"
+    },
+    "1009216": {
+        "characterID": "1009216",
+        "name": "Caliban"
+    },
+    "1009425": {
+        "characterID": "1009425",
+        "name": "Marrow"
+    },
+    "1009643": {
+        "characterID": "1009643",
+        "name": "Synch"
+    },
+    "1009439": {
+        "characterID": "1009439",
+        "name": "Meltdown"
+    },
+    "1010901": {
+        "characterID": "1010901",
+        "name": "Stephen Strange"
+    },
+    "1011325": {
+        "characterID": "1011325",
+        "name": "Salem's Seven (Ultimate)"
+    },
+    "1011289": {
+        "characterID": "1011289",
+        "name": "Killmonger"
+    },
+    "1009484": {
+        "characterID": "1009484",
+        "name": "Oracle"
+    },
+    "1011261": {
+        "characterID": "1011261",
+        "name": "Vin Gonzales"
+    },
+    "1009620": {
+        "characterID": "1009620",
+        "name": "Obadiah Stane"
+    },
+    "1010795": {
+        "characterID": "1010795",
+        "name": "Spider-Woman (Charlotte Witter)"
+    },
+    "1011124": {
+        "characterID": "1011124",
+        "name": "Nightshade"
+    },
+    "1011026": {
+        "characterID": "1011026",
+        "name": "Mantis"
+    },
+    "1011404": {
+        "characterID": "1011404",
+        "name": "Jeryn Hogarth"
+    },
+    "1011294": {
+        "characterID": "1011294",
+        "name": "The Enforcers"
+    },
+    "1010980": {
+        "characterID": "1010980",
+        "name": "Franklin Storm"
+    },
+    "1015007": {
+        "characterID": "1015007",
+        "name": "Dreaming Celestial"
+    },
+    "1010725": {
+        "characterID": "1010725",
+        "name": "Makkari"
+    },
+    "1011122": {
+        "characterID": "1011122",
+        "name": "Elloe Kaifi"
+    },
+    "1010703": {
+        "characterID": "1010703",
+        "name": "Hiroim"
+    },
+    "1011121": {
+        "characterID": "1011121",
+        "name": "Warbound"
+    },
+    "1009205": {
+        "characterID": "1009205",
+        "name": "Boomer"
+    },
+    "1009298": {
+        "characterID": "1009298",
+        "name": "Famine"
+    },
+    "1009308": {
+        "characterID": "1009308",
+        "name": "Forearm"
+    },
+    "1010767": {
+        "characterID": "1010767",
+        "name": "Random"
+    },
+    "1009701": {
+        "characterID": "1009701",
+        "name": "War (Abraham Kieros)"
+    },
+    "1009716": {
+        "characterID": "1009716",
+        "name": "Wildside"
+    },
+    "1009544": {
+        "characterID": "1009544",
+        "name": "Risque"
+    },
+    "1009579": {
+        "characterID": "1009579",
+        "name": "Shard"
+    },
+    "1009529": {
+        "characterID": "1009529",
+        "name": "Ilyana Rasputin"
+    },
+    "1009530": {
+        "characterID": "1009530",
+        "name": "Mikhail Rasputin"
+    },
+    "1011208": {
+        "characterID": "1011208",
+        "name": "Anthem"
+    },
+    "1011209": {
+        "characterID": "1011209",
+        "name": "Calamity"
+    },
+    "1011210": {
+        "characterID": "1011210",
+        "name": "Mulholland Black"
+    },
+    "1011232": {
+        "characterID": "1011232",
+        "name": "Supernaut"
+    },
+    "1011018": {
+        "characterID": "1011018",
+        "name": "The Order"
+    },
+    "1011231": {
+        "characterID": "1011231",
+        "name": "Veda"
+    },
+    "1011375": {
+        "characterID": "1011375",
+        "name": "Leper Queen"
+    },
+    "1015004": {
+        "characterID": "1015004",
+        "name": "Thanos (Ultimate)"
+    },
+    "1010717": {
+        "characterID": "1010717",
+        "name": "Debrii"
+    },
+    "1010826": {
+        "characterID": "1010826",
+        "name": "MVP"
+    },
+    "1010827": {
+        "characterID": "1010827",
+        "name": "Armory"
+    },
+    "1010684": {
+        "characterID": "1010684",
+        "name": "Night Thrasher"
+    },
+    "1011402": {
+        "characterID": "1011402",
+        "name": "Wendell Rand"
+    },
+    "1009210": {
+        "characterID": "1009210",
+        "name": "Brute"
+    },
+    "1011221": {
+        "characterID": "1011221",
+        "name": "Giant Girl"
+    },
+    "1010991": {
+        "characterID": "1010991",
+        "name": "War Machine (Parnell Jacobs)"
+    },
+    "1009177": {
+        "characterID": "1009177",
+        "name": "Bedlam"
+    },
+    "1009383": {
+        "characterID": "1009383",
+        "name": "Garrison Kane"
+    },
+    "1011264": {
+        "characterID": "1011264",
+        "name": "Blue Shield"
+    },
+    "1011269": {
+        "characterID": "1011269",
+        "name": "Newton Destine"
+    },
+    "1010878": {
+        "characterID": "1010878",
+        "name": "Janus, the Nega-Man"
+    },
+    "1015001": {
+        "characterID": "1015001",
+        "name": "Shang-Chi (Ultimate)"
+    },
+    "1011283": {
+        "characterID": "1011283",
+        "name": "Lords of Avalon"
+    },
+    "1011417": {
+        "characterID": "1011417",
+        "name": "Marvex"
+    },
+    "1011419": {
+        "characterID": "1011419",
+        "name": "Phantom Reporter"
+    },
+    "1011256": {
+        "characterID": "1011256",
+        "name": "Gladiator (Melvin Potter)"
+    },
+    "1009446": {
+        "characterID": "1009446",
+        "name": "Mister Fear"
+    },
+    "1011111": {
+        "characterID": "1011111",
+        "name": "Fantastick Four"
+    },
+    "1010825": {
+        "characterID": "1010825",
+        "name": "Triathlon"
+    },
+    "1009342": {
+        "characterID": "1009342",
+        "name": "Hepzibah"
+    },
+    "1010896": {
+        "characterID": "1010896",
+        "name": "Lyja"
+    },
+    "1010895": {
+        "characterID": "1010895",
+        "name": "Sharon Ventura"
+    },
+    "1010779": {
+        "characterID": "1010779",
+        "name": "Pete Wisdom"
+    },
+    "1009474": {
+        "characterID": "1009474",
+        "name": "Nocturne"
+    },
+    "1011193": {
+        "characterID": "1011193",
+        "name": "Kabuki"
+    },
+    "1011219": {
+        "characterID": "1011219",
+        "name": "The Fury"
+    },
+    "1011411": {
+        "characterID": "1011411",
+        "name": "Chores MacGillicudy"
+    },
+    "1011410": {
+        "characterID": "1011410",
+        "name": "Confederates of the Curious"
+    },
+    "1011407": {
+        "characterID": "1011407",
+        "name": "Contessa (Vera Vidal)"
+    },
+    "1011408": {
+        "characterID": "1011408",
+        "name": "Lightning Lords of Nepal"
+    },
+    "1011405": {
+        "characterID": "1011405",
+        "name": "Lucky Pierre"
+    },
+    "1011409": {
+        "characterID": "1011409",
+        "name": "Nine-Fold Daughters of Xao"
+    },
+    "1011406": {
+        "characterID": "1011406",
+        "name": "Shadu the Shady"
+    },
+    "1010757": {
+        "characterID": "1010757",
+        "name": "Omega Flight"
+    },
+    "1011125": {
+        "characterID": "1011125",
+        "name": "Ultra-Adaptoid"
+    },
+    "1011031": {
+        "characterID": "1011031",
+        "name": "Agent X (Nijo)"
+    },
+    "1010713": {
+        "characterID": "1010713",
+        "name": "Tarantula (Luis Alvarez)"
+    },
+    "1009330": {
+        "characterID": "1009330",
+        "name": "Guardian"
+    },
+    "1009361": {
+        "characterID": "1009361",
+        "name": "Hyperion (Earth-712)"
+    },
+    "1011046": {
+        "characterID": "1011046",
+        "name": "Hedge Knight"
+    },
+    "1010916": {
+        "characterID": "1010916",
+        "name": "Carnage (Ultimate)"
+    },
+    "1009200": {
+        "characterID": "1009200",
+        "name": "Blockbuster"
+    },
+    "1009694": {
+        "characterID": "1009694",
+        "name": "Vertigo (Savage Land Mutate)"
+    },
+    "1009514": {
+        "characterID": "1009514",
+        "name": "Puma"
+    },
+    "1009232": {
+        "characterID": "1009232",
+        "name": "Ch'od"
+    },
+    "1009247": {
+        "characterID": "1009247",
+        "name": "Corsair"
+    },
+    "1009531": {
+        "characterID": "1009531",
+        "name": "Raza"
+    },
+    "1010708": {
+        "characterID": "1010708",
+        "name": "Pandemic"
+    },
+    "1010786": {
+        "characterID": "1010786",
+        "name": "Jack Murdock"
+    },
+    "1009463": {
+        "characterID": "1009463",
+        "name": "Matthew Murdock"
+    },
+    "1011338": {
+        "characterID": "1011338",
+        "name": "Angel (Ultimate)"
+    },
+    "1014996": {
+        "characterID": "1014996",
+        "name": "Hellfire Club (Ultimate)"
+    },
+    "1011337": {
+        "characterID": "1011337",
+        "name": "Nightcrawler (Ultimate)"
+    },
+    "1010959": {
+        "characterID": "1010959",
+        "name": "Proteus (Ultimate)"
+    },
+    "1015003": {
+        "characterID": "1015003",
+        "name": "Stacy X (Ultimate)"
+    },
+    "1011009": {
+        "characterID": "1011009",
+        "name": "Wind Dancer"
+    },
+    "1009667": {
+        "characterID": "1009667",
+        "name": "Thunderbird (Neal Shaara)"
+    },
+    "1011412": {
+        "characterID": "1011412",
+        "name": "Iron Fist (Wu Ao-Shi)"
+    },
+    "1009456": {
+        "characterID": "1009456",
+        "name": "Morph"
+    },
+    "1010367": {
+        "characterID": "1010367",
+        "name": "Masque"
+    },
+    "1011126": {
+        "characterID": "1011126",
+        "name": "Sally Floyd"
+    },
+    "1010675": {
+        "characterID": "1010675",
+        "name": "Humbug"
+    },
+    "1011055": {
+        "characterID": "1011055",
+        "name": "Gideon"
+    },
+    "1010842": {
+        "characterID": "1010842",
+        "name": "King Cobra"
+    },
+    "1009618": {
+        "characterID": "1009618",
+        "name": "Stacy X"
+    },
+    "1010768": {
+        "characterID": "1010768",
+        "name": "Loners"
+    },
+    "1011047": {
+        "characterID": "1011047",
+        "name": "Turbo"
+    },
+    "1009286": {
+        "characterID": "1009286",
+        "name": "Earthquake"
+    },
+    "1009358": {
+        "characterID": "1009358",
+        "name": "Hussar"
+    },
+    "1009706": {
+        "characterID": "1009706",
+        "name": "Warstar"
+    },
+    "1010956": {
+        "characterID": "1010956",
+        "name": "Nova (Frankie Raye)"
+    },
+    "1009259": {
+        "characterID": "1009259",
+        "name": "Damage Control"
+    },
+    "1010711": {
+        "characterID": "1010711",
+        "name": "Santa Claus"
+    },
+    "1017317": {
+        "characterID": "1017317",
+        "name": "Cable (Deadpool)"
+    },
+    "1010724": {
+        "characterID": "1010724",
+        "name": "Maddog"
+    },
+    "1010766": {
+        "characterID": "1010766",
+        "name": "Jack O' Lantern"
+    },
+    "1009679": {
+        "characterID": "1009679",
+        "name": "Tyger Tiger"
+    },
+    "1010755": {
+        "characterID": "1010755",
+        "name": "Alex Wilder"
+    },
+    "1010843": {
+        "characterID": "1010843",
+        "name": "Big Bertha"
+    },
+    "1009584": {
+        "characterID": "1009584",
+        "name": "Shiva"
+    },
+    "1011247": {
+        "characterID": "1011247",
+        "name": "Dragon Lord"
+    },
+    "1010952": {
+        "characterID": "1010952",
+        "name": "Mysterio (Francis Klum)"
+    },
+    "1010685": {
+        "characterID": "1010685",
+        "name": "Nextwave"
+    },
+    "1009225": {
+        "characterID": "1009225",
+        "name": "Captain Stacy"
+    },
+    "1010869": {
+        "characterID": "1010869",
+        "name": "Masked Marvel (Unrevealed)"
+    },
+    "1010854": {
+        "characterID": "1010854",
+        "name": "Living Lightning"
+    },
+    "1010864": {
+        "characterID": "1010864",
+        "name": "Silverclaw"
+    },
+    "1011160": {
+        "characterID": "1011160",
+        "name": "Supreme Intelligence"
+    },
+    "1010679": {
+        "characterID": "1010679",
+        "name": "Julian Keller"
+    },
+    "1011042": {
+        "characterID": "1011042",
+        "name": "Tag"
+    },
+    "1010955": {
+        "characterID": "1010955",
+        "name": "Nomad (Steve Rogers)"
+    },
+    "1011154": {
+        "characterID": "1011154",
+        "name": "Ravenous"
+    },
+    "1011095": {
+        "characterID": "1011095",
+        "name": "Captain Marvel (Monica Rambeau)"
+    },
+    "1011147": {
+        "characterID": "1011147",
+        "name": "Korath"
+    },
+    "1009601": {
+        "characterID": "1009601",
+        "name": "Sleeper"
+    },
+    "1009174": {
+        "characterID": "1009174",
+        "name": "Beak"
+    },
+    "1009260": {
+        "characterID": "1009260",
+        "name": "Lorna Dane"
+    },
+    "1011271": {
+        "characterID": "1011271",
+        "name": "New X-Men"
+    },
+    "1010673": {
+        "characterID": "1010673",
+        "name": "Amphibian (Earth-712)"
+    },
+    "1010686": {
+        "characterID": "1010686",
+        "name": "Arcana"
+    },
+    "1010688": {
+        "characterID": "1010688",
+        "name": "Blur"
+    },
+    "1011064": {
+        "characterID": "1011064",
+        "name": "Inertia"
+    },
+    "1010712": {
+        "characterID": "1010712",
+        "name": "Shape"
+    },
+    "1009437": {
+        "characterID": "1009437",
+        "name": "Maverick (Christoph Nord)"
+    },
+    "1011136": {
+        "characterID": "1011136",
+        "name": "Air-Walker (Gabriel Lan)"
+    },
+    "1009597": {
+        "characterID": "1009597",
+        "name": "Jasper Sitwell"
+    },
+    "1010734": {
+        "characterID": "1010734",
+        "name": "Peter Quill"
+    },
+    "1009250": {
+        "characterID": "1009250",
+        "name": "Countess"
+    },
+    "1011088": {
+        "characterID": "1011088",
+        "name": "Morlun"
+    },
+    "1010914": {
+        "characterID": "1010914",
+        "name": "Captain America (House of M)"
+    },
+    "1011117": {
+        "characterID": "1011117",
+        "name": "Roughhouse"
+    },
+    "1016824": {
+        "characterID": "1016824",
+        "name": "Ancient One (Ultimate)"
+    },
+    "1014999": {
+        "characterID": "1014999",
+        "name": "Clea (Ultimate)"
+    },
+    "1010939": {
+        "characterID": "1010939",
+        "name": "Lizard (Ultimate)"
+    },
+    "1015002": {
+        "characterID": "1015002",
+        "name": "Skrulls (Ultimate)"
+    },
+    "1015005": {
+        "characterID": "1015005",
+        "name": "Wong (Ultimate)"
+    },
+    "1015000": {
+        "characterID": "1015000",
+        "name": "Reavers (Ultimate)"
+    },
+    "1011118": {
+        "characterID": "1011118",
+        "name": "Hulk (Marvel Zombies)"
+    },
+    "1011087": {
+        "characterID": "1011087",
+        "name": "Dead Girl"
+    },
+    "1010806": {
+        "characterID": "1010806",
+        "name": "X-Statix"
+    },
+    "1011144": {
+        "characterID": "1011144",
+        "name": "Glorian"
+    },
+    "1011161": {
+        "characterID": "1011161",
+        "name": "Talos"
+    },
+    "1011149": {
+        "characterID": "1011149",
+        "name": "Tana Nile"
+    },
+    "1010336": {
+        "characterID": "1010336",
+        "name": "Atlas (Team)"
+    },
+    "1011029": {
+        "characterID": "1011029",
+        "name": "Kulan Gath"
+    },
+    "1011157": {
+        "characterID": "1011157",
+        "name": "Skreet"
+    },
+    "1011162": {
+        "characterID": "1011162",
+        "name": "Tenebrous"
+    },
+    "1010924": {
+        "characterID": "1010924",
+        "name": "Miek"
+    },
+    "1011181": {
+        "characterID": "1011181",
+        "name": "Thena"
+    },
+    "1011183": {
+        "characterID": "1011183",
+        "name": "Zuras"
+    },
+    "1011145": {
+        "characterID": "1011145",
+        "name": "Lord Hawal"
+    },
+    "1011151": {
+        "characterID": "1011151",
+        "name": "Praxagora"
+    },
+    "1011152": {
+        "characterID": "1011152",
+        "name": "Preak"
+    },
+    "1011177": {
+        "characterID": "1011177",
+        "name": "Forgotten One"
+    },
+    "1011155": {
+        "characterID": "1011155",
+        "name": "Red Shift"
+    },
+    "1010764": {
+        "characterID": "1010764",
+        "name": "Stardust"
+    },
+    "1011142": {
+        "characterID": "1011142",
+        "name": "Devos"
+    },
+    "1011139": {
+        "characterID": "1011139",
+        "name": "Cammi"
+    },
+    "1010445": {
+        "characterID": "1010445",
+        "name": "Energizer"
+    },
+    "1009503": {
+        "characterID": "1009503",
+        "name": "Prism"
+    },
+    "1010979": {
+        "characterID": "1010979",
+        "name": "Storm (Age of Apocalypse)"
+    },
+    "1011137": {
+        "characterID": "1011137",
+        "name": "Baroness S'Bak"
+    },
+    "1009322": {
+        "characterID": "1009322",
+        "name": "Goblin Queen"
+    },
+    "1009442": {
+        "characterID": "1009442",
+        "name": "Mesmero"
+    },
+    "1010690": {
+        "characterID": "1010690",
+        "name": "Microbe"
+    },
+    "1009217": {
+        "characterID": "1009217",
+        "name": "Callisto"
+    },
+    "1009150": {
+        "characterID": "1009150",
+        "name": "Agent Zero"
+    },
+    "1010974": {
+        "characterID": "1010974",
+        "name": "Shadowcat (Ultimate)"
+    },
+    "1011123": {
+        "characterID": "1011123",
+        "name": "Omega the Unknown"
+    },
+    "1014997": {
+        "characterID": "1014997",
+        "name": "Deathstrike (Ultimate)"
+    },
+    "1010958": {
+        "characterID": "1010958",
+        "name": "Professor X (Ultimate)"
+    },
+    "1009676": {
+        "characterID": "1009676",
+        "name": "Toxin"
+    },
+    "1011033": {
+        "characterID": "1011033",
+        "name": "Joystick"
+    },
+    "1010923": {
+        "characterID": "1010923",
+        "name": "Elektra (Ultimate)"
+    },
+    "1010954": {
+        "characterID": "1010954",
+        "name": "Mystique (House of M)"
+    },
+    "1011063": {
+        "characterID": "1011063",
+        "name": "In-Betweener"
+    },
+    "1011043": {
+        "characterID": "1011043",
+        "name": "Wither"
+    },
+    "1009149": {
+        "characterID": "1009149",
+        "name": "Abyss"
+    },
+    "1010903": {
+        "characterID": "1010903",
+        "name": "Abyss (Age of Apocalypse)"
+    },
+    "1011211": {
+        "characterID": "1011211",
+        "name": "The Renegades"
+    },
+    "1014905": {
+        "characterID": "1014905",
+        "name": "Squadron Sinister"
+    },
+    "1014974": {
+        "characterID": "1014974",
+        "name": "George Stacy (Ultimate)"
+    },
+    "1009736": {
+        "characterID": "1009736",
+        "name": "Yellow Claw"
+    },
+    "1010970": {
+        "characterID": "1010970",
+        "name": "Sabretooth (House of M)"
+    },
+    "1009690": {
+        "characterID": "1009690",
+        "name": "Vargas"
+    },
+    "1009293": {
+        "characterID": "1009293",
+        "name": "Erik the Red"
+    },
+    "1010830": {
+        "characterID": "1010830",
+        "name": "Blazing Skull"
+    },
+    "1010819": {
+        "characterID": "1010819",
+        "name": "Texas Twister"
+    },
+    "1009711": {
+        "characterID": "1009711",
+        "name": "Whiplash (Mark Scarlotti)"
+    },
+    "1011040": {
+        "characterID": "1011040",
+        "name": "Dinah Soar"
+    },
+    "1010879": {
+        "characterID": "1010879",
+        "name": "Doorman"
+    },
+    "1010863": {
+        "characterID": "1010863",
+        "name": "Flatman"
+    },
+    "1010840": {
+        "characterID": "1010840",
+        "name": "Mr. Immortal"
+    },
+    "1011039": {
+        "characterID": "1011039",
+        "name": "Centennial"
+    },
+    "1011085": {
+        "characterID": "1011085",
+        "name": "Major Mapleleaf"
+    },
+    "1010962": {
+        "characterID": "1010962",
+        "name": "Puck (Zuzha Yu)"
+    },
+    "1009598": {
+        "characterID": "1009598",
+        "name": "Skin"
+    },
+    "1009278": {
+        "characterID": "1009278",
+        "name": "Doomsday Man"
+    },
+    "1009587": {
+        "characterID": "1009587",
+        "name": "Shriek"
+    },
+    "1010975": {
+        "characterID": "1010975",
+        "name": "Shadowcat (Age of Apocalypse)"
+    },
+    "1010810": {
+        "characterID": "1010810",
+        "name": "Kate Bishop"
+    },
+    "1010776": {
+        "characterID": "1010776",
+        "name": "Danny Rand"
+    },
+    "1009517": {
+        "characterID": "1009517",
+        "name": "Punisher (2099)"
+    },
+    "1011096": {
+        "characterID": "1011096",
+        "name": "Captain Marvel (Genis-Vell)"
+    },
+    "1011097": {
+        "characterID": "1011097",
+        "name": "Captain Marvel (Phyla-Vell)"
+    },
+    "1010867": {
+        "characterID": "1010867",
+        "name": "Magdalene"
+    },
+    "1009160": {
+        "characterID": "1009160",
+        "name": "Arclight"
+    },
+    "1009336": {
+        "characterID": "1009336",
+        "name": "Harpoon"
+    },
+    "1009242": {
+        "characterID": "1009242",
+        "name": "Malcolm Colcord"
+    },
+    "1010741": {
+        "characterID": "1010741",
+        "name": "Phyla-Vell"
+    },
+    "1010697": {
+        "characterID": "1010697",
+        "name": "Virginia Dare"
+    },
+    "1009589": {
+        "characterID": "1009589",
+        "name": "Silver Fox"
+    },
+    "1009657": {
+        "characterID": "1009657",
+        "name": "The Professor"
+    },
+    "1010881": {
+        "characterID": "1010881",
+        "name": "Blacklash"
+    },
+    "1011067": {
+        "characterID": "1011067",
+        "name": "Wild Pack"
+    },
+    "1010937": {
+        "characterID": "1010937",
+        "name": "Josiah X"
+    },
+    "1009693": {
+        "characterID": "1009693",
+        "name": "Venus Dee Milo"
+    },
+    "1011314": {
+        "characterID": "1011314",
+        "name": "Junta"
+    },
+    "1016823": {
+        "characterID": "1016823",
+        "name": "Abomination (Ultimate)"
+    },
+    "1014993": {
+        "characterID": "1014993",
+        "name": "Forge (Ultimate)"
+    },
+    "1009348": {
+        "characterID": "1009348",
+        "name": "Happy Hogan"
+    },
+    "1009311": {
+        "characterID": "1009311",
+        "name": "Rumiko Fujikawa"
+    },
+    "1010947": {
+        "characterID": "1010947",
+        "name": "Maverick (Chris Bradley)"
+    },
+    "1011397": {
+        "characterID": "1011397",
+        "name": "Killer Shrike"
+    },
+    "1009231": {
+        "characterID": "1009231",
+        "name": "Cerebro"
+    },
+    "1009653": {
+        "characterID": "1009653",
+        "name": "The Anarchist"
+    },
+    "1009698": {
+        "characterID": "1009698",
+        "name": "Vivisector"
+    },
+    "1010672": {
+        "characterID": "1010672",
+        "name": "Amora"
+    },
+    "1011092": {
+        "characterID": "1011092",
+        "name": "Leech"
+    },
+    "1009414": {
+        "characterID": "1009414",
+        "name": "Maggott"
+    },
+    "1009689": {
+        "characterID": "1009689",
+        "name": "Vanisher (Ultimate)"
+    },
+    "1009173": {
+        "characterID": "1009173",
+        "name": "Battering Ram"
+    },
+    "1009202": {
+        "characterID": "1009202",
+        "name": "Bloke"
+    },
+    "1009392": {
+        "characterID": "1009392",
+        "name": "La Nuit"
+    },
+    "1009485": {
+        "characterID": "1009485",
+        "name": "Orphan"
+    },
+    "1009498": {
+        "characterID": "1009498",
+        "name": "Plazm"
+    },
+    "1009681": {
+        "characterID": "1009681",
+        "name": "U-Go Girl"
+    },
+    "1010328": {
+        "characterID": "1010328",
+        "name": "Tomorrow Man"
+    },
+    "1009502": {
+        "characterID": "1009502",
+        "name": "Pretty Boy"
+    },
+    "1009600": {
+        "characterID": "1009600",
+        "name": "Skullbuster (Cylla Markham)"
+    },
+    "1009254": {
+        "characterID": "1009254",
+        "name": "Crusher Hogan"
+    },
+    "1010871": {
+        "characterID": "1010871",
+        "name": "Micromax"
+    },
+    "1011310": {
+        "characterID": "1011310",
+        "name": "Justin Hammer"
+    },
+    "1009151": {
+        "characterID": "1009151",
+        "name": "Amiko"
+    },
+    "1009401": {
+        "characterID": "1009401",
+        "name": "Lifeguard"
+    },
+    "1009602": {
+        "characterID": "1009602",
+        "name": "Slipstream"
+    },
+    "1009201": {
+        "characterID": "1009201",
+        "name": "Blok"
+    },
+    "1009460": {
+        "characterID": "1009460",
+        "name": "Mr. Fixit"
+    },
+    "1010841": {
+        "characterID": "1010841",
+        "name": "Zaran"
+    },
+    "1011098": {
+        "characterID": "1011098",
+        "name": "Genis-Vell"
+    },
+    "1014991": {
+        "characterID": "1014991",
+        "name": "Crusher Hogan (Ultimate)"
+    },
+    "1011362": {
+        "characterID": "1011362",
+        "name": "Cottonmouth"
+    },
+    "1009238": {
+        "characterID": "1009238",
+        "name": "Chronomancer"
+    },
+    "1010769": {
+        "characterID": "1010769",
+        "name": "Rocket Racer"
+    },
+    "1012513": {
+        "characterID": "1012513",
+        "name": "Gargoyle (Yuri Topolov)"
+    },
+    "1009637": {
+        "characterID": "1009637",
+        "name": "Sunset Bain"
+    },
+    "1009640": {
+        "characterID": "1009640",
+        "name": "Switch"
+    },
+    "1009647": {
+        "characterID": "1009647",
+        "name": "Tarot"
+    },
+    "1009388": {
+        "characterID": "1009388",
+        "name": "King Bedlam"
+    },
+    "1009688": {
+        "characterID": "1009688",
+        "name": "Carmella Unuscione"
+    },
+    "1010343": {
+        "characterID": "1010343",
+        "name": "Human Cannonball"
+    },
+    "1009741": {
+        "characterID": "1009741",
+        "name": "Zombie (Simon Garth)"
+    },
+    "1009623": {
+        "characterID": "1009623",
+        "name": "Morgan Stark"
+    },
+    "1011091": {
+        "characterID": "1011091",
+        "name": "Hannibal King"
+    },
+    "1009203": {
+        "characterID": "1009203",
+        "name": "Bloodscream"
+    },
+    "1011004": {
+        "characterID": "1011004",
+        "name": "M.O.D.A.M."
+    },
+    "1009569": {
+        "characterID": "1009569",
+        "name": "Senator Kelly"
+    },
+    "1009481": {
+        "characterID": "1009481",
+        "name": "Ogun"
+    },
+    "1010874": {
+        "characterID": "1010874",
+        "name": "Slyde"
+    },
+    "1010930": {
+        "characterID": "1010930",
+        "name": "Hobgoblin (Jason Macendale)"
+    },
+    "1011319": {
+        "characterID": "1011319",
+        "name": "Ken Ellis"
+    },
+    "1009226": {
+        "characterID": "1009226",
+        "name": "Cargill"
+    },
+    "1014985": {
+        "characterID": "1014985",
+        "name": "Green Goblin (Barry Norman Osborn)"
+    },
+    "1009528": {
+        "characterID": "1009528",
+        "name": "Randall"
+    },
+    "1009307": {
+        "characterID": "1009307",
+        "name": "Force Works"
+    },
+    "1010995": {
+        "characterID": "1010995",
+        "name": "Wolfsbane (Age of Apocalypse)"
+    },
+    "1009457": {
+        "characterID": "1009457",
+        "name": "Mother Askani"
+    },
+    "1009341": {
+        "characterID": "1009341",
+        "name": "Hemingway"
+    },
+    "1009455": {
+        "characterID": "1009455",
+        "name": "Morg"
+    },
+    "1011342": {
+        "characterID": "1011342",
+        "name": "Vance Astro"
+    },
+    "1010936": {
+        "characterID": "1010936",
+        "name": "Jubilee (Age of Apocalypse)"
+    },
+    "1010973": {
+        "characterID": "1010973",
+        "name": "Shadow King (Age of Apocalypse)"
+    },
+    "1010953": {
+        "characterID": "1010953",
+        "name": "Mystique (Age of Apocalypse)"
+    },
+    "1011341": {
+        "characterID": "1011341",
+        "name": "Starhawk (Stakar Ogord)"
+    },
+    "1010912": {
+        "characterID": "1010912",
+        "name": "Callisto (Age of Apocalypse)"
+    },
+    "1009691": {
+        "characterID": "1009691",
+        "name": "Vengeance (Michael Badilino)"
+    },
+    "1009566": {
+        "characterID": "1009566",
+        "name": "Scream (Donna Diego)"
+    },
+    "1010987": {
+        "characterID": "1010987",
+        "name": "Unus (Age of Apocalypse)"
+    },
+    "1011021": {
+        "characterID": "1011021",
+        "name": "Phalanx"
+    },
+    "1011008": {
+        "characterID": "1011008",
+        "name": "Morlocks"
+    },
+    "1014063": {
+        "characterID": "1014063",
+        "name": "Night Thrasher (Dwayne Taylor)"
+    },
+    "1009582": {
+        "characterID": "1009582",
+        "name": "Shinobi Shaw"
+    },
+    "1010848": {
+        "characterID": "1010848",
+        "name": "Silhouette"
+    },
+    "1011071": {
+        "characterID": "1011071",
+        "name": "Demogoblin"
+    },
+    "1011361": {
+        "characterID": "1011361",
+        "name": "American Eagle (Jason Strongbow)"
+    },
+    "1009646": {
+        "characterID": "1009646",
+        "name": "Talisman (Elizabeth Twoyoungmen)"
+    },
+    "1011150": {
+        "characterID": "1011150",
+        "name": "Paibok"
+    },
+    "1011141": {
+        "characterID": "1011141",
+        "name": "Cerise"
+    },
+    "1011330": {
+        "characterID": "1011330",
+        "name": "Revanche"
+    },
+    "1009678": {
+        "characterID": "1009678",
+        "name": "Tusk"
+    },
+    "1009248": {
+        "characterID": "1009248",
+        "name": "Fabian Cortez"
+    },
+    "1017109": {
+        "characterID": "1017109",
+        "name": "Black Widow/Natasha Romanoff (MAA)"
+    },
+    "1011034": {
+        "characterID": "1011034",
+        "name": "Terror"
+    },
+    "1009510": {
+        "characterID": "1009510",
+        "name": "PsyNapse"
+    },
+    "1009575": {
+        "characterID": "1009575",
+        "name": "Shalla-bal"
+    },
+    "1010331": {
+        "characterID": "1010331",
+        "name": "Monster Badoon"
+    },
+    "1011134": {
+        "characterID": "1011134",
+        "name": "Microchip"
+    },
+    "1011073": {
+        "characterID": "1011073",
+        "name": "Bloodaxe"
+    },
+    "1010928": {
+        "characterID": "1010928",
+        "name": "Green Goblin (Harry Osborn)"
+    },
+    "1009218": {
+        "characterID": "1009218",
+        "name": "Calypso"
+    },
+    "1010977": {
+        "characterID": "1010977",
+        "name": "Lieutenant Marcus Stone"
+    },
+    "1010372": {
+        "characterID": "1010372",
+        "name": "Warhawk (Mitchell Tanner)"
+    },
+    "1009635": {
+        "characterID": "1009635",
+        "name": "Sumo"
+    },
+    "1009586": {
+        "characterID": "1009586",
+        "name": "Shotgun"
+    },
+    "1009335": {
+        "characterID": "1009335",
+        "name": "Felicia Hardy"
+    },
+    "1010949": {
+        "characterID": "1010949",
+        "name": "Moon Knight (House of M)"
+    },
+    "1011306": {
+        "characterID": "1011306",
+        "name": "Dargo Ktor"
+    },
+    "1011159": {
+        "characterID": "1011159",
+        "name": "Stellaris"
+    },
+    "1009178": {
+        "characterID": "1009178",
+        "name": "Beef"
+    },
+    "1009373": {
+        "characterID": "1009373",
+        "name": "Jetstream"
+    },
+    "1010859": {
+        "characterID": "1010859",
+        "name": "Black Crow"
+    },
+    "1010356": {
+        "characterID": "1010356",
+        "name": "Black Queen"
+    },
+    "1010824": {
+        "characterID": "1010824",
+        "name": "Shooting Star"
+    },
+    "1011077": {
+        "characterID": "1011077",
+        "name": "Ikaris"
+    },
+    "1011230": {
+        "characterID": "1011230",
+        "name": "Scrambler"
+    },
+    "1011281": {
+        "characterID": "1011281",
+        "name": "Wolfpack"
+    },
+    "1011315": {
+        "characterID": "1011315",
+        "name": "U-Foes"
+    },
+    "1010957": {
+        "characterID": "1010957",
+        "name": "Orphan-Maker"
+    },
+    "1010668": {
+        "characterID": "1010668",
+        "name": "Warren Worthington III"
+    },
+    "1009642": {
+        "characterID": "1009642",
+        "name": "Sym"
+    },
+    "1011205": {
+        "characterID": "1011205",
+        "name": "Madripoor"
+    },
+    "1010858": {
+        "characterID": "1010858",
+        "name": "Shockwave"
+    },
+    "1009230": {
+        "characterID": "1009230",
+        "name": "Catseye"
+    },
+    "1009549": {
+        "characterID": "1009549",
+        "name": "Roulette"
+    },
+    "1011349": {
+        "characterID": "1011349",
+        "name": "Blackout"
+    },
+    "1010368": {
+        "characterID": "1010368",
+        "name": "Dreadnoughts"
+    },
+    "1010816": {
+        "characterID": "1010816",
+        "name": "Hate-Monger (Adolf Hitler)"
+    },
+    "1009668": {
+        "characterID": "1009668",
+        "name": "Thunderbolt (Bill Carver)"
+    },
+    "1010355": {
+        "characterID": "1010355",
+        "name": "Elements of Doom"
+    },
+    "1011228": {
+        "characterID": "1011228",
+        "name": "Outlaw Kid"
+    },
+    "1009422": {
+        "characterID": "1009422",
+        "name": "Mandroid"
+    },
+    "1010902": {
+        "characterID": "1010902",
+        "name": "Mordo"
+    },
+    "1009674": {
+        "characterID": "1009674",
+        "name": "Toad Men"
+    },
+    "1011286": {
+        "characterID": "1011286",
+        "name": "Cobalt Man"
+    },
+    "1011425": {
+        "characterID": "1011425",
+        "name": "Whizzer (Stanley Stewart)"
+    },
+    "1010894": {
+        "characterID": "1010894",
+        "name": "Millie the Model"
+    },
+    "1011395": {
+        "characterID": "1011395",
+        "name": "Talon (Fraternity of Raptors)"
+    },
+    "1011196": {
+        "characterID": "1011196",
+        "name": "Captain Flint"
+    },
+    "1009397": {
+        "characterID": "1009397",
+        "name": "Lava-Man"
+    },
+    "1011113": {
+        "characterID": "1011113",
+        "name": "Blue Blade"
+    },
+    "1011094": {
+        "characterID": "1011094",
+        "name": "Xavin"
+    }
+}

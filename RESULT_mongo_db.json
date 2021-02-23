@@ -1,0 +1,7021 @@
+[{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be21"
+  },
+  "characterID": "1009220",
+  "name": "Captain America"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be22"
+  },
+  "characterID": "1010740",
+  "name": "Winter Soldier"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be23"
+  },
+  "characterID": "1009471",
+  "name": "Nick Fury"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be24"
+  },
+  "characterID": "1009552",
+  "name": "S.H.I.E.L.D."
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be25"
+  },
+  "characterID": "1009228",
+  "name": "Sharon Carter"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be26"
+  },
+  "characterID": "1011109",
+  "name": "X-Men (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be27"
+  },
+  "characterID": "1010808",
+  "name": "Hawkeye (Kate Bishop)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be28"
+  },
+  "characterID": "1009515",
+  "name": "Punisher"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be29"
+  },
+  "characterID": "1009252",
+  "name": "Crossbones"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be2a"
+  },
+  "characterID": "1009535",
+  "name": "Red Skull"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be2b"
+  },
+  "characterID": "1010899",
+  "name": "Spitfire"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be2c"
+  },
+  "characterID": "1011010",
+  "name": "Spider-Man (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be2d"
+  },
+  "characterID": "1009175",
+  "name": "Beast"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be2e"
+  },
+  "characterID": "1009243",
+  "name": "Colossus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be2f"
+  },
+  "characterID": "1009257",
+  "name": "Cyclops"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be30"
+  },
+  "characterID": "1009310",
+  "name": "Emma Frost"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be31"
+  },
+  "characterID": "1009508",
+  "name": "Kitty Pryde"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be32"
+  },
+  "characterID": "1009718",
+  "name": "Wolverine"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be33"
+  },
+  "characterID": "1009726",
+  "name": "X-Men"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be34"
+  },
+  "characterID": "1009359",
+  "name": "Hydra"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be35"
+  },
+  "characterID": "1009454",
+  "name": "Morbius"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be36"
+  },
+  "characterID": "1009610",
+  "name": "Spider-Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be37"
+  },
+  "characterID": "1009368",
+  "name": "Iron Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be38"
+  },
+  "characterID": "1010898",
+  "name": "Sin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be39"
+  },
+  "characterID": "1010676",
+  "name": "Colleen Wing"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be3a"
+  },
+  "characterID": "1010682",
+  "name": "Misty Knight"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be3b"
+  },
+  "characterID": "1009367",
+  "name": "Iron Fist (Danny Rand)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be3c"
+  },
+  "characterID": "1009268",
+  "name": "Deadpool"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be3d"
+  },
+  "characterID": "1009270",
+  "name": "Deathbird"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be3e"
+  },
+  "characterID": "1009313",
+  "name": "Gambit"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be3f"
+  },
+  "characterID": "1009363",
+  "name": "Imperial Guard"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be40"
+  },
+  "characterID": "1009546",
+  "name": "Rogue"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be41"
+  },
+  "characterID": "1010338",
+  "name": "Captain Marvel (Carol Danvers)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be42"
+  },
+  "characterID": "1009378",
+  "name": "Jessica Jones"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be43"
+  },
+  "characterID": "1009215",
+  "name": "Luke Cage"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be44"
+  },
+  "characterID": "1011197",
+  "name": "Scarlet Spider (Ben Reilly)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be45"
+  },
+  "characterID": "1011426",
+  "name": "Scarlet Spider (Kaine)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be46"
+  },
+  "characterID": "1009277",
+  "name": "Domino"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be47"
+  },
+  "characterID": "1009393",
+  "name": "Lady Deathstrike"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be48"
+  },
+  "characterID": "1009482",
+  "name": "Omega Red"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be49"
+  },
+  "characterID": "1009554",
+  "name": "Sabretooth"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be4a"
+  },
+  "characterID": "1009705",
+  "name": "Warpath"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be4b"
+  },
+  "characterID": "1009709",
+  "name": "Weapon X"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be4c"
+  },
+  "characterID": "1009283",
+  "name": "Dragon Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be4d"
+  },
+  "characterID": "1009299",
+  "name": "Fantastic Four"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be4e"
+  },
+  "characterID": "1009312",
+  "name": "Galactus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be4f"
+  },
+  "characterID": "1009365",
+  "name": "Inhumans"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be50"
+  },
+  "characterID": "1009592",
+  "name": "Silver Surfer"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be51"
+  },
+  "characterID": "1009599",
+  "name": "Skrulls"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be52"
+  },
+  "characterID": "1009168",
+  "name": "Banshee"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be53"
+  },
+  "characterID": "1009267",
+  "name": "Dazzler"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be54"
+  },
+  "characterID": "1009337",
+  "name": "Havok"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be55"
+  },
+  "characterID": "1017577",
+  "name": "Ms. Marvel (Kamala Khan)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be56"
+  },
+  "characterID": "1010860",
+  "name": "Squirrel Girl"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be57"
+  },
+  "characterID": "1009351",
+  "name": "Hulk"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be58"
+  },
+  "characterID": "1009560",
+  "name": "Sasquatch (Walter Langkowski)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be59"
+  },
+  "characterID": "1017438",
+  "name": "Araña"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be5a"
+  },
+  "characterID": "1010805",
+  "name": "Machine Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be5b"
+  },
+  "characterID": "1010761",
+  "name": "Sleepwalker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be5c"
+  },
+  "characterID": "1010801",
+  "name": "Ant-Man (Scott Lang)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be5d"
+  },
+  "characterID": "1009505",
+  "name": "Proteus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be5e"
+  },
+  "characterID": "1009512",
+  "name": "Psylocke"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be5f"
+  },
+  "characterID": "1009472",
+  "name": "Nightcrawler"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be60"
+  },
+  "characterID": "1009430",
+  "name": "Rachel Grey"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be61"
+  },
+  "characterID": "1009629",
+  "name": "Storm"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be62"
+  },
+  "characterID": "1009733",
+  "name": "Charles Xavier"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be63"
+  },
+  "characterID": "1009327",
+  "name": "Jean Grey"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be64"
+  },
+  "characterID": "1009281",
+  "name": "Doctor Doom"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be65"
+  },
+  "characterID": "1009466",
+  "name": "Namor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be66"
+  },
+  "characterID": "1009644",
+  "name": "T'Challa"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be67"
+  },
+  "characterID": "1009282",
+  "name": "Doctor Strange"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be68"
+  },
+  "characterID": "1010733",
+  "name": "Star-Lord (Peter Quill)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be69"
+  },
+  "characterID": "1009241",
+  "name": "Cloak"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be6a"
+  },
+  "characterID": "1009258",
+  "name": "Dagger"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be6b"
+  },
+  "characterID": "1011385",
+  "name": "Cypher"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be6c"
+  },
+  "characterID": "1009262",
+  "name": "Daredevil"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be6d"
+  },
+  "characterID": "1009664",
+  "name": "Thor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be6e"
+  },
+  "characterID": "1009625",
+  "name": "Stepford Cuckoos"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be6f"
+  },
+  "characterID": "1009722",
+  "name": "X-23"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be70"
+  },
+  "characterID": "1010354",
+  "name": "Adam Warlock"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be71"
+  },
+  "characterID": "1009407",
+  "name": "Loki"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be72"
+  },
+  "characterID": "1009652",
+  "name": "Thanos"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be73"
+  },
+  "characterID": "1009356",
+  "name": "Human Torch"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be74"
+  },
+  "characterID": "1009662",
+  "name": "Thing"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be75"
+  },
+  "characterID": "1009381",
+  "name": "Jubilee"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be76"
+  },
+  "characterID": "1010787",
+  "name": "Eddie Brock"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be77"
+  },
+  "characterID": "1009404",
+  "name": "Lizard"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be78"
+  },
+  "characterID": "1009609",
+  "name": "Spider-Girl (May Parker)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be79"
+  },
+  "characterID": "1009571",
+  "name": "Sentry (Robert Reynolds)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be7a"
+  },
+  "characterID": "1009204",
+  "name": "Bloodstorm"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be7b"
+  },
+  "characterID": "1009417",
+  "name": "Magneto"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be7c"
+  },
+  "characterID": "1013483",
+  "name": "Nakia (Nakia)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be7d"
+  },
+  "characterID": "1017583",
+  "name": "Devil Dinosaur (Devil Dinosaur)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be7e"
+  },
+  "characterID": "1009332",
+  "name": "H.E.R.B.I.E."
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be7f"
+  },
+  "characterID": "1009297",
+  "name": "Falcon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be80"
+  },
+  "characterID": "1009399",
+  "name": "Legion"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be81"
+  },
+  "characterID": "1009165",
+  "name": "Avengers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be82"
+  },
+  "characterID": "1010813",
+  "name": "Celestials"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be83"
+  },
+  "characterID": "1009376",
+  "name": "Jocasta"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be84"
+  },
+  "characterID": "1009189",
+  "name": "Black Widow"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be85"
+  },
+  "characterID": "1011299",
+  "name": "Guardians of the Galaxy"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be86"
+  },
+  "characterID": "1011490",
+  "name": "Hank Pym"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be87"
+  },
+  "characterID": "1009214",
+  "name": "Cable"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be88"
+  },
+  "characterID": "1009265",
+  "name": "Dark Phoenix"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be89"
+  },
+  "characterID": "1010747",
+  "name": "Runaways"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be8a"
+  },
+  "characterID": "1011001",
+  "name": "Daken"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be8b"
+  },
+  "characterID": "1009406",
+  "name": "Lockjaw"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be8c"
+  },
+  "characterID": "1009338",
+  "name": "Hawkeye"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be8d"
+  },
+  "characterID": "1009478",
+  "name": "Cassandra Nova"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be8e"
+  },
+  "characterID": "1011223",
+  "name": "Skaar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be8f"
+  },
+  "characterID": "1011227",
+  "name": "Amadeus Cho"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be90"
+  },
+  "characterID": "1017078",
+  "name": "Nova (Sam Alexander)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be91"
+  },
+  "characterID": "1016181",
+  "name": "Spider-Man (Miles Morales)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be92"
+  },
+  "characterID": "1009447",
+  "name": "Mister Sinister"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be93"
+  },
+  "characterID": "1010359",
+  "name": "The Hand"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be94"
+  },
+  "characterID": "1009524",
+  "name": "Quicksilver"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be95"
+  },
+  "characterID": "1009562",
+  "name": "Scarlet Witch"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be96"
+  },
+  "characterID": "1009274",
+  "name": "Diamondback (Rachel Leighton)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be97"
+  },
+  "characterID": "1009577",
+  "name": "Shang-Chi"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be98"
+  },
+  "characterID": "1009212",
+  "name": "Bullseye"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be99"
+  },
+  "characterID": "1009197",
+  "name": "Blink"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be9a"
+  },
+  "characterID": "1009294",
+  "name": "Exiles"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be9b"
+  },
+  "characterID": "1010704",
+  "name": "Iron Lad"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be9c"
+  },
+  "characterID": "1010763",
+  "name": "Gamora"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be9d"
+  },
+  "characterID": "1009480",
+  "name": "Odin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be9e"
+  },
+  "characterID": "1009389",
+  "name": "Kingpin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205be9f"
+  },
+  "characterID": "1011020",
+  "name": "Darkhawk"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bea0"
+  },
+  "characterID": "1011336",
+  "name": "New Mutants"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bea1"
+  },
+  "characterID": "1009391",
+  "name": "Kraven the Hunter"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bea2"
+  },
+  "characterID": "1011023",
+  "name": "Defenders"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bea3"
+  },
+  "characterID": "1009280",
+  "name": "Dormammu"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bea4"
+  },
+  "characterID": "1009473",
+  "name": "Nightmare"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bea5"
+  },
+  "characterID": "1009707",
+  "name": "Wasp"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bea6"
+  },
+  "characterID": "1009224",
+  "name": "Captain Marvel (Mar-Vell)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bea7"
+  },
+  "characterID": "1009229",
+  "name": "Frank Castle"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bea8"
+  },
+  "characterID": "1009639",
+  "name": "Super-Skrull"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bea9"
+  },
+  "characterID": "1009440",
+  "name": "Mephisto"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beaa"
+  },
+  "characterID": "1011060",
+  "name": "Ego"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beab"
+  },
+  "characterID": "1009632",
+  "name": "Stryfe"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beac"
+  },
+  "characterID": "1011030",
+  "name": "Prodigy"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bead"
+  },
+  "characterID": "1011348",
+  "name": "Ricochet"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beae"
+  },
+  "characterID": "1009504",
+  "name": "Professor X"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beaf"
+  },
+  "characterID": "1010324",
+  "name": "Victor Von Doom"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beb0"
+  },
+  "characterID": "1009420",
+  "name": "Man-Thing"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beb1"
+  },
+  "characterID": "1010861",
+  "name": "Scarecrow (Ebenezer Laughton)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beb2"
+  },
+  "characterID": "1009187",
+  "name": "Black Panther"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beb3"
+  },
+  "characterID": "1009239",
+  "name": "Clea"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beb4"
+  },
+  "characterID": "1009390",
+  "name": "Klaw"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beb5"
+  },
+  "characterID": "1009167",
+  "name": "Bruce Banner"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beb6"
+  },
+  "characterID": "1017576",
+  "name": "Thor (Goddess of Thunder)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beb7"
+  },
+  "characterID": "1010756",
+  "name": "Champions"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beb8"
+  },
+  "characterID": "1010701",
+  "name": "Elsa Bloodstone"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beb9"
+  },
+  "characterID": "1009303",
+  "name": "Fin Fang Foom"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beba"
+  },
+  "characterID": "1011285",
+  "name": "Generation X"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bebb"
+  },
+  "characterID": "1009387",
+  "name": "Quentin Quire"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bebc"
+  },
+  "characterID": "1009185",
+  "name": "Black Cat"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bebd"
+  },
+  "characterID": "1011367",
+  "name": "Dark Avengers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bebe"
+  },
+  "characterID": "1009708",
+  "name": "Mary Jane Watson"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bebf"
+  },
+  "characterID": "1009325",
+  "name": "Norman Osborn"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bec0"
+  },
+  "characterID": "1011300",
+  "name": "High Evolutionary"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bec1"
+  },
+  "characterID": "1009697",
+  "name": "Vision"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bec2"
+  },
+  "characterID": "1009719",
+  "name": "Wonder Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bec3"
+  },
+  "characterID": "1011298",
+  "name": "Armor (Hisako Ichiki)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bec4"
+  },
+  "characterID": "1016825",
+  "name": "Ultimate Spider-Man (USM)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bec5"
+  },
+  "characterID": "1009153",
+  "name": "Angel (Warren Worthington III)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bec6"
+  },
+  "characterID": "1009362",
+  "name": "Iceman"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bec7"
+  },
+  "characterID": "1009573",
+  "name": "Shadow King"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bec8"
+  },
+  "characterID": "1009256",
+  "name": "Cyber"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bec9"
+  },
+  "characterID": "1009385",
+  "name": "Karnak"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beca"
+  },
+  "characterID": "1009415",
+  "name": "Magik (Illyana Rasputin)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205becb"
+  },
+  "characterID": "1014528",
+  "name": "Quake (Daisy Johnson)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205becc"
+  },
+  "characterID": "1010329",
+  "name": "Jane Foster"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205becd"
+  },
+  "characterID": "1009180",
+  "name": "Beta-Ray Bill"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bece"
+  },
+  "characterID": "1011428",
+  "name": "Hope Summers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205becf"
+  },
+  "characterID": "1011305",
+  "name": "Maximus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bed0"
+  },
+  "characterID": "1009487",
+  "name": "Iron Patriot"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bed1"
+  },
+  "characterID": "1009372",
+  "name": "J. Jonah Jameson"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bed2"
+  },
+  "characterID": "1009699",
+  "name": "Vulture (Adrian Toomes)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bed3"
+  },
+  "characterID": "1009190",
+  "name": "Blackheart"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bed4"
+  },
+  "characterID": "1017574",
+  "name": "Angela (Aldrif Odinsdottir)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bed5"
+  },
+  "characterID": "1009663",
+  "name": "Venom (Flash Thompson)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bed6"
+  },
+  "characterID": "1011346",
+  "name": "Ben Reilly"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bed7"
+  },
+  "characterID": "1011288",
+  "name": "Jackal"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bed8"
+  },
+  "characterID": "1009408",
+  "name": "Longshot"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bed9"
+  },
+  "characterID": "1009580",
+  "name": "Shatterstar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beda"
+  },
+  "characterID": "1009195",
+  "name": "Blastaar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bedb"
+  },
+  "characterID": "1010799",
+  "name": "Frightful Four"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bedc"
+  },
+  "characterID": "1010744",
+  "name": "Rocket Raccoon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bedd"
+  },
+  "characterID": "1009398",
+  "name": "Leader"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bede"
+  },
+  "characterID": "1009583",
+  "name": "She-Hulk (Jennifer Walters)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bedf"
+  },
+  "characterID": "1009170",
+  "name": "Baron Zemo (Heinrich Zemo)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bee0"
+  },
+  "characterID": "1009211",
+  "name": "Bucky"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bee1"
+  },
+  "characterID": "1009685",
+  "name": "Ultron"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bee2"
+  },
+  "characterID": "1011104",
+  "name": "Pride"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bee3"
+  },
+  "characterID": "1009172",
+  "name": "Batroc the Leaper"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bee4"
+  },
+  "characterID": "1010735",
+  "name": "Drax"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bee5"
+  },
+  "characterID": "1009477",
+  "name": "Nova"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bee6"
+  },
+  "characterID": "1009144",
+  "name": "A.I.M."
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bee7"
+  },
+  "characterID": "1011312",
+  "name": "Korvac"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bee8"
+  },
+  "characterID": "1010726",
+  "name": "M.O.D.O.K."
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bee9"
+  },
+  "characterID": "1009483",
+  "name": "Onslaught"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beea"
+  },
+  "characterID": "1011101",
+  "name": "Butterfly"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beeb"
+  },
+  "characterID": "1011016",
+  "name": "Darwin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beec"
+  },
+  "characterID": "1011068",
+  "name": "M (Monet St. Croix)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beed"
+  },
+  "characterID": "1009413",
+  "name": "Madrox"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beee"
+  },
+  "characterID": "1009499",
+  "name": "Polaris"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beef"
+  },
+  "characterID": "1009542",
+  "name": "Rictor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bef0"
+  },
+  "characterID": "1009717",
+  "name": "Wolfsbane"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bef1"
+  },
+  "characterID": "1010739",
+  "name": "X-Factor Investigations"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bef2"
+  },
+  "characterID": "1010366",
+  "name": "Boom Boom"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bef3"
+  },
+  "characterID": "1009309",
+  "name": "Forge"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bef4"
+  },
+  "characterID": "1011086",
+  "name": "Nemesis"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bef5"
+  },
+  "characterID": "1009724",
+  "name": "X-Force"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bef6"
+  },
+  "characterID": "1009538",
+  "name": "Iron Patriot (James Rhodes)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bef7"
+  },
+  "characterID": "1009494",
+  "name": "Pepper Potts"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bef8"
+  },
+  "characterID": "1009692",
+  "name": "Toxin (Eddie Brock)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bef9"
+  },
+  "characterID": "1009184",
+  "name": "Black Bolt"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205befa"
+  },
+  "characterID": "1009459",
+  "name": "Mr. Fantastic"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205befb"
+  },
+  "characterID": "1009182",
+  "name": "Bishop"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205befc"
+  },
+  "characterID": "1009301",
+  "name": "Fantomex"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205befd"
+  },
+  "characterID": "1009513",
+  "name": "Puck"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205befe"
+  },
+  "characterID": "1009614",
+  "name": "Spiral (Rita Wayword)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205beff"
+  },
+  "characterID": "1009578",
+  "name": "Shanna the She-Devil"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf00"
+  },
+  "characterID": "1016452",
+  "name": "Spider-Man (Ai Apaec)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf01"
+  },
+  "characterID": "1009631",
+  "name": "Sue Storm"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf02"
+  },
+  "characterID": "1009682",
+  "name": "U.S. Agent"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf03"
+  },
+  "characterID": "1009740",
+  "name": "Arnim Zola"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf04"
+  },
+  "characterID": "1010803",
+  "name": "Ultimates"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf05"
+  },
+  "characterID": "1011006",
+  "name": "Wolverine (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf06"
+  },
+  "characterID": "1011335",
+  "name": "Maria Hill"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf07"
+  },
+  "characterID": "1009148",
+  "name": "Absorbing Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf08"
+  },
+  "characterID": "1009405",
+  "name": "Lockheed"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf09"
+  },
+  "characterID": "1009608",
+  "name": "Spider-Woman (Jessica Drew)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf0a"
+  },
+  "characterID": "1009539",
+  "name": "Franklin Richards"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf0b"
+  },
+  "characterID": "1009525",
+  "name": "Valeria Richards"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf0c"
+  },
+  "characterID": "1009588",
+  "name": "Sif"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf0d"
+  },
+  "characterID": "1009384",
+  "name": "Kang"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf0e"
+  },
+  "characterID": "1011297",
+  "name": "Agent Brand"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf0f"
+  },
+  "characterID": "1009675",
+  "name": "Tombstone"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf10"
+  },
+  "characterID": "1011056",
+  "name": "Multiple Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf11"
+  },
+  "characterID": "1011035",
+  "name": "Satana"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf12"
+  },
+  "characterID": "1009223",
+  "name": "Captain Britain"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf13"
+  },
+  "characterID": "1010771",
+  "name": "Excalibur"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf14"
+  },
+  "characterID": "1009156",
+  "name": "Apocalypse"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf15"
+  },
+  "characterID": "1009636",
+  "name": "Sunfire"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf16"
+  },
+  "characterID": "1009536",
+  "name": "Cecilia Reyes"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf17"
+  },
+  "characterID": "1011386",
+  "name": "Karma"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf18"
+  },
+  "characterID": "1009465",
+  "name": "Mystique"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf19"
+  },
+  "characterID": "1009476",
+  "name": "Northstar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf1a"
+  },
+  "characterID": "1009703",
+  "name": "Warbird"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf1b"
+  },
+  "characterID": "1009276",
+  "name": "Doctor Octopus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf1c"
+  },
+  "characterID": "1010809",
+  "name": "Clint Barton"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf1d"
+  },
+  "characterID": "1009427",
+  "name": "Marvel Boy"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf1e"
+  },
+  "characterID": "1011424",
+  "name": "Miss America"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf1f"
+  },
+  "characterID": "1009714",
+  "name": "Wiccan"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf20"
+  },
+  "characterID": "1010698",
+  "name": "Young Avengers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf21"
+  },
+  "characterID": "1009495",
+  "name": "Pestilence"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf22"
+  },
+  "characterID": "1009626",
+  "name": "Stick"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf23"
+  },
+  "characterID": "1009670",
+  "name": "Tigra (Greer Nelson)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf24"
+  },
+  "characterID": "1011052",
+  "name": "Cardiac"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf25"
+  },
+  "characterID": "1010969",
+  "name": "Sabretooth (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf26"
+  },
+  "characterID": "1010743",
+  "name": "Groot"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf27"
+  },
+  "characterID": "1010907",
+  "name": "Dark Beast"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf28"
+  },
+  "characterID": "1009343",
+  "name": "Hercules"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf29"
+  },
+  "characterID": "1010777",
+  "name": "James Howlett"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf2a"
+  },
+  "characterID": "1009555",
+  "name": "Sage"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf2b"
+  },
+  "characterID": "1011291",
+  "name": "Blindfold"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf2c"
+  },
+  "characterID": "1011051",
+  "name": "Strong Guy"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf2d"
+  },
+  "characterID": "1011242",
+  "name": "Screwball"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf2e"
+  },
+  "characterID": "1009720",
+  "name": "Wong"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf2f"
+  },
+  "characterID": "1011323",
+  "name": "Sentinels"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf30"
+  },
+  "characterID": "1009470",
+  "name": "Foggy Nelson"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf31"
+  },
+  "characterID": "1009648",
+  "name": "Taskmaster"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf32"
+  },
+  "characterID": "1009452",
+  "name": "Moon Knight"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf33"
+  },
+  "characterID": "1009279",
+  "name": "Doop"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf34"
+  },
+  "characterID": "1011027",
+  "name": "Captain Universe"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf35"
+  },
+  "characterID": "1010890",
+  "name": "Deathlok"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf36"
+  },
+  "characterID": "1010746",
+  "name": "Nico Minoru"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf37"
+  },
+  "characterID": "1011376",
+  "name": "Reptil"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf38"
+  },
+  "characterID": "1010802",
+  "name": "Ant-Man (Eric O'Grady)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf39"
+  },
+  "characterID": "1009209",
+  "name": "Brotherhood of Evil Mutants"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf3a"
+  },
+  "characterID": "1009233",
+  "name": "Chamber"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf3b"
+  },
+  "characterID": "1011179",
+  "name": "Pixie"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf3c"
+  },
+  "characterID": "1009627",
+  "name": "Stilt-Man (Wibur Day)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf3d"
+  },
+  "characterID": "1010935",
+  "name": "Iron Man (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf3e"
+  },
+  "characterID": "1009624",
+  "name": "Tony Stark"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf3f"
+  },
+  "characterID": "1009261",
+  "name": "Carol Danvers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf40"
+  },
+  "characterID": "1009181",
+  "name": "Big Wheel"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf41"
+  },
+  "characterID": "1010371",
+  "name": "Boomerang"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf42"
+  },
+  "characterID": "1009585",
+  "name": "Shocker (Herman Schultz)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf43"
+  },
+  "characterID": "1011032",
+  "name": "Speed Demon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf44"
+  },
+  "characterID": "1010758",
+  "name": "Illuminati"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf45"
+  },
+  "characterID": "1009616",
+  "name": "Spot"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf46"
+  },
+  "characterID": "1009191",
+  "name": "Blade"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf47"
+  },
+  "characterID": "1010719",
+  "name": "Daimon Hellstrom"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf48"
+  },
+  "characterID": "1009318",
+  "name": "Ghost Rider (Johnny Blaze)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf49"
+  },
+  "characterID": "1009159",
+  "name": "Archangel"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf4a"
+  },
+  "characterID": "1010906",
+  "name": "Baron Zemo (Helmut Zemo)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf4b"
+  },
+  "characterID": "1011307",
+  "name": "Star Brand"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf4c"
+  },
+  "characterID": "1010785",
+  "name": "Echo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf4d"
+  },
+  "characterID": "1009208",
+  "name": "Brood"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf4e"
+  },
+  "characterID": "1010738",
+  "name": "X-Factor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf4f"
+  },
+  "characterID": "1009590",
+  "name": "Silver Sable"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf50"
+  },
+  "characterID": "1009568",
+  "name": "Selene"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf51"
+  },
+  "characterID": "1017575",
+  "name": "Captain America (Sam Wilson)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf52"
+  },
+  "characterID": "1009537",
+  "name": "Rhino"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf53"
+  },
+  "characterID": "1009357",
+  "name": "Husk"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf54"
+  },
+  "characterID": "1010370",
+  "name": "Alpha Flight"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf55"
+  },
+  "characterID": "1011076",
+  "name": "Grandmaster"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf56"
+  },
+  "characterID": "1011220",
+  "name": "Mockingbird"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf57"
+  },
+  "characterID": "1009448",
+  "name": "Mojo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf58"
+  },
+  "characterID": "1009171",
+  "name": "Bastion"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf59"
+  },
+  "characterID": "1009340",
+  "name": "Hellfire Club"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf5a"
+  },
+  "characterID": "1009581",
+  "name": "Sebastian Shaw"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf5b"
+  },
+  "characterID": "1009288",
+  "name": "Elektra"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf5c"
+  },
+  "characterID": "1009304",
+  "name": "Firebrand"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf5d"
+  },
+  "characterID": "1011022",
+  "name": "Super-Adaptoid"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf5e"
+  },
+  "characterID": "1010913",
+  "name": "Captain America (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf5f"
+  },
+  "characterID": "1009227",
+  "name": "Carnage"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf60"
+  },
+  "characterID": "1010926",
+  "name": "Giant-Man (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf61"
+  },
+  "characterID": "1010699",
+  "name": "Aaron Stack"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf62"
+  },
+  "characterID": "1009382",
+  "name": "Juggernaut"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf63"
+  },
+  "characterID": "1010851",
+  "name": "Mach IV"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf64"
+  },
+  "characterID": "1010347",
+  "name": "Mr. Hyde"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf65"
+  },
+  "characterID": "1010693",
+  "name": "Songbird"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf66"
+  },
+  "characterID": "1010360",
+  "name": "Thunderbolts"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf67"
+  },
+  "characterID": "1011090",
+  "name": "Brother Voodoo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf68"
+  },
+  "characterID": "1011360",
+  "name": "Red Hulk"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf69"
+  },
+  "characterID": "1009360",
+  "name": "Hydro-Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf6a"
+  },
+  "characterID": "1009317",
+  "name": "Genesis"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf6b"
+  },
+  "characterID": "1010325",
+  "name": "Betty Brant"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf6c"
+  },
+  "characterID": "1011128",
+  "name": "Venom (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf6d"
+  },
+  "characterID": "1011328",
+  "name": "Maestro"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf6e"
+  },
+  "characterID": "1009164",
+  "name": "Avalanche"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf6f"
+  },
+  "characterID": "1009198",
+  "name": "Blizzard"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf70"
+  },
+  "characterID": "1011317",
+  "name": "Ezekiel Stane"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf71"
+  },
+  "characterID": "1009421",
+  "name": "Mandarin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf72"
+  },
+  "characterID": "1010348",
+  "name": "Whirlwind"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf73"
+  },
+  "characterID": "1009553",
+  "name": "Sabra"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf74"
+  },
+  "characterID": "1011070",
+  "name": "Slayback"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf75"
+  },
+  "characterID": "1009320",
+  "name": "Giant Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf76"
+  },
+  "characterID": "1010450",
+  "name": "Lightspeed"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf77"
+  },
+  "characterID": "1010853",
+  "name": "White Tiger (Angela Del Toro)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf78"
+  },
+  "characterID": "1009545",
+  "name": "Robbie Robertson"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf79"
+  },
+  "characterID": "1009366",
+  "name": "Invisible Woman"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf7a"
+  },
+  "characterID": "1009412",
+  "name": "Madame Hydra"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf7b"
+  },
+  "characterID": "1011244",
+  "name": "Mr. Negative"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf7c"
+  },
+  "characterID": "1009619",
+  "name": "Gwen Stacy"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf7d"
+  },
+  "characterID": "1009329",
+  "name": "Ben Grimm"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf7e"
+  },
+  "characterID": "1009199",
+  "name": "Blob"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf7f"
+  },
+  "characterID": "1011398",
+  "name": "Romulus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf80"
+  },
+  "characterID": "1009509",
+  "name": "Madelyne Pryor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf81"
+  },
+  "characterID": "1011258",
+  "name": "Carlie Cooper"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf82"
+  },
+  "characterID": "1011270",
+  "name": "ClanDestine"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf83"
+  },
+  "characterID": "1011268",
+  "name": "Cuckoo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf84"
+  },
+  "characterID": "1010917",
+  "name": "Colossus (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf85"
+  },
+  "characterID": "1011102",
+  "name": "Human Torch (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf86"
+  },
+  "characterID": "1010933",
+  "name": "Iceman (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf87"
+  },
+  "characterID": "1010966",
+  "name": "Rogue (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf88"
+  },
+  "characterID": "1009244",
+  "name": "Curt Conners"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf89"
+  },
+  "characterID": "1011100",
+  "name": "Layla Miller"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf8a"
+  },
+  "characterID": "1011234",
+  "name": "Prince of Orphans"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf8b"
+  },
+  "characterID": "1011436",
+  "name": "Red She-Hulk"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf8c"
+  },
+  "characterID": "1009315",
+  "name": "Gateway"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf8d"
+  },
+  "characterID": "1009436",
+  "name": "Mauler"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf8e"
+  },
+  "characterID": "1009284",
+  "name": "Dum Dum Dugan"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf8f"
+  },
+  "characterID": "1010373",
+  "name": "Howard The Duck"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf90"
+  },
+  "characterID": "1011002",
+  "name": "Marvel Zombies"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf91"
+  },
+  "characterID": "1009491",
+  "name": "Peter Parker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf92"
+  },
+  "characterID": "1011112",
+  "name": "The Twelve"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf93"
+  },
+  "characterID": "1009683",
+  "name": "Uatu The Watcher"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf94"
+  },
+  "characterID": "1009596",
+  "name": "Banshee (Theresa Rourke)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf95"
+  },
+  "characterID": "1011343",
+  "name": "Jamie Braddock"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf96"
+  },
+  "characterID": "1011024",
+  "name": "Invaders"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf97"
+  },
+  "characterID": "1011265",
+  "name": "Sinister Six"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf98"
+  },
+  "characterID": "1009489",
+  "name": "Ben Parker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf99"
+  },
+  "characterID": "1009490",
+  "name": "May Parker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf9a"
+  },
+  "characterID": "1009453",
+  "name": "Dani Moonstar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf9b"
+  },
+  "characterID": "1009416",
+  "name": "Magma (Amara Aquilla)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf9c"
+  },
+  "characterID": "1009638",
+  "name": "Sunspot"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf9d"
+  },
+  "characterID": "1011287",
+  "name": "Warlock (Technarchy)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf9e"
+  },
+  "characterID": "1009725",
+  "name": "X-Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bf9f"
+  },
+  "characterID": "1010791",
+  "name": "Sub-Mariner"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfa0"
+  },
+  "characterID": "1010696",
+  "name": "Union Jack (Joseph Chapman)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfa1"
+  },
+  "characterID": "1009520",
+  "name": "Purple Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfa2"
+  },
+  "characterID": "1011960",
+  "name": "Tippy Toe"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfa3"
+  },
+  "characterID": "1009292",
+  "name": "Emplate"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfa4"
+  },
+  "characterID": "1009334",
+  "name": "Hammerhead"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfa5"
+  },
+  "characterID": "1009146",
+  "name": "Abomination (Emil Blonsky)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfa6"
+  },
+  "characterID": "1009548",
+  "name": "Betty Ross"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfa7"
+  },
+  "characterID": "1009275",
+  "name": "Doc Samson"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfa8"
+  },
+  "characterID": "1009449",
+  "name": "Mole Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfa9"
+  },
+  "characterID": "1014812",
+  "name": "Thunderbolt Ross"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfaa"
+  },
+  "characterID": "1009158",
+  "name": "Arcade"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfab"
+  },
+  "characterID": "1009188",
+  "name": "Black Tom"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfac"
+  },
+  "characterID": "1010683",
+  "name": "New Warriors"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfad"
+  },
+  "characterID": "1014858",
+  "name": "Spider-Man (Ben Reilly)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfae"
+  },
+  "characterID": "1010836",
+  "name": "Alex Power"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfaf"
+  },
+  "characterID": "1011251",
+  "name": "Jack Power"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfb0"
+  },
+  "characterID": "1011250",
+  "name": "Katie Power"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfb1"
+  },
+  "characterID": "1010770",
+  "name": "Power Pack"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfb2"
+  },
+  "characterID": "1011207",
+  "name": "Purifiers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfb3"
+  },
+  "characterID": "1009255",
+  "name": "Crystal"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfb4"
+  },
+  "characterID": "1009438",
+  "name": "Medusa"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfb5"
+  },
+  "characterID": "1010705",
+  "name": "Spectrum"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfb6"
+  },
+  "characterID": "1010335",
+  "name": "Triton"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfb7"
+  },
+  "characterID": "1009219",
+  "name": "Cannonball"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfb8"
+  },
+  "characterID": "1009523",
+  "name": "Quasar (Phyla-Vell)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfb9"
+  },
+  "characterID": "1011418",
+  "name": "X-Babies"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfba"
+  },
+  "characterID": "1011389",
+  "name": "Frog Thor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfbb"
+  },
+  "characterID": "1010964",
+  "name": "Quicksilver (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfbc"
+  },
+  "characterID": "1011007",
+  "name": "Nick Fury (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfbd"
+  },
+  "characterID": "1009249",
+  "name": "Count Nefaria"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfbe"
+  },
+  "characterID": "1009558",
+  "name": "Sandman"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfbf"
+  },
+  "characterID": "1010754",
+  "name": "Chase Stein"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfc0"
+  },
+  "characterID": "1011066",
+  "name": "Victor Mancha"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfc1"
+  },
+  "characterID": "1011005",
+  "name": "Hulk (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfc2"
+  },
+  "characterID": "1010950",
+  "name": "Mr. Fantastic (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfc3"
+  },
+  "characterID": "1011025",
+  "name": "Thor (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfc4"
+  },
+  "characterID": "1010352",
+  "name": "Madame Masque"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfc5"
+  },
+  "characterID": "1009445",
+  "name": "Mimic"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfc6"
+  },
+  "characterID": "1011133",
+  "name": "Weapon Omega"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfc7"
+  },
+  "characterID": "1011188",
+  "name": "Deena Pilgrim"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfc8"
+  },
+  "characterID": "1009669",
+  "name": "Tiger Shark"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfc9"
+  },
+  "characterID": "1010812",
+  "name": "John Jameson"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfca"
+  },
+  "characterID": "1009464",
+  "name": "Mysterio"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfcb"
+  },
+  "characterID": "1011131",
+  "name": "Hawkeye (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfcc"
+  },
+  "characterID": "1010732",
+  "name": "Master Chief"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfcd"
+  },
+  "characterID": "1010971",
+  "name": "Scarlet Witch (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfce"
+  },
+  "characterID": "1010932",
+  "name": "Human Torch (Jim Hammond)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfcf"
+  },
+  "characterID": "1011119",
+  "name": "Bob, Agent of Hydra"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfd0"
+  },
+  "characterID": "1009269",
+  "name": "Death"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfd1"
+  },
+  "characterID": "1010369",
+  "name": "Typhoid Mary"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfd2"
+  },
+  "characterID": "1009684",
+  "name": "Ultimatum"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfd3"
+  },
+  "characterID": "1011399",
+  "name": "Meggan"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfd4"
+  },
+  "characterID": "1009295",
+  "name": "Exodus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfd5"
+  },
+  "characterID": "1009196",
+  "name": "Johnny Blaze"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfd6"
+  },
+  "characterID": "1011036",
+  "name": "Living Mummy"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfd7"
+  },
+  "characterID": "1010765",
+  "name": "Werewolf By Night"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfd8"
+  },
+  "characterID": "1010796",
+  "name": "Madame Web (Julia Carpenter)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfd9"
+  },
+  "characterID": "1010925",
+  "name": "Ghost Rider (Daniel Ketch)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfda"
+  },
+  "characterID": "1010927",
+  "name": "Goliath (Bill Foster)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfdb"
+  },
+  "characterID": "1009702",
+  "name": "Rhodey"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfdc"
+  },
+  "characterID": "1010778",
+  "name": "Quasar (Wendell Vaughn)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfdd"
+  },
+  "characterID": "1011416",
+  "name": "Blonde Phantom"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfde"
+  },
+  "characterID": "1009287",
+  "name": "Electro"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfdf"
+  },
+  "characterID": "1011357",
+  "name": "Karen Page"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfe0"
+  },
+  "characterID": "1011028",
+  "name": "Owl"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfe1"
+  },
+  "characterID": "1010963",
+  "name": "Quicksilver (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfe2"
+  },
+  "characterID": "1009324",
+  "name": "Gorgon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfe3"
+  },
+  "characterID": "1011327",
+  "name": "Lady Bullseye"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfe4"
+  },
+  "characterID": "1011421",
+  "name": "Lethal Legion"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfe5"
+  },
+  "characterID": "1009534",
+  "name": "Red Ghost"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfe6"
+  },
+  "characterID": "1010904",
+  "name": "Magus (Adam Warlock)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfe7"
+  },
+  "characterID": "1009434",
+  "name": "Mastermind"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfe8"
+  },
+  "characterID": "1009673",
+  "name": "Toad"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfe9"
+  },
+  "characterID": "1010852",
+  "name": "Two-Gun Kid"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfea"
+  },
+  "characterID": "1009633",
+  "name": "William Stryker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfeb"
+  },
+  "characterID": "1009570",
+  "name": "Sentinel"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfec"
+  },
+  "characterID": "1011233",
+  "name": "Fat Cobra"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfed"
+  },
+  "characterID": "1010731",
+  "name": "Gorilla Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfee"
+  },
+  "characterID": "1009651",
+  "name": "Terrax"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfef"
+  },
+  "characterID": "1009380",
+  "name": "Joseph"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bff0"
+  },
+  "characterID": "1010695",
+  "name": "Surge"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bff1"
+  },
+  "characterID": "1014994",
+  "name": "Gwen Stacy (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bff2"
+  },
+  "characterID": "1011203",
+  "name": "Mary Jane Watson (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bff3"
+  },
+  "characterID": "1009696",
+  "name": "Viper"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bff4"
+  },
+  "characterID": "1010873",
+  "name": "Paladin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bff5"
+  },
+  "characterID": "1010760",
+  "name": "Justice"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bff6"
+  },
+  "characterID": "1009271",
+  "name": "Destiny"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bff7"
+  },
+  "characterID": "1009468",
+  "name": "Namora"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bff8"
+  },
+  "characterID": "1011138",
+  "name": "Beyonder"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bff9"
+  },
+  "characterID": "1010344",
+  "name": "Ronan"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bffa"
+  },
+  "characterID": "1009157",
+  "name": "Spider-Girl (Anya Corazon)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bffb"
+  },
+  "characterID": "1011420",
+  "name": "Grey Gargoyle"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bffc"
+  },
+  "characterID": "1010326",
+  "name": "Steve Rogers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bffd"
+  },
+  "characterID": "1011368",
+  "name": "Secret Warriors"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bffe"
+  },
+  "characterID": "1010677",
+  "name": "Dracula"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205bfff"
+  },
+  "characterID": "1011353",
+  "name": "Cosmo (dog)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c000"
+  },
+  "characterID": "1010749",
+  "name": "Gertrude Yorkes"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c001"
+  },
+  "characterID": "1010691",
+  "name": "Molly Hayes"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c002"
+  },
+  "characterID": "1010882",
+  "name": "Old Lace"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c003"
+  },
+  "characterID": "1010745",
+  "name": "Sister Grimm"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c004"
+  },
+  "characterID": "1010753",
+  "name": "Talkback (Chase Stein)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c005"
+  },
+  "characterID": "1010351",
+  "name": "Hellcat (Patsy Walker)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c006"
+  },
+  "characterID": "1009266",
+  "name": "Darkstar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c007"
+  },
+  "characterID": "1010837",
+  "name": "Red Wolf"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c008"
+  },
+  "characterID": "1010782",
+  "name": "Ben Urich"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c009"
+  },
+  "characterID": "1010783",
+  "name": "Kat Farrell"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c00a"
+  },
+  "characterID": "1010357",
+  "name": "Patch"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c00b"
+  },
+  "characterID": "1010358",
+  "name": "Ulik"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c00c"
+  },
+  "characterID": "1010884",
+  "name": "Wrecker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c00d"
+  },
+  "characterID": "1009493",
+  "name": "Penance (Robert Baldwin)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c00e"
+  },
+  "characterID": "1010823",
+  "name": "Cloud 9"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c00f"
+  },
+  "characterID": "1009306",
+  "name": "Firestar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c010"
+  },
+  "characterID": "1010702",
+  "name": "Gravity"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c011"
+  },
+  "characterID": "1010821",
+  "name": "Hardball"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c012"
+  },
+  "characterID": "1010820",
+  "name": "Thor Girl"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c013"
+  },
+  "characterID": "1011081",
+  "name": "Ka-Zar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c014"
+  },
+  "characterID": "1011326",
+  "name": "Randall Flagg"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c015"
+  },
+  "characterID": "1009695",
+  "name": "Vindicator"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c016"
+  },
+  "characterID": "1011318",
+  "name": "Iron Fist (Bei Bang-Wen)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c017"
+  },
+  "characterID": "1011103",
+  "name": "Doctor Doom (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c018"
+  },
+  "characterID": "1010781",
+  "name": "Roland Deschain"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c019"
+  },
+  "characterID": "1010773",
+  "name": "Arachne"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c01a"
+  },
+  "characterID": "1009496",
+  "name": "Jean Grey"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c01b"
+  },
+  "characterID": "1015239",
+  "name": "Avengers (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c01c"
+  },
+  "characterID": "1009321",
+  "name": "Gladiator (Kallark)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c01d"
+  },
+  "characterID": "1011414",
+  "name": "Loa"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c01e"
+  },
+  "characterID": "1011392",
+  "name": "She-Hulk (Lyra)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c01f"
+  },
+  "characterID": "1010669",
+  "name": "Titania"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c020"
+  },
+  "characterID": "1011356",
+  "name": "Frankenstein's Monster"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c021"
+  },
+  "characterID": "1010349",
+  "name": "Nighthawk"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c022"
+  },
+  "characterID": "1009572",
+  "name": "Serpent Society"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c023"
+  },
+  "characterID": "1010689",
+  "name": "Doctor Spectrum"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c024"
+  },
+  "characterID": "1011059",
+  "name": "Living Tribunal"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c025"
+  },
+  "characterID": "1009576",
+  "name": "Shaman"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c026"
+  },
+  "characterID": "1009606",
+  "name": "Snowbird"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c027"
+  },
+  "characterID": "1010832",
+  "name": "Gargoyle"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c028"
+  },
+  "characterID": "1010759",
+  "name": "Heroes For Hire"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c029"
+  },
+  "characterID": "1010670",
+  "name": "Frog-Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c02a"
+  },
+  "characterID": "1010880",
+  "name": "Fixer (Paul Norbert Ebersol)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c02b"
+  },
+  "characterID": "1009686",
+  "name": "Umar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c02c"
+  },
+  "characterID": "1010681",
+  "name": "Mercury"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c02d"
+  },
+  "characterID": "1010692",
+  "name": "Rockslide"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c02e"
+  },
+  "characterID": "1009547",
+  "name": "Natasha Romanoff"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c02f"
+  },
+  "characterID": "1010788",
+  "name": "Venom (Mac Gargan)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c030"
+  },
+  "characterID": "1010942",
+  "name": "Magik (Amanda Sefton)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c031"
+  },
+  "characterID": "1011766",
+  "name": "Azazel (Mutant)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c032"
+  },
+  "characterID": "1009543",
+  "name": "Riptide"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c033"
+  },
+  "characterID": "1010944",
+  "name": "Magneto (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c034"
+  },
+  "characterID": "1010967",
+  "name": "Rogue (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c035"
+  },
+  "characterID": "1010976",
+  "name": "Silver Samurai (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c036"
+  },
+  "characterID": "1010981",
+  "name": "Sunfire (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c037"
+  },
+  "characterID": "1010994",
+  "name": "Wild Child (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c038"
+  },
+  "characterID": "1010365",
+  "name": "Nebula"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c039"
+  },
+  "characterID": "1009660",
+  "name": "The Stranger"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c03a"
+  },
+  "characterID": "1011339",
+  "name": "Blue Marvel"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c03b"
+  },
+  "characterID": "1011105",
+  "name": "Jimmy Woo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c03c"
+  },
+  "characterID": "1009661",
+  "name": "The Watchers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c03d"
+  },
+  "characterID": "1009533",
+  "name": "Reavers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c03e"
+  },
+  "characterID": "1011313",
+  "name": "Ender Wiggin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c03f"
+  },
+  "characterID": "1009435",
+  "name": "Alicia Masters"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c040"
+  },
+  "characterID": "1009475",
+  "name": "Nomad"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c041"
+  },
+  "characterID": "1009291",
+  "name": "Empath"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c042"
+  },
+  "characterID": "1009236",
+  "name": "Lila Cheney"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c043"
+  },
+  "characterID": "1011364",
+  "name": "Magus (Technarch)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c044"
+  },
+  "characterID": "1009163",
+  "name": "Aurora"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c045"
+  },
+  "characterID": "1010784",
+  "name": "Ares"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c046"
+  },
+  "characterID": "1009328",
+  "name": "Grim Reaper"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c047"
+  },
+  "characterID": "1011212",
+  "name": "Sugar Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c048"
+  },
+  "characterID": "1011354",
+  "name": "Barracuda"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c049"
+  },
+  "characterID": "1009424",
+  "name": "Marauders"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c04a"
+  },
+  "characterID": "1009742",
+  "name": "Zzzax"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c04b"
+  },
+  "characterID": "1012295",
+  "name": "Spider-Man (Noir)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c04c"
+  },
+  "characterID": "1015280",
+  "name": "Super Hero Squad"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c04d"
+  },
+  "characterID": "1011003",
+  "name": "Thaddeus Ross"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c04e"
+  },
+  "characterID": "1011222",
+  "name": "Firestar (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c04f"
+  },
+  "characterID": "1010946",
+  "name": "Jean Grey (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c050"
+  },
+  "characterID": "1011129",
+  "name": "Mystique (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c051"
+  },
+  "characterID": "1010968",
+  "name": "Sabretooth (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c052"
+  },
+  "characterID": "1010862",
+  "name": "Unicorn"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c053"
+  },
+  "characterID": "1011388",
+  "name": "Pet Avengers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c054"
+  },
+  "characterID": "1010362",
+  "name": "Moonstone"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c055"
+  },
+  "characterID": "1011236",
+  "name": "Bride of Nine Spiders (Immortal Weapons)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c056"
+  },
+  "characterID": "1011235",
+  "name": "Dog Brother #1"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c057"
+  },
+  "characterID": "1011237",
+  "name": "Tiger's Beautiful Daughter"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c058"
+  },
+  "characterID": "1009364",
+  "name": "Impossible Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c059"
+  },
+  "characterID": "1011072",
+  "name": "Edwin Jarvis"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c05a"
+  },
+  "characterID": "1009379",
+  "name": "Rick Jones"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c05b"
+  },
+  "characterID": "1009680",
+  "name": "Tyrannus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c05c"
+  },
+  "characterID": "1010922",
+  "name": "Electro (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c05d"
+  },
+  "characterID": "1009462",
+  "name": "Mr. X"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c05e"
+  },
+  "characterID": "1010737",
+  "name": "Wraith"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c05f"
+  },
+  "characterID": "1011099",
+  "name": "Mentallo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c060"
+  },
+  "characterID": "1011396",
+  "name": "Angel (Thomas Halloway)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c061"
+  },
+  "characterID": "1011309",
+  "name": "Toro (Thomas Raymond)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c062"
+  },
+  "characterID": "1011371",
+  "name": "Henry Peter Gyrich"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c063"
+  },
+  "characterID": "1009206",
+  "name": "Box"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c064"
+  },
+  "characterID": "1009253",
+  "name": "Crule"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c065"
+  },
+  "characterID": "1011293",
+  "name": "Ink"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c066"
+  },
+  "characterID": "1011167",
+  "name": "Ser Duncan"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c067"
+  },
+  "characterID": "1009723",
+  "name": "X-Cutioner"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c068"
+  },
+  "characterID": "1009738",
+  "name": "Zaladane"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c069"
+  },
+  "characterID": "1009511",
+  "name": "Psycho-Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c06a"
+  },
+  "characterID": "1010345",
+  "name": "Sersi"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c06b"
+  },
+  "characterID": "1009169",
+  "name": "Baron Strucker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c06c"
+  },
+  "characterID": "1011187",
+  "name": "Christian Walker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c06d"
+  },
+  "characterID": "1011189",
+  "name": "Retro Girl"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c06e"
+  },
+  "characterID": "1010921",
+  "name": "Doctor Octopus (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c06f"
+  },
+  "characterID": "1010818",
+  "name": "Komodo (Melati Kusuma)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c070"
+  },
+  "characterID": "1010908",
+  "name": "Beast (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c071"
+  },
+  "characterID": "1010918",
+  "name": "Cyclops (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c072"
+  },
+  "characterID": "1010943",
+  "name": "Magneto (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c073"
+  },
+  "characterID": "1010978",
+  "name": "Storm (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c074"
+  },
+  "characterID": "1009410",
+  "name": "Moira MacTaggert"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c075"
+  },
+  "characterID": "1010667",
+  "name": "Jessica Drew"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c076"
+  },
+  "characterID": "1009532",
+  "name": "Reaper"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c077"
+  },
+  "characterID": "1010361",
+  "name": "Meteorite"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c078"
+  },
+  "characterID": "1011259",
+  "name": "Jackpot"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c079"
+  },
+  "characterID": "1009561",
+  "name": "Sauron"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c07a"
+  },
+  "characterID": "1009488",
+  "name": "Ozymandias"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c07b"
+  },
+  "characterID": "1011013",
+  "name": "Fantastic Four (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c07c"
+  },
+  "characterID": "1011037",
+  "name": "Deathcry"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c07d"
+  },
+  "characterID": "1009641",
+  "name": "Swordsman"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c07e"
+  },
+  "characterID": "1010996",
+  "name": "Yellowjacket (Rita DeMara)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c07f"
+  },
+  "characterID": "1010330",
+  "name": "Donald Blake"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c080"
+  },
+  "characterID": "1010350",
+  "name": "Valkyrie (Samantha Parrington)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c081"
+  },
+  "characterID": "1011400",
+  "name": "H.A.M.M.E.R."
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c082"
+  },
+  "characterID": "1009154",
+  "name": "Annihilus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c083"
+  },
+  "characterID": "1009486",
+  "name": "Harry Osborn"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c084"
+  },
+  "characterID": "1009316",
+  "name": "Gauntlet (Joseph Green)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c085"
+  },
+  "characterID": "1009355",
+  "name": "Hulkling"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c086"
+  },
+  "characterID": "1009492",
+  "name": "Patriot"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c087"
+  },
+  "characterID": "1010833",
+  "name": "Speed"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c088"
+  },
+  "characterID": "1010828",
+  "name": "Stature"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c089"
+  },
+  "characterID": "1009735",
+  "name": "Mariko Yashida"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c08a"
+  },
+  "characterID": "1011078",
+  "name": "Starjammers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c08b"
+  },
+  "characterID": "1009347",
+  "name": "Hobgoblin (Roderick Kingsley)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c08c"
+  },
+  "characterID": "1009605",
+  "name": "Spencer Smythe"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c08d"
+  },
+  "characterID": "1011390",
+  "name": "Redwing"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c08e"
+  },
+  "characterID": "1010694",
+  "name": "Speedball (Robert Baldwin)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c08f"
+  },
+  "characterID": "1010910",
+  "name": "Black Cat (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c090"
+  },
+  "characterID": "1011427",
+  "name": "Nomad (Rikki Barnes)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c091"
+  },
+  "characterID": "1010797",
+  "name": "Nitro"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c092"
+  },
+  "characterID": "1011206",
+  "name": "Doctor Faustus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c093"
+  },
+  "characterID": "1010678",
+  "name": "Hellion"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c094"
+  },
+  "characterID": "1010811",
+  "name": "Man-Wolf"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c095"
+  },
+  "characterID": "1009451",
+  "name": "Moondragon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c096"
+  },
+  "characterID": "1014873",
+  "name": "Spider-Man (2099)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c097"
+  },
+  "characterID": "1009650",
+  "name": "Tempest"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c098"
+  },
+  "characterID": "1009574",
+  "name": "Shadowcat"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c099"
+  },
+  "characterID": "1009345",
+  "name": "Hitman"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c09a"
+  },
+  "characterID": "1011107",
+  "name": "Deviants"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c09b"
+  },
+  "characterID": "1010807",
+  "name": "Eternals"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c09c"
+  },
+  "characterID": "1009519",
+  "name": "Puppet Master"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c09d"
+  },
+  "characterID": "1009734",
+  "name": "Xorn (Kuan-Yin Xorn)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c09e"
+  },
+  "characterID": "1010775",
+  "name": "James Buchanan Barnes"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c09f"
+  },
+  "characterID": "1010671",
+  "name": "Enchantress (Amora)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0a0"
+  },
+  "characterID": "1009251",
+  "name": "Crimson Dynamo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0a1"
+  },
+  "characterID": "1009273",
+  "name": "Diablo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0a2"
+  },
+  "characterID": "1010911",
+  "name": "Black Widow (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0a3"
+  },
+  "characterID": "1010915",
+  "name": "Captain Britain (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0a4"
+  },
+  "characterID": "1009666",
+  "name": "Thunderbird (John Proudstar)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0a5"
+  },
+  "characterID": "1010982",
+  "name": "Swordsman (Jaques Duquesne)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0a6"
+  },
+  "characterID": "1011391",
+  "name": "Hairball"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0a7"
+  },
+  "characterID": "1011080",
+  "name": "Korg"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0a8"
+  },
+  "characterID": "1011053",
+  "name": "Maelstrom"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0a9"
+  },
+  "characterID": "1010334",
+  "name": "Quasimodo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0aa"
+  },
+  "characterID": "1011116",
+  "name": "Killraven"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ab"
+  },
+  "characterID": "1011321",
+  "name": "Paper Doll"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ac"
+  },
+  "characterID": "1009234",
+  "name": "Chameleon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ad"
+  },
+  "characterID": "1011246",
+  "name": "Hypno-Hustler"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ae"
+  },
+  "characterID": "1011257",
+  "name": "Lily Hollister"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0af"
+  },
+  "characterID": "1011241",
+  "name": "Menace"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0b0"
+  },
+  "characterID": "1011240",
+  "name": "Freak"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0b1"
+  },
+  "characterID": "1010353",
+  "name": "Vermin (Edward Whelan)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0b2"
+  },
+  "characterID": "1010780",
+  "name": "Zemo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0b3"
+  },
+  "characterID": "1011082",
+  "name": "Elixir"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0b4"
+  },
+  "characterID": "1009469",
+  "name": "Namorita"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0b5"
+  },
+  "characterID": "1010687",
+  "name": "Black Tarantula"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0b6"
+  },
+  "characterID": "1011333",
+  "name": "Dakota North"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0b7"
+  },
+  "characterID": "1009721",
+  "name": "John Wraith"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0b8"
+  },
+  "characterID": "1009213",
+  "name": "Bushwacker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0b9"
+  },
+  "characterID": "1010892",
+  "name": "Rawhide Kid"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ba"
+  },
+  "characterID": "1010794",
+  "name": "Spider-Woman (Mattie Franklin)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0bb"
+  },
+  "characterID": "1011148",
+  "name": "Kree"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0bc"
+  },
+  "characterID": "1010876",
+  "name": "Mongoose"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0bd"
+  },
+  "characterID": "1010883",
+  "name": "Wrecking Crew"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0be"
+  },
+  "characterID": "1011057",
+  "name": "Slapstick"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0bf"
+  },
+  "characterID": "1009591",
+  "name": "Silver Samurai"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0c0"
+  },
+  "characterID": "1011084",
+  "name": "Starfox"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0c1"
+  },
+  "characterID": "1011093",
+  "name": "Shi'Ar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0c2"
+  },
+  "characterID": "1009630",
+  "name": "Johnny Storm"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0c3"
+  },
+  "characterID": "1011199",
+  "name": "Ezekiel"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0c4"
+  },
+  "characterID": "1011432",
+  "name": "Enchantress (Sylvie Lushton)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0c5"
+  },
+  "characterID": "1010887",
+  "name": "Bulldozer"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0c6"
+  },
+  "characterID": "1010886",
+  "name": "Piledriver"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0c7"
+  },
+  "characterID": "1010885",
+  "name": "Thunderball"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0c8"
+  },
+  "characterID": "1009186",
+  "name": "Black Knight (Sir Percy of Scandia)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0c9"
+  },
+  "characterID": "1011304",
+  "name": "Thundra"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ca"
+  },
+  "characterID": "1010934",
+  "name": "Invisible Woman (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0cb"
+  },
+  "characterID": "1010983",
+  "name": "Thing (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0cc"
+  },
+  "characterID": "1011226",
+  "name": "War Machine (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0cd"
+  },
+  "characterID": "1011130",
+  "name": "Black Panther (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ce"
+  },
+  "characterID": "1011239",
+  "name": "Valkyrie (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0cf"
+  },
+  "characterID": "1010716",
+  "name": "Zarda"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0d0"
+  },
+  "characterID": "1010715",
+  "name": "The Hood"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0d1"
+  },
+  "characterID": "1011198",
+  "name": "Agents of Atlas"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0d2"
+  },
+  "characterID": "1011048",
+  "name": "Scalphunter"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0d3"
+  },
+  "characterID": "1010790",
+  "name": "Scorpion (Carmilla Black)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0d4"
+  },
+  "characterID": "1010829",
+  "name": "Bengal"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0d5"
+  },
+  "characterID": "1009245",
+  "name": "Constrictor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0d6"
+  },
+  "characterID": "1010817",
+  "name": "Rage"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0d7"
+  },
+  "characterID": "1010774",
+  "name": "Daily Bugle"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0d8"
+  },
+  "characterID": "1011387",
+  "name": "Dark X-Men"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0d9"
+  },
+  "characterID": "1009179",
+  "name": "Beetle (Abner Jenkins)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0da"
+  },
+  "characterID": "1009628",
+  "name": "Stingray (Walter Newell)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0db"
+  },
+  "characterID": "1009672",
+  "name": "Titanium Man (Topolov)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0dc"
+  },
+  "characterID": "1009302",
+  "name": "Fenris"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0dd"
+  },
+  "characterID": "1011369",
+  "name": "Phil Sheldon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0de"
+  },
+  "characterID": "1009645",
+  "name": "Glenn Talbot"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0df"
+  },
+  "characterID": "1011045",
+  "name": "Photon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0e0"
+  },
+  "characterID": "1011243",
+  "name": "Mandrill"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0e1"
+  },
+  "characterID": "1011038",
+  "name": "Bug"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0e2"
+  },
+  "characterID": "1009497",
+  "name": "Alexander Pierce"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0e3"
+  },
+  "characterID": "1009594",
+  "name": "Silvermane"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0e4"
+  },
+  "characterID": "1009272",
+  "name": "Detective Soap"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0e5"
+  },
+  "characterID": "1011044",
+  "name": "Hellions (Squad)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0e6"
+  },
+  "characterID": "1011301",
+  "name": "Anole"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0e7"
+  },
+  "characterID": "1009285",
+  "name": "Dust"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0e8"
+  },
+  "characterID": "1011260",
+  "name": "Dexter Bennett"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0e9"
+  },
+  "characterID": "1009411",
+  "name": "Mad Thinker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ea"
+  },
+  "characterID": "1010998",
+  "name": "The Initiative"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0eb"
+  },
+  "characterID": "1011279",
+  "name": "Masters of Evil"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ec"
+  },
+  "characterID": "1010822",
+  "name": "Trauma"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ed"
+  },
+  "characterID": "1009374",
+  "name": "Jigsaw"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ee"
+  },
+  "characterID": "1011061",
+  "name": "Eternity"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ef"
+  },
+  "characterID": "1011041",
+  "name": "Great Lakes Avengers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0f0"
+  },
+  "characterID": "1011347",
+  "name": "Spider-Ham (Larval Earth)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0f1"
+  },
+  "characterID": "1011202",
+  "name": "Ord"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0f2"
+  },
+  "characterID": "1009565",
+  "name": "Scourge"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0f3"
+  },
+  "characterID": "1010847",
+  "name": "Ultragirl (Earth-93060)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0f4"
+  },
+  "characterID": "1009715",
+  "name": "Wild Child"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0f5"
+  },
+  "characterID": "1010993",
+  "name": "Mary Jane Watson (House of M)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0f6"
+  },
+  "characterID": "1009402",
+  "name": "Lilandra"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0f7"
+  },
+  "characterID": "1011358",
+  "name": "Doctor Strange (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0f8"
+  },
+  "characterID": "1014992",
+  "name": "Dormammu (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0f9"
+  },
+  "characterID": "1010984",
+  "name": "Union Jack (Montgomery Falsworth)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0fa"
+  },
+  "characterID": "1011365",
+  "name": "Vanisher (Telford Porter)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0fb"
+  },
+  "characterID": "1011329",
+  "name": "Omega Sentinel"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0fc"
+  },
+  "characterID": "1009237",
+  "name": "Chimera"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0fd"
+  },
+  "characterID": "1010893",
+  "name": "Kid Colt"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0fe"
+  },
+  "characterID": "1011394",
+  "name": "Shiver Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c0ff"
+  },
+  "characterID": "1011393",
+  "name": "She-Hulk (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c100"
+  },
+  "characterID": "1011311",
+  "name": "Ultimo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c101"
+  },
+  "characterID": "1010868",
+  "name": "Firebird"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c102"
+  },
+  "characterID": "1011373",
+  "name": "Sons of the Tiger"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c103"
+  },
+  "characterID": "1011295",
+  "name": "The Howling Commandos"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c104"
+  },
+  "characterID": "1010919",
+  "name": "Daredevil (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c105"
+  },
+  "characterID": "1010929",
+  "name": "Green Goblin (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c106"
+  },
+  "characterID": "1014995",
+  "name": "Hammerhead (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c107"
+  },
+  "characterID": "1011218",
+  "name": "Harry Osborn (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c108"
+  },
+  "characterID": "1014998",
+  "name": "Moon Knight (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c109"
+  },
+  "characterID": "1010855",
+  "name": "Solo (James Bourne)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c10a"
+  },
+  "characterID": "1009507",
+  "name": "Prowler"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c10b"
+  },
+  "characterID": "1011075",
+  "name": "Swarm"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c10c"
+  },
+  "characterID": "1009152",
+  "name": "Ancient One"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c10d"
+  },
+  "characterID": "1009305",
+  "name": "Firelord"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c10e"
+  },
+  "characterID": "1010752",
+  "name": "Karolina Dean "
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c10f"
+  },
+  "characterID": "1011413",
+  "name": "Iron Fist (Quan Yaozu)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c110"
+  },
+  "characterID": "1011403",
+  "name": "Lei Kung, The Thunderer"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c111"
+  },
+  "characterID": "1010889",
+  "name": "Steel Serpent (Davos)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c112"
+  },
+  "characterID": "1011345",
+  "name": "Tinkerer"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c113"
+  },
+  "characterID": "1010722",
+  "name": "Human Robot"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c114"
+  },
+  "characterID": "1011106",
+  "name": "Venus (Siren)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c115"
+  },
+  "characterID": "1011132",
+  "name": "Blob (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c116"
+  },
+  "characterID": "1014973",
+  "name": "Brotherhood of Mutants (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c117"
+  },
+  "characterID": "1009522",
+  "name": "Pyro"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c118"
+  },
+  "characterID": "1010992",
+  "name": "Wasp (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c119"
+  },
+  "characterID": "1010814",
+  "name": "Squadron Supreme (Earth-712)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c11a"
+  },
+  "characterID": "1010363",
+  "name": "Logan"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c11b"
+  },
+  "characterID": "1010985",
+  "name": "Union Jack (Brian Falsworth)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c11c"
+  },
+  "characterID": "1011011",
+  "name": "Vulcan (Gabriel Summers)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c11d"
+  },
+  "characterID": "1011277",
+  "name": "Young X-Men"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c11e"
+  },
+  "characterID": "1010143",
+  "name": "Caretaker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c11f"
+  },
+  "characterID": "1009423",
+  "name": "Manta"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c120"
+  },
+  "characterID": "1011184",
+  "name": "Mentor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c121"
+  },
+  "characterID": "1009603",
+  "name": "Smasher (Vril Rokk)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c122"
+  },
+  "characterID": "1009621",
+  "name": "Starbolt"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c123"
+  },
+  "characterID": "1011320",
+  "name": "M.O.D.O.G."
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c124"
+  },
+  "characterID": "1011019",
+  "name": "Molecule Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c125"
+  },
+  "characterID": "1009290",
+  "name": "Elite"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c126"
+  },
+  "characterID": "1009418",
+  "name": "Ma Gnuci"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c127"
+  },
+  "characterID": "1009541",
+  "name": "Molly Von Richtofen"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c128"
+  },
+  "characterID": "1009403",
+  "name": "Liz Osborn"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c129"
+  },
+  "characterID": "1011370",
+  "name": "Molten Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c12a"
+  },
+  "characterID": "1009506",
+  "name": "Proudstar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c12b"
+  },
+  "characterID": "1010707",
+  "name": "Nuke"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c12c"
+  },
+  "characterID": "1011062",
+  "name": "Stranger"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c12d"
+  },
+  "characterID": "1011213",
+  "name": "Feral"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c12e"
+  },
+  "characterID": "1011054",
+  "name": "Spider-Man (1602)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c12f"
+  },
+  "characterID": "1010762",
+  "name": "Pip"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c130"
+  },
+  "characterID": "1009349",
+  "name": "Holocaust (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c131"
+  },
+  "characterID": "1009501",
+  "name": "Post"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c132"
+  },
+  "characterID": "1011334",
+  "name": "3-D Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c133"
+  },
+  "characterID": "1010945",
+  "name": "Magneto (House of M)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c134"
+  },
+  "characterID": "1011352",
+  "name": "True Believers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c135"
+  },
+  "characterID": "1010346",
+  "name": "Controller"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c136"
+  },
+  "characterID": "1009207",
+  "name": "GW Bridge"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c137"
+  },
+  "characterID": "1011350",
+  "name": "Marvel Apes"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c138"
+  },
+  "characterID": "1011074",
+  "name": "Lilith"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c139"
+  },
+  "characterID": "1009687",
+  "name": "Unus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c13a"
+  },
+  "characterID": "1011114",
+  "name": "Spider-Man (Marvel Zombies)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c13b"
+  },
+  "characterID": "1009433",
+  "name": "Master Mold"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c13c"
+  },
+  "characterID": "1010888",
+  "name": "Iron Fist (Orson Randall)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c13d"
+  },
+  "characterID": "1009710",
+  "name": "Wendigo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c13e"
+  },
+  "characterID": "1009526",
+  "name": "Radioactive Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c13f"
+  },
+  "characterID": "1009216",
+  "name": "Caliban"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c140"
+  },
+  "characterID": "1009425",
+  "name": "Marrow"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c141"
+  },
+  "characterID": "1009643",
+  "name": "Synch"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c142"
+  },
+  "characterID": "1009439",
+  "name": "Meltdown"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c143"
+  },
+  "characterID": "1010901",
+  "name": "Stephen Strange"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c144"
+  },
+  "characterID": "1011325",
+  "name": "Salem's Seven (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c145"
+  },
+  "characterID": "1011289",
+  "name": "Killmonger"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c146"
+  },
+  "characterID": "1009484",
+  "name": "Oracle"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c147"
+  },
+  "characterID": "1011261",
+  "name": "Vin Gonzales"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c148"
+  },
+  "characterID": "1009620",
+  "name": "Obadiah Stane"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c149"
+  },
+  "characterID": "1010795",
+  "name": "Spider-Woman (Charlotte Witter)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c14a"
+  },
+  "characterID": "1011124",
+  "name": "Nightshade"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c14b"
+  },
+  "characterID": "1011026",
+  "name": "Mantis"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c14c"
+  },
+  "characterID": "1011404",
+  "name": "Jeryn Hogarth"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c14d"
+  },
+  "characterID": "1011294",
+  "name": "The Enforcers"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c14e"
+  },
+  "characterID": "1010980",
+  "name": "Franklin Storm"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c14f"
+  },
+  "characterID": "1015007",
+  "name": "Dreaming Celestial"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c150"
+  },
+  "characterID": "1010725",
+  "name": "Makkari"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c151"
+  },
+  "characterID": "1011122",
+  "name": "Elloe Kaifi"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c152"
+  },
+  "characterID": "1010703",
+  "name": "Hiroim"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c153"
+  },
+  "characterID": "1011121",
+  "name": "Warbound"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c154"
+  },
+  "characterID": "1009205",
+  "name": "Boomer"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c155"
+  },
+  "characterID": "1009298",
+  "name": "Famine"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c156"
+  },
+  "characterID": "1009308",
+  "name": "Forearm"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c157"
+  },
+  "characterID": "1010767",
+  "name": "Random"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c158"
+  },
+  "characterID": "1009701",
+  "name": "War (Abraham Kieros)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c159"
+  },
+  "characterID": "1009716",
+  "name": "Wildside"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c15a"
+  },
+  "characterID": "1009544",
+  "name": "Risque"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c15b"
+  },
+  "characterID": "1009579",
+  "name": "Shard"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c15c"
+  },
+  "characterID": "1009529",
+  "name": "Ilyana Rasputin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c15d"
+  },
+  "characterID": "1009530",
+  "name": "Mikhail Rasputin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c15e"
+  },
+  "characterID": "1011208",
+  "name": "Anthem"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c15f"
+  },
+  "characterID": "1011209",
+  "name": "Calamity"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c160"
+  },
+  "characterID": "1011210",
+  "name": "Mulholland Black"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c161"
+  },
+  "characterID": "1011232",
+  "name": "Supernaut"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c162"
+  },
+  "characterID": "1011018",
+  "name": "The Order"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c163"
+  },
+  "characterID": "1011231",
+  "name": "Veda"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c164"
+  },
+  "characterID": "1011375",
+  "name": "Leper Queen"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c165"
+  },
+  "characterID": "1015004",
+  "name": "Thanos (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c166"
+  },
+  "characterID": "1010717",
+  "name": "Debrii"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c167"
+  },
+  "characterID": "1010826",
+  "name": "MVP"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c168"
+  },
+  "characterID": "1010827",
+  "name": "Armory"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c169"
+  },
+  "characterID": "1010684",
+  "name": "Night Thrasher"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c16a"
+  },
+  "characterID": "1011402",
+  "name": "Wendell Rand"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c16b"
+  },
+  "characterID": "1009210",
+  "name": "Brute"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c16c"
+  },
+  "characterID": "1011221",
+  "name": "Giant Girl"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c16d"
+  },
+  "characterID": "1010991",
+  "name": "War Machine (Parnell Jacobs)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c16e"
+  },
+  "characterID": "1009177",
+  "name": "Bedlam"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c16f"
+  },
+  "characterID": "1009383",
+  "name": "Garrison Kane"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c170"
+  },
+  "characterID": "1011264",
+  "name": "Blue Shield"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c171"
+  },
+  "characterID": "1011269",
+  "name": "Newton Destine"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c172"
+  },
+  "characterID": "1010878",
+  "name": "Janus, the Nega-Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c173"
+  },
+  "characterID": "1015001",
+  "name": "Shang-Chi (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c174"
+  },
+  "characterID": "1011283",
+  "name": "Lords of Avalon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c175"
+  },
+  "characterID": "1011417",
+  "name": "Marvex"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c176"
+  },
+  "characterID": "1011419",
+  "name": "Phantom Reporter"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c177"
+  },
+  "characterID": "1011256",
+  "name": "Gladiator (Melvin Potter)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c178"
+  },
+  "characterID": "1009446",
+  "name": "Mister Fear"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c179"
+  },
+  "characterID": "1011111",
+  "name": "Fantastick Four"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c17a"
+  },
+  "characterID": "1010825",
+  "name": "Triathlon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c17b"
+  },
+  "characterID": "1009342",
+  "name": "Hepzibah"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c17c"
+  },
+  "characterID": "1010896",
+  "name": "Lyja"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c17d"
+  },
+  "characterID": "1010895",
+  "name": "Sharon Ventura"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c17e"
+  },
+  "characterID": "1010779",
+  "name": "Pete Wisdom"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c17f"
+  },
+  "characterID": "1009474",
+  "name": "Nocturne"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c180"
+  },
+  "characterID": "1011193",
+  "name": "Kabuki"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c181"
+  },
+  "characterID": "1011219",
+  "name": "The Fury"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c182"
+  },
+  "characterID": "1011411",
+  "name": "Chores MacGillicudy"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c183"
+  },
+  "characterID": "1011410",
+  "name": "Confederates of the Curious"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c184"
+  },
+  "characterID": "1011407",
+  "name": "Contessa (Vera Vidal)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c185"
+  },
+  "characterID": "1011408",
+  "name": "Lightning Lords of Nepal"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c186"
+  },
+  "characterID": "1011405",
+  "name": "Lucky Pierre"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c187"
+  },
+  "characterID": "1011409",
+  "name": "Nine-Fold Daughters of Xao"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c188"
+  },
+  "characterID": "1011406",
+  "name": "Shadu the Shady"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c189"
+  },
+  "characterID": "1010757",
+  "name": "Omega Flight"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c18a"
+  },
+  "characterID": "1011125",
+  "name": "Ultra-Adaptoid"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c18b"
+  },
+  "characterID": "1011031",
+  "name": "Agent X (Nijo)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c18c"
+  },
+  "characterID": "1010713",
+  "name": "Tarantula (Luis Alvarez)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c18d"
+  },
+  "characterID": "1009330",
+  "name": "Guardian"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c18e"
+  },
+  "characterID": "1009361",
+  "name": "Hyperion (Earth-712)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c18f"
+  },
+  "characterID": "1011046",
+  "name": "Hedge Knight"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c190"
+  },
+  "characterID": "1010916",
+  "name": "Carnage (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c191"
+  },
+  "characterID": "1009200",
+  "name": "Blockbuster"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c192"
+  },
+  "characterID": "1009694",
+  "name": "Vertigo (Savage Land Mutate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c193"
+  },
+  "characterID": "1009514",
+  "name": "Puma"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c194"
+  },
+  "characterID": "1009232",
+  "name": "Ch'od"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c195"
+  },
+  "characterID": "1009247",
+  "name": "Corsair"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c196"
+  },
+  "characterID": "1009531",
+  "name": "Raza"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c197"
+  },
+  "characterID": "1010708",
+  "name": "Pandemic"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c198"
+  },
+  "characterID": "1010786",
+  "name": "Jack Murdock"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c199"
+  },
+  "characterID": "1009463",
+  "name": "Matthew Murdock"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c19a"
+  },
+  "characterID": "1011338",
+  "name": "Angel (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c19b"
+  },
+  "characterID": "1014996",
+  "name": "Hellfire Club (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c19c"
+  },
+  "characterID": "1011337",
+  "name": "Nightcrawler (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c19d"
+  },
+  "characterID": "1010959",
+  "name": "Proteus (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c19e"
+  },
+  "characterID": "1015003",
+  "name": "Stacy X (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c19f"
+  },
+  "characterID": "1011009",
+  "name": "Wind Dancer"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1a0"
+  },
+  "characterID": "1009667",
+  "name": "Thunderbird (Neal Shaara)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1a1"
+  },
+  "characterID": "1011412",
+  "name": "Iron Fist (Wu Ao-Shi)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1a2"
+  },
+  "characterID": "1009456",
+  "name": "Morph"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1a3"
+  },
+  "characterID": "1010367",
+  "name": "Masque"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1a4"
+  },
+  "characterID": "1011126",
+  "name": "Sally Floyd"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1a5"
+  },
+  "characterID": "1010675",
+  "name": "Humbug"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1a6"
+  },
+  "characterID": "1011055",
+  "name": "Gideon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1a7"
+  },
+  "characterID": "1010842",
+  "name": "King Cobra"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1a8"
+  },
+  "characterID": "1009618",
+  "name": "Stacy X"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1a9"
+  },
+  "characterID": "1010768",
+  "name": "Loners"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1aa"
+  },
+  "characterID": "1011047",
+  "name": "Turbo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ab"
+  },
+  "characterID": "1009286",
+  "name": "Earthquake"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ac"
+  },
+  "characterID": "1009358",
+  "name": "Hussar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ad"
+  },
+  "characterID": "1009706",
+  "name": "Warstar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ae"
+  },
+  "characterID": "1010956",
+  "name": "Nova (Frankie Raye)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1af"
+  },
+  "characterID": "1009259",
+  "name": "Damage Control"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1b0"
+  },
+  "characterID": "1010711",
+  "name": "Santa Claus"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1b1"
+  },
+  "characterID": "1017317",
+  "name": "Cable (Deadpool)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1b2"
+  },
+  "characterID": "1010724",
+  "name": "Maddog"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1b3"
+  },
+  "characterID": "1010766",
+  "name": "Jack O' Lantern"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1b4"
+  },
+  "characterID": "1009679",
+  "name": "Tyger Tiger"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1b5"
+  },
+  "characterID": "1010755",
+  "name": "Alex Wilder"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1b6"
+  },
+  "characterID": "1010843",
+  "name": "Big Bertha"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1b7"
+  },
+  "characterID": "1009584",
+  "name": "Shiva"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1b8"
+  },
+  "characterID": "1011247",
+  "name": "Dragon Lord"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1b9"
+  },
+  "characterID": "1010952",
+  "name": "Mysterio (Francis Klum)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ba"
+  },
+  "characterID": "1010685",
+  "name": "Nextwave"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1bb"
+  },
+  "characterID": "1009225",
+  "name": "Captain Stacy"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1bc"
+  },
+  "characterID": "1010869",
+  "name": "Masked Marvel (Unrevealed)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1bd"
+  },
+  "characterID": "1010854",
+  "name": "Living Lightning"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1be"
+  },
+  "characterID": "1010864",
+  "name": "Silverclaw"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1bf"
+  },
+  "characterID": "1011160",
+  "name": "Supreme Intelligence"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1c0"
+  },
+  "characterID": "1010679",
+  "name": "Julian Keller"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1c1"
+  },
+  "characterID": "1011042",
+  "name": "Tag"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1c2"
+  },
+  "characterID": "1010955",
+  "name": "Nomad (Steve Rogers)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1c3"
+  },
+  "characterID": "1011154",
+  "name": "Ravenous"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1c4"
+  },
+  "characterID": "1011095",
+  "name": "Captain Marvel (Monica Rambeau)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1c5"
+  },
+  "characterID": "1011147",
+  "name": "Korath"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1c6"
+  },
+  "characterID": "1009601",
+  "name": "Sleeper"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1c7"
+  },
+  "characterID": "1009174",
+  "name": "Beak"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1c8"
+  },
+  "characterID": "1009260",
+  "name": "Lorna Dane"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1c9"
+  },
+  "characterID": "1011271",
+  "name": "New X-Men"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ca"
+  },
+  "characterID": "1010673",
+  "name": "Amphibian (Earth-712)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1cb"
+  },
+  "characterID": "1010686",
+  "name": "Arcana"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1cc"
+  },
+  "characterID": "1010688",
+  "name": "Blur"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1cd"
+  },
+  "characterID": "1011064",
+  "name": "Inertia"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ce"
+  },
+  "characterID": "1010712",
+  "name": "Shape"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1cf"
+  },
+  "characterID": "1009437",
+  "name": "Maverick (Christoph Nord)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1d0"
+  },
+  "characterID": "1011136",
+  "name": "Air-Walker (Gabriel Lan)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1d1"
+  },
+  "characterID": "1009597",
+  "name": "Jasper Sitwell"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1d2"
+  },
+  "characterID": "1010734",
+  "name": "Peter Quill"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1d3"
+  },
+  "characterID": "1009250",
+  "name": "Countess"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1d4"
+  },
+  "characterID": "1011088",
+  "name": "Morlun"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1d5"
+  },
+  "characterID": "1010914",
+  "name": "Captain America (House of M)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1d6"
+  },
+  "characterID": "1011117",
+  "name": "Roughhouse"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1d7"
+  },
+  "characterID": "1016824",
+  "name": "Ancient One (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1d8"
+  },
+  "characterID": "1014999",
+  "name": "Clea (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1d9"
+  },
+  "characterID": "1010939",
+  "name": "Lizard (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1da"
+  },
+  "characterID": "1015002",
+  "name": "Skrulls (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1db"
+  },
+  "characterID": "1015005",
+  "name": "Wong (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1dc"
+  },
+  "characterID": "1015000",
+  "name": "Reavers (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1dd"
+  },
+  "characterID": "1011118",
+  "name": "Hulk (Marvel Zombies)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1de"
+  },
+  "characterID": "1011087",
+  "name": "Dead Girl"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1df"
+  },
+  "characterID": "1010806",
+  "name": "X-Statix"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1e0"
+  },
+  "characterID": "1011144",
+  "name": "Glorian"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1e1"
+  },
+  "characterID": "1011161",
+  "name": "Talos"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1e2"
+  },
+  "characterID": "1011149",
+  "name": "Tana Nile"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1e3"
+  },
+  "characterID": "1010336",
+  "name": "Atlas (Team)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1e4"
+  },
+  "characterID": "1011029",
+  "name": "Kulan Gath"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1e5"
+  },
+  "characterID": "1011157",
+  "name": "Skreet"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1e6"
+  },
+  "characterID": "1011162",
+  "name": "Tenebrous"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1e7"
+  },
+  "characterID": "1010924",
+  "name": "Miek"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1e8"
+  },
+  "characterID": "1011181",
+  "name": "Thena"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1e9"
+  },
+  "characterID": "1011183",
+  "name": "Zuras"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ea"
+  },
+  "characterID": "1011145",
+  "name": "Lord Hawal"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1eb"
+  },
+  "characterID": "1011151",
+  "name": "Praxagora"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ec"
+  },
+  "characterID": "1011152",
+  "name": "Preak"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ed"
+  },
+  "characterID": "1011177",
+  "name": "Forgotten One"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ee"
+  },
+  "characterID": "1011155",
+  "name": "Red Shift"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ef"
+  },
+  "characterID": "1010764",
+  "name": "Stardust"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1f0"
+  },
+  "characterID": "1011142",
+  "name": "Devos"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1f1"
+  },
+  "characterID": "1011139",
+  "name": "Cammi"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1f2"
+  },
+  "characterID": "1010445",
+  "name": "Energizer"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1f3"
+  },
+  "characterID": "1009503",
+  "name": "Prism"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1f4"
+  },
+  "characterID": "1010979",
+  "name": "Storm (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1f5"
+  },
+  "characterID": "1011137",
+  "name": "Baroness S'Bak"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1f6"
+  },
+  "characterID": "1009322",
+  "name": "Goblin Queen"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1f7"
+  },
+  "characterID": "1009442",
+  "name": "Mesmero"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1f8"
+  },
+  "characterID": "1010690",
+  "name": "Microbe"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1f9"
+  },
+  "characterID": "1009217",
+  "name": "Callisto"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1fa"
+  },
+  "characterID": "1009150",
+  "name": "Agent Zero"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1fb"
+  },
+  "characterID": "1010974",
+  "name": "Shadowcat (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1fc"
+  },
+  "characterID": "1011123",
+  "name": "Omega the Unknown"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1fd"
+  },
+  "characterID": "1014997",
+  "name": "Deathstrike (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1fe"
+  },
+  "characterID": "1010958",
+  "name": "Professor X (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c1ff"
+  },
+  "characterID": "1009676",
+  "name": "Toxin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c200"
+  },
+  "characterID": "1011033",
+  "name": "Joystick"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c201"
+  },
+  "characterID": "1010923",
+  "name": "Elektra (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c202"
+  },
+  "characterID": "1010954",
+  "name": "Mystique (House of M)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c203"
+  },
+  "characterID": "1011063",
+  "name": "In-Betweener"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c204"
+  },
+  "characterID": "1011043",
+  "name": "Wither"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c205"
+  },
+  "characterID": "1009149",
+  "name": "Abyss"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c206"
+  },
+  "characterID": "1010903",
+  "name": "Abyss (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c207"
+  },
+  "characterID": "1011211",
+  "name": "The Renegades"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c208"
+  },
+  "characterID": "1014905",
+  "name": "Squadron Sinister"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c209"
+  },
+  "characterID": "1014974",
+  "name": "George Stacy (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c20a"
+  },
+  "characterID": "1009736",
+  "name": "Yellow Claw"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c20b"
+  },
+  "characterID": "1010970",
+  "name": "Sabretooth (House of M)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c20c"
+  },
+  "characterID": "1009690",
+  "name": "Vargas"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c20d"
+  },
+  "characterID": "1009293",
+  "name": "Erik the Red"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c20e"
+  },
+  "characterID": "1010830",
+  "name": "Blazing Skull"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c20f"
+  },
+  "characterID": "1010819",
+  "name": "Texas Twister"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c210"
+  },
+  "characterID": "1009711",
+  "name": "Whiplash (Mark Scarlotti)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c211"
+  },
+  "characterID": "1011040",
+  "name": "Dinah Soar"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c212"
+  },
+  "characterID": "1010879",
+  "name": "Doorman"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c213"
+  },
+  "characterID": "1010863",
+  "name": "Flatman"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c214"
+  },
+  "characterID": "1010840",
+  "name": "Mr. Immortal"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c215"
+  },
+  "characterID": "1011039",
+  "name": "Centennial"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c216"
+  },
+  "characterID": "1011085",
+  "name": "Major Mapleleaf"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c217"
+  },
+  "characterID": "1010962",
+  "name": "Puck (Zuzha Yu)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c218"
+  },
+  "characterID": "1009598",
+  "name": "Skin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c219"
+  },
+  "characterID": "1009278",
+  "name": "Doomsday Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c21a"
+  },
+  "characterID": "1009587",
+  "name": "Shriek"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c21b"
+  },
+  "characterID": "1010975",
+  "name": "Shadowcat (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c21c"
+  },
+  "characterID": "1010810",
+  "name": "Kate Bishop"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c21d"
+  },
+  "characterID": "1010776",
+  "name": "Danny Rand"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c21e"
+  },
+  "characterID": "1009517",
+  "name": "Punisher (2099)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c21f"
+  },
+  "characterID": "1011096",
+  "name": "Captain Marvel (Genis-Vell)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c220"
+  },
+  "characterID": "1011097",
+  "name": "Captain Marvel (Phyla-Vell)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c221"
+  },
+  "characterID": "1010867",
+  "name": "Magdalene"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c222"
+  },
+  "characterID": "1009160",
+  "name": "Arclight"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c223"
+  },
+  "characterID": "1009336",
+  "name": "Harpoon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c224"
+  },
+  "characterID": "1009242",
+  "name": "Malcolm Colcord"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c225"
+  },
+  "characterID": "1010741",
+  "name": "Phyla-Vell"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c226"
+  },
+  "characterID": "1010697",
+  "name": "Virginia Dare"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c227"
+  },
+  "characterID": "1009589",
+  "name": "Silver Fox"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c228"
+  },
+  "characterID": "1009657",
+  "name": "The Professor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c229"
+  },
+  "characterID": "1010881",
+  "name": "Blacklash"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c22a"
+  },
+  "characterID": "1011067",
+  "name": "Wild Pack"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c22b"
+  },
+  "characterID": "1010937",
+  "name": "Josiah X"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c22c"
+  },
+  "characterID": "1009693",
+  "name": "Venus Dee Milo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c22d"
+  },
+  "characterID": "1011314",
+  "name": "Junta"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c22e"
+  },
+  "characterID": "1016823",
+  "name": "Abomination (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c22f"
+  },
+  "characterID": "1014993",
+  "name": "Forge (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c230"
+  },
+  "characterID": "1009348",
+  "name": "Happy Hogan"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c231"
+  },
+  "characterID": "1009311",
+  "name": "Rumiko Fujikawa"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c232"
+  },
+  "characterID": "1010947",
+  "name": "Maverick (Chris Bradley)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c233"
+  },
+  "characterID": "1011397",
+  "name": "Killer Shrike"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c234"
+  },
+  "characterID": "1009231",
+  "name": "Cerebro"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c235"
+  },
+  "characterID": "1009653",
+  "name": "The Anarchist"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c236"
+  },
+  "characterID": "1009698",
+  "name": "Vivisector"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c237"
+  },
+  "characterID": "1010672",
+  "name": "Amora"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c238"
+  },
+  "characterID": "1011092",
+  "name": "Leech"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c239"
+  },
+  "characterID": "1009414",
+  "name": "Maggott"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c23a"
+  },
+  "characterID": "1009689",
+  "name": "Vanisher (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c23b"
+  },
+  "characterID": "1009173",
+  "name": "Battering Ram"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c23c"
+  },
+  "characterID": "1009202",
+  "name": "Bloke"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c23d"
+  },
+  "characterID": "1009392",
+  "name": "La Nuit"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c23e"
+  },
+  "characterID": "1009485",
+  "name": "Orphan"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c23f"
+  },
+  "characterID": "1009498",
+  "name": "Plazm"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c240"
+  },
+  "characterID": "1009681",
+  "name": "U-Go Girl"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c241"
+  },
+  "characterID": "1010328",
+  "name": "Tomorrow Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c242"
+  },
+  "characterID": "1009502",
+  "name": "Pretty Boy"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c243"
+  },
+  "characterID": "1009600",
+  "name": "Skullbuster (Cylla Markham)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c244"
+  },
+  "characterID": "1009254",
+  "name": "Crusher Hogan"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c245"
+  },
+  "characterID": "1010871",
+  "name": "Micromax"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c246"
+  },
+  "characterID": "1011310",
+  "name": "Justin Hammer"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c247"
+  },
+  "characterID": "1009151",
+  "name": "Amiko"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c248"
+  },
+  "characterID": "1009401",
+  "name": "Lifeguard"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c249"
+  },
+  "characterID": "1009602",
+  "name": "Slipstream"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c24a"
+  },
+  "characterID": "1009201",
+  "name": "Blok"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c24b"
+  },
+  "characterID": "1009460",
+  "name": "Mr. Fixit"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c24c"
+  },
+  "characterID": "1010841",
+  "name": "Zaran"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c24d"
+  },
+  "characterID": "1011098",
+  "name": "Genis-Vell"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c24e"
+  },
+  "characterID": "1014991",
+  "name": "Crusher Hogan (Ultimate)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c24f"
+  },
+  "characterID": "1011362",
+  "name": "Cottonmouth"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c250"
+  },
+  "characterID": "1009238",
+  "name": "Chronomancer"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c251"
+  },
+  "characterID": "1010769",
+  "name": "Rocket Racer"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c252"
+  },
+  "characterID": "1012513",
+  "name": "Gargoyle (Yuri Topolov)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c253"
+  },
+  "characterID": "1009637",
+  "name": "Sunset Bain"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c254"
+  },
+  "characterID": "1009640",
+  "name": "Switch"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c255"
+  },
+  "characterID": "1009647",
+  "name": "Tarot"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c256"
+  },
+  "characterID": "1009388",
+  "name": "King Bedlam"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c257"
+  },
+  "characterID": "1009688",
+  "name": "Carmella Unuscione"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c258"
+  },
+  "characterID": "1010343",
+  "name": "Human Cannonball"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c259"
+  },
+  "characterID": "1009741",
+  "name": "Zombie (Simon Garth)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c25a"
+  },
+  "characterID": "1009623",
+  "name": "Morgan Stark"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c25b"
+  },
+  "characterID": "1011091",
+  "name": "Hannibal King"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c25c"
+  },
+  "characterID": "1009203",
+  "name": "Bloodscream"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c25d"
+  },
+  "characterID": "1011004",
+  "name": "M.O.D.A.M."
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c25e"
+  },
+  "characterID": "1009569",
+  "name": "Senator Kelly"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c25f"
+  },
+  "characterID": "1009481",
+  "name": "Ogun"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c260"
+  },
+  "characterID": "1010874",
+  "name": "Slyde"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c261"
+  },
+  "characterID": "1010930",
+  "name": "Hobgoblin (Jason Macendale)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c262"
+  },
+  "characterID": "1011319",
+  "name": "Ken Ellis"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c263"
+  },
+  "characterID": "1009226",
+  "name": "Cargill"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c264"
+  },
+  "characterID": "1014985",
+  "name": "Green Goblin (Barry Norman Osborn)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c265"
+  },
+  "characterID": "1009528",
+  "name": "Randall"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c266"
+  },
+  "characterID": "1009307",
+  "name": "Force Works"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c267"
+  },
+  "characterID": "1010995",
+  "name": "Wolfsbane (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c268"
+  },
+  "characterID": "1009457",
+  "name": "Mother Askani"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c269"
+  },
+  "characterID": "1009341",
+  "name": "Hemingway"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c26a"
+  },
+  "characterID": "1009455",
+  "name": "Morg"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c26b"
+  },
+  "characterID": "1011342",
+  "name": "Vance Astro"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c26c"
+  },
+  "characterID": "1010936",
+  "name": "Jubilee (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c26d"
+  },
+  "characterID": "1010973",
+  "name": "Shadow King (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c26e"
+  },
+  "characterID": "1010953",
+  "name": "Mystique (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c26f"
+  },
+  "characterID": "1011341",
+  "name": "Starhawk (Stakar Ogord)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c270"
+  },
+  "characterID": "1010912",
+  "name": "Callisto (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c271"
+  },
+  "characterID": "1009691",
+  "name": "Vengeance (Michael Badilino)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c272"
+  },
+  "characterID": "1009566",
+  "name": "Scream (Donna Diego)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c273"
+  },
+  "characterID": "1010987",
+  "name": "Unus (Age of Apocalypse)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c274"
+  },
+  "characterID": "1011021",
+  "name": "Phalanx"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c275"
+  },
+  "characterID": "1011008",
+  "name": "Morlocks"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c276"
+  },
+  "characterID": "1014063",
+  "name": "Night Thrasher (Dwayne Taylor)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c277"
+  },
+  "characterID": "1009582",
+  "name": "Shinobi Shaw"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c278"
+  },
+  "characterID": "1010848",
+  "name": "Silhouette"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c279"
+  },
+  "characterID": "1011071",
+  "name": "Demogoblin"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c27a"
+  },
+  "characterID": "1011361",
+  "name": "American Eagle (Jason Strongbow)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c27b"
+  },
+  "characterID": "1009646",
+  "name": "Talisman (Elizabeth Twoyoungmen)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c27c"
+  },
+  "characterID": "1011150",
+  "name": "Paibok"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c27d"
+  },
+  "characterID": "1011141",
+  "name": "Cerise"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c27e"
+  },
+  "characterID": "1011330",
+  "name": "Revanche"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c27f"
+  },
+  "characterID": "1009678",
+  "name": "Tusk"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c280"
+  },
+  "characterID": "1009248",
+  "name": "Fabian Cortez"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c281"
+  },
+  "characterID": "1017109",
+  "name": "Black Widow/Natasha Romanoff (MAA)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c282"
+  },
+  "characterID": "1011034",
+  "name": "Terror"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c283"
+  },
+  "characterID": "1009510",
+  "name": "PsyNapse"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c284"
+  },
+  "characterID": "1009575",
+  "name": "Shalla-bal"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c285"
+  },
+  "characterID": "1010331",
+  "name": "Monster Badoon"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c286"
+  },
+  "characterID": "1011134",
+  "name": "Microchip"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c287"
+  },
+  "characterID": "1011073",
+  "name": "Bloodaxe"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c288"
+  },
+  "characterID": "1010928",
+  "name": "Green Goblin (Harry Osborn)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c289"
+  },
+  "characterID": "1009218",
+  "name": "Calypso"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c28a"
+  },
+  "characterID": "1010977",
+  "name": "Lieutenant Marcus Stone"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c28b"
+  },
+  "characterID": "1010372",
+  "name": "Warhawk (Mitchell Tanner)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c28c"
+  },
+  "characterID": "1009635",
+  "name": "Sumo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c28d"
+  },
+  "characterID": "1009586",
+  "name": "Shotgun"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c28e"
+  },
+  "characterID": "1009335",
+  "name": "Felicia Hardy"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c28f"
+  },
+  "characterID": "1010949",
+  "name": "Moon Knight (House of M)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c290"
+  },
+  "characterID": "1011306",
+  "name": "Dargo Ktor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c291"
+  },
+  "characterID": "1011159",
+  "name": "Stellaris"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c292"
+  },
+  "characterID": "1009178",
+  "name": "Beef"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c293"
+  },
+  "characterID": "1009373",
+  "name": "Jetstream"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c294"
+  },
+  "characterID": "1010859",
+  "name": "Black Crow"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c295"
+  },
+  "characterID": "1010356",
+  "name": "Black Queen"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c296"
+  },
+  "characterID": "1010824",
+  "name": "Shooting Star"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c297"
+  },
+  "characterID": "1011077",
+  "name": "Ikaris"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c298"
+  },
+  "characterID": "1011230",
+  "name": "Scrambler"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c299"
+  },
+  "characterID": "1011281",
+  "name": "Wolfpack"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c29a"
+  },
+  "characterID": "1011315",
+  "name": "U-Foes"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c29b"
+  },
+  "characterID": "1010957",
+  "name": "Orphan-Maker"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c29c"
+  },
+  "characterID": "1010668",
+  "name": "Warren Worthington III"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c29d"
+  },
+  "characterID": "1009642",
+  "name": "Sym"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c29e"
+  },
+  "characterID": "1011205",
+  "name": "Madripoor"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c29f"
+  },
+  "characterID": "1010858",
+  "name": "Shockwave"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2a0"
+  },
+  "characterID": "1009230",
+  "name": "Catseye"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2a1"
+  },
+  "characterID": "1009549",
+  "name": "Roulette"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2a2"
+  },
+  "characterID": "1011349",
+  "name": "Blackout"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2a3"
+  },
+  "characterID": "1010368",
+  "name": "Dreadnoughts"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2a4"
+  },
+  "characterID": "1010816",
+  "name": "Hate-Monger (Adolf Hitler)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2a5"
+  },
+  "characterID": "1009668",
+  "name": "Thunderbolt (Bill Carver)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2a6"
+  },
+  "characterID": "1010355",
+  "name": "Elements of Doom"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2a7"
+  },
+  "characterID": "1011228",
+  "name": "Outlaw Kid"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2a8"
+  },
+  "characterID": "1009422",
+  "name": "Mandroid"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2a9"
+  },
+  "characterID": "1010902",
+  "name": "Mordo"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2aa"
+  },
+  "characterID": "1009674",
+  "name": "Toad Men"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2ab"
+  },
+  "characterID": "1011286",
+  "name": "Cobalt Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2ac"
+  },
+  "characterID": "1011425",
+  "name": "Whizzer (Stanley Stewart)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2ad"
+  },
+  "characterID": "1010894",
+  "name": "Millie the Model"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2ae"
+  },
+  "characterID": "1011395",
+  "name": "Talon (Fraternity of Raptors)"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2af"
+  },
+  "characterID": "1011196",
+  "name": "Captain Flint"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2b0"
+  },
+  "characterID": "1009397",
+  "name": "Lava-Man"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2b1"
+  },
+  "characterID": "1011113",
+  "name": "Blue Blade"
+},{
+  "_id": {
+    "$oid": "60319e183d1f4b687205c2b2"
+  },
+  "characterID": "1011094",
+  "name": "Xavin"
+}]
